@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-08-25T02:16:24.275Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2017/08/25/javascript2/"/>
+    <id>http://yoursite.com/2017/08/25/javascript2/</id>
+    <published>2017-08-25T13:57:46.530Z</published>
+    <updated>2017-08-25T02:16:24.275Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="자바스크립트-스터디-1"><a href="#자바스크립트-스터디-1" class="headerlink" title="자바스크립트 스터디 #1"></a>자바스크립트 스터디 #1</h2><p>17.08.25일 시작</p>
+<h3 id="학습-순서"><a href="#학습-순서" class="headerlink" title="학습 순서"></a>학습 순서</h3><h4 id="javascript-기본"><a href="#javascript-기본" class="headerlink" title="javascript 기본"></a>javascript 기본</h4><ul>
+<li>함수 / 배열</li>
+<li>정규표현식</li>
+<li>콜백 / 클로저</li>
+<li>상속 / 프로토타입</li>
+<li>Ajax / JSON</li>
+</ul>
+<p><strong>알고리즘</strong> <a href="https://programmers.co.kr/learn" target="_blank" rel="external">프로그래머스</a></p>
+<hr>
+<h4 id="Node-js"><a href="#Node-js" class="headerlink" title="Node.js"></a>Node.js</h4><ul>
+<li>express로 서버 만들기</li>
+<li>heroku 배포</li>
+<li>게시판 만들기</li>
+<li>회원가입 기능 만들기</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;자바스크립트-스터디-1&quot;&gt;&lt;a href=&quot;#자바스크립트-스터디-1&quot; class=&quot;headerlink&quot; title=&quot;자바스크립트 스터디 #1&quot;&gt;&lt;/a&gt;자바스크립트 스터디 #1&lt;/h2&gt;&lt;p&gt;17.08.25일 시작&lt;/p&gt;
+&lt;h3 id=&quot;학습-
+    
+    </summary>
+    
+      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
+    
+    
+      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2017/08/24/javascript1/"/>
+    <id>http://yoursite.com/2017/08/24/javascript1/</id>
+    <published>2017-08-24T09:28:34.814Z</published>
+    <updated>2017-08-25T02:16:24.275Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="자바스크립트-스터디-1"><a href="#자바스크립트-스터디-1" class="headerlink" title="자바스크립트 스터디 #1"></a>자바스크립트 스터디 #1</h2><p>17.08.25일 시작</p>
+<h3 id="학습-순서"><a href="#학습-순서" class="headerlink" title="학습 순서"></a>학습 순서</h3><h4 id="javascript-기본"><a href="#javascript-기본" class="headerlink" title="javascript 기본"></a>javascript 기본</h4><ul>
+<li>함수 / 배열</li>
+<li>정규표현식</li>
+<li>콜백 / 클로저</li>
+<li>상속 / 프로토타입</li>
+<li>Ajax / JSON</li>
+</ul>
+<p><strong>알고리즘</strong> <a href="https://programmers.co.kr/learn" target="_blank" rel="external">프로그래머스</a></p>
+<hr>
+<h4 id="Node-js"><a href="#Node-js" class="headerlink" title="Node.js"></a>Node.js</h4><ul>
+<li>express로 서버 만들기</li>
+<li>heroku 배포</li>
+<li>게시판 만들기</li>
+<li>회원가입 기능 만들기</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;자바스크립트-스터디-1&quot;&gt;&lt;a href=&quot;#자바스크립트-스터디-1&quot; class=&quot;headerlink&quot; title=&quot;자바스크립트 스터디 #1&quot;&gt;&lt;/a&gt;자바스크립트 스터디 #1&lt;/h2&gt;&lt;p&gt;17.08.25일 시작&lt;/p&gt;
+&lt;h3 id=&quot;학습-
+    
+    </summary>
+    
+      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
+    
+    
+      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
+    
+  </entry>
+  
+</feed>
