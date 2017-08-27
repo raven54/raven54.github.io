@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-26T03:36:16.457Z</updated>
+  <updated>2017-08-27T14:30:19.184Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,17 +16,27 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>트리만들기</title>
-    <link href="http://yoursite.com/2017/08/25/javascript2/"/>
-    <id>http://yoursite.com/2017/08/25/javascript2/</id>
-    <published>2017-08-25T13:57:46.530Z</published>
-    <updated>2017-08-26T03:36:16.457Z</updated>
+    <title>자바스크립트 소수찾기</title>
+    <link href="http://yoursite.com/2017/08/27/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0/"/>
+    <id>http://yoursite.com/2017/08/27/소수찾기/</id>
+    <published>2017-08-27T14:22:05.626Z</published>
+    <updated>2017-08-27T14:30:19.184Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="알고리즘"><a href="#알고리즘" class="headerlink" title="알고리즘"></a>알고리즘</h2>]]></content>
+    <content type="html"><![CDATA[<h4 id="Level-2-자바스크립트-소수찾기"><a href="#Level-2-자바스크립트-소수찾기" class="headerlink" title="Level 2. 자바스크립트 소수찾기"></a>Level 2. 자바스크립트 소수찾기</h4><blockquote>
+<h4 id="문제"><a href="#문제" class="headerlink" title="문제"></a><strong>문제</strong></h4><p><a href="https://ko.wikipedia.org/wiki/%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4" target="_blank" rel="external">에라토스테네스의 체</a>를 참고하여 숫자 1000까지의 소수를 모두 찾고 합하여 출력해보자.</p>
+</blockquote>
+<a id="more"></a>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div></pre></td><td class="code"><pre><div class="line">function prime(n)&#123;</div><div class="line"></div><div class="line">var result = &apos;&apos;;</div><div class="line">var a = 0;</div><div class="line">    for (var i = 2; i &lt;= n; i++ )&#123;</div><div class="line">      result = true;</div><div class="line">      for(var j = 2; j &lt; i; j++)&#123;</div><div class="line">         if(i % j == 0)&#123;</div><div class="line">            result = false;</div><div class="line">            break;</div><div class="line">            &#125;</div><div class="line">        &#125;</div><div class="line">      if ( result ) &#123;</div><div class="line">      a += i;</div><div class="line">      &#125;</div><div class="line">    &#125;</div><div class="line">   return a;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<blockquote>
+<h4 id="풀이"><a href="#풀이" class="headerlink" title="풀이"></a><strong>풀이</strong></h4></blockquote>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">prime(1000);</div><div class="line">76127</div></pre></td></tr></table></figure>
+]]></content>
     
     <summary type="html">
     
-      &lt;h2 id=&quot;알고리즘&quot;&gt;&lt;a href=&quot;#알고리즘&quot; class=&quot;headerlink&quot; title=&quot;알고리즘&quot;&gt;&lt;/a&gt;알고리즘&lt;/h2&gt;
+      &lt;h4 id=&quot;Level-2-자바스크립트-소수찾기&quot;&gt;&lt;a href=&quot;#Level-2-자바스크립트-소수찾기&quot; class=&quot;headerlink&quot; title=&quot;Level 2. 자바스크립트 소수찾기&quot;&gt;&lt;/a&gt;Level 2. 자바스크립트 소수찾기&lt;/h4&gt;&lt;blockquote&gt;
+&lt;h4 id=&quot;문제&quot;&gt;&lt;a href=&quot;#문제&quot; class=&quot;headerlink&quot; title=&quot;문제&quot;&gt;&lt;/a&gt;&lt;strong&gt;문제&lt;/strong&gt;&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://ko.wikipedia.org/wiki/%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;에라토스테네스의 체&lt;/a&gt;를 참고하여 숫자 1000까지의 소수를 모두 찾고 합하여 출력해보자.&lt;/p&gt;
+&lt;/blockquote&gt;
     
     </summary>
     
@@ -38,14 +48,37 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2017/08/24/javascript1/"/>
-    <id>http://yoursite.com/2017/08/24/javascript1/</id>
-    <published>2017-08-24T09:28:34.814Z</published>
-    <updated>2017-08-25T02:16:24.275Z</updated>
+    <title>자바스크립트 트리만들기</title>
+    <link href="http://yoursite.com/2017/08/25/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%ED%8A%B8%EB%A6%AC%20%EB%A7%8C%EB%93%A4%EA%B8%B0/"/>
+    <id>http://yoursite.com/2017/08/25/자바스크립트 트리 만들기/</id>
+    <published>2017-08-25T13:57:46.530Z</published>
+    <updated>2017-08-27T14:21:07.919Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="자바스크립트-스터디-1"><a href="#자바스크립트-스터디-1" class="headerlink" title="자바스크립트 스터디 #1"></a>자바스크립트 스터디 #1</h2><p>17.08.25일 시작</p>
-<h3 id="학습-순서"><a href="#학습-순서" class="headerlink" title="학습 순서"></a>학습 순서</h3><h4 id="javascript-기본"><a href="#javascript-기본" class="headerlink" title="javascript 기본"></a>javascript 기본</h4><ul>
+    <content type="html"><![CDATA[<h4 id="Level-1-자바스크립트-트리-만들기"><a href="#Level-1-자바스크립트-트리-만들기" class="headerlink" title="Level 1. 자바스크립트 트리 만들기"></a>Level 1. 자바스크립트 트리 만들기</h4><h4 id="문제"><a href="#문제" class="headerlink" title="문제"></a>문제</h4><p>for문을 사용하여 크리스마스 트리 만들기<br><a id="more"></a><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div></pre></td><td class="code"><pre><div class="line">function tree(n)&#123;</div><div class="line">   var result = &quot;&quot;;</div><div class="line">   result += &quot;\n&quot;;</div><div class="line">   for (var i = 1; i &lt; n ; i++)&#123;</div><div class="line">      for ( var j = n ; j  &gt;= i - 1 ; j--) &#123;</div><div class="line">         result += &quot; &quot;;</div><div class="line">      &#125;</div><div class="line">      for(var k = 0; k &lt; 2 * i - 1; k++)&#123;</div><div class="line">           result += &quot;*&quot;;</div><div class="line">        &#125;</div><div class="line">    result += &quot;\n&quot;;</div><div class="line">&#125;</div><div class="line">return result;</div><div class="line">&#125;</div><div class="line">tree(10);</div></pre></td></tr></table></figure></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;Level-1-자바스크립트-트리-만들기&quot;&gt;&lt;a href=&quot;#Level-1-자바스크립트-트리-만들기&quot; class=&quot;headerlink&quot; title=&quot;Level 1. 자바스크립트 트리 만들기&quot;&gt;&lt;/a&gt;Level 1. 자바스크립트 트리 만들기&lt;/h4&gt;&lt;h4 id=&quot;문제&quot;&gt;&lt;a href=&quot;#문제&quot; class=&quot;headerlink&quot; title=&quot;문제&quot;&gt;&lt;/a&gt;문제&lt;/h4&gt;&lt;p&gt;for문을 사용하여 크리스마스 트리 만들기&lt;br&gt;
+    
+    </summary>
+    
+      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
+    
+    
+      <category term="알고리즘" scheme="http://yoursite.com/tags/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>자바스크립트 학습계획</title>
+    <link href="http://yoursite.com/2017/08/24/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%ED%95%99%EC%8A%B5%EA%B3%84%ED%9A%8D/"/>
+    <id>http://yoursite.com/2017/08/24/자바스크립트 학습계획/</id>
+    <published>2017-08-24T09:28:34.814Z</published>
+    <updated>2017-08-27T14:17:57.110Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="자바스크립트-스터디-1"><a href="#자바스크립트-스터디-1" class="headerlink" title="자바스크립트 스터디 #1"></a>자바스크립트 스터디 #1</h4><p>17.08.25일 시작<br><a id="more"></a></p>
+<h4 id="학습-순서"><a href="#학습-순서" class="headerlink" title="학습 순서"></a>학습 순서</h4><h4 id="javascript-기본"><a href="#javascript-기본" class="headerlink" title="javascript 기본"></a>javascript 기본</h4><ul>
 <li>함수 / 배열</li>
 <li>정규표현식</li>
 <li>콜백 / 클로저</li>
@@ -64,8 +97,7 @@
     
     <summary type="html">
     
-      &lt;h2 id=&quot;자바스크립트-스터디-1&quot;&gt;&lt;a href=&quot;#자바스크립트-스터디-1&quot; class=&quot;headerlink&quot; title=&quot;자바스크립트 스터디 #1&quot;&gt;&lt;/a&gt;자바스크립트 스터디 #1&lt;/h2&gt;&lt;p&gt;17.08.25일 시작&lt;/p&gt;
-&lt;h3 id=&quot;학습-
+      &lt;h4 id=&quot;자바스크립트-스터디-1&quot;&gt;&lt;a href=&quot;#자바스크립트-스터디-1&quot; class=&quot;headerlink&quot; title=&quot;자바스크립트 스터디 #1&quot;&gt;&lt;/a&gt;자바스크립트 스터디 #1&lt;/h4&gt;&lt;p&gt;17.08.25일 시작&lt;br&gt;
     
     </summary>
     
