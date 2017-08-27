@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-27T14:30:19.184Z</updated>
+  <updated>2017-08-27T14:44:00.293Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,50 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>170827-TIL</title>
+    <link href="http://yoursite.com/2017/08/27/170827-TIL/"/>
+    <id>http://yoursite.com/2017/08/27/170827-TIL/</id>
+    <published>2017-08-27T14:36:06.396Z</published>
+    <updated>2017-08-27T14:44:00.293Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
+<li>초보자를 위한 Github 사용법 일독</li>
+<li>Hexo 테마 사용법</li>
+<li>생활코딩 강의 : <a href="https://opentutorials.org/course/743/6508" target="_blank" rel="external">값으로서의 함수와 콜백</a> 2/4</li>
+</ul>
+<a id="more"></a>
+<h4 id="내일-할-일"><a href="#내일-할-일" class="headerlink" title="내일 할 일"></a>내일 할 일</h4><ul>
+<li>알고리즘 : 소수찾기 part2 - 배열을 사용하여 소수찾기 알고리즘 작성</li>
+<li>생활코딩 배열 파트 다시 듣기</li>
+<li><a href="https://www.youtube.com/watch?v=RaXN4qmW96Q&amp;list=PLnkwNkWVo5pVxyGW_xqGgTJ_PBlTzXcm8" target="_blank" rel="external">한 놈만 패는 자바스크립트</a> 2교시 다시듣기</li>
+<li>배열 모르는 부분 정리 / <a href="http://tryhelloworld.co.kr" target="_blank" rel="external">알고리즘</a> Level.1 문제 1개 풀기</li>
+<li>깃허브페이지 디자인 작업 : 로고 및 타이틀</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;초보자를 위한 Github 사용법 일독&lt;/li&gt;
+&lt;li&gt;Hexo 테마 사용법&lt;/li&gt;
+&lt;li&gt;생활코딩 강의 : &lt;a href=&quot;https://opentutorials.org/course/743/6508&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;값으로서의 함수와 콜백&lt;/a&gt; 2/4&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
+    
+    
+      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
+    
+  </entry>
+  
+  <entry>
     <title>자바스크립트 소수찾기</title>
     <link href="http://yoursite.com/2017/08/27/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0/"/>
     <id>http://yoursite.com/2017/08/27/소수찾기/</id>
     <published>2017-08-27T14:22:05.626Z</published>
-    <updated>2017-08-27T14:30:19.184Z</updated>
+    <updated>2017-08-27T14:35:39.164Z</updated>
     
     <content type="html"><![CDATA[<h4 id="Level-2-자바스크립트-소수찾기"><a href="#Level-2-자바스크립트-소수찾기" class="headerlink" title="Level 2. 자바스크립트 소수찾기"></a>Level 2. 자바스크립트 소수찾기</h4><blockquote>
 <h4 id="문제"><a href="#문제" class="headerlink" title="문제"></a><strong>문제</strong></h4><p><a href="https://ko.wikipedia.org/wiki/%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4" target="_blank" rel="external">에라토스테네스의 체</a>를 참고하여 숫자 1000까지의 소수를 모두 찾고 합하여 출력해보자.</p>
@@ -40,7 +79,7 @@
     
     </summary>
     
-      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
+      <category term="알고리즘" scheme="http://yoursite.com/categories/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/"/>
     
     
       <category term="알고리즘" scheme="http://yoursite.com/tags/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/"/>
@@ -52,7 +91,7 @@
     <link href="http://yoursite.com/2017/08/25/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%ED%8A%B8%EB%A6%AC%20%EB%A7%8C%EB%93%A4%EA%B8%B0/"/>
     <id>http://yoursite.com/2017/08/25/자바스크립트 트리 만들기/</id>
     <published>2017-08-25T13:57:46.530Z</published>
-    <updated>2017-08-27T14:21:07.919Z</updated>
+    <updated>2017-08-27T14:35:37.034Z</updated>
     
     <content type="html"><![CDATA[<h4 id="Level-1-자바스크립트-트리-만들기"><a href="#Level-1-자바스크립트-트리-만들기" class="headerlink" title="Level 1. 자바스크립트 트리 만들기"></a>Level 1. 자바스크립트 트리 만들기</h4><h4 id="문제"><a href="#문제" class="headerlink" title="문제"></a>문제</h4><p>for문을 사용하여 크리스마스 트리 만들기<br><a id="more"></a><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div></pre></td><td class="code"><pre><div class="line">function tree(n)&#123;</div><div class="line">   var result = &quot;&quot;;</div><div class="line">   result += &quot;\n&quot;;</div><div class="line">   for (var i = 1; i &lt; n ; i++)&#123;</div><div class="line">      for ( var j = n ; j  &gt;= i - 1 ; j--) &#123;</div><div class="line">         result += &quot; &quot;;</div><div class="line">      &#125;</div><div class="line">      for(var k = 0; k &lt; 2 * i - 1; k++)&#123;</div><div class="line">           result += &quot;*&quot;;</div><div class="line">        &#125;</div><div class="line">    result += &quot;\n&quot;;</div><div class="line">&#125;</div><div class="line">return result;</div><div class="line">&#125;</div><div class="line">tree(10);</div></pre></td></tr></table></figure></p>
 ]]></content>
@@ -63,7 +102,7 @@
     
     </summary>
     
-      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
+      <category term="알고리즘" scheme="http://yoursite.com/categories/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/"/>
     
     
       <category term="알고리즘" scheme="http://yoursite.com/tags/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/"/>
@@ -75,7 +114,7 @@
     <link href="http://yoursite.com/2017/08/24/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%ED%95%99%EC%8A%B5%EA%B3%84%ED%9A%8D/"/>
     <id>http://yoursite.com/2017/08/24/자바스크립트 학습계획/</id>
     <published>2017-08-24T09:28:34.814Z</published>
-    <updated>2017-08-27T14:17:57.110Z</updated>
+    <updated>2017-08-27T14:35:29.258Z</updated>
     
     <content type="html"><![CDATA[<h4 id="자바스크립트-스터디-1"><a href="#자바스크립트-스터디-1" class="headerlink" title="자바스크립트 스터디 #1"></a>자바스크립트 스터디 #1</h4><p>17.08.25일 시작<br><a id="more"></a></p>
 <h4 id="학습-순서"><a href="#학습-순서" class="headerlink" title="학습 순서"></a>학습 순서</h4><h4 id="javascript-기본"><a href="#javascript-기본" class="headerlink" title="javascript 기본"></a>javascript 기본</h4><ul>
@@ -101,7 +140,7 @@
     
     </summary>
     
-      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
+      <category term="알고리즘" scheme="http://yoursite.com/categories/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/"/>
     
     
       <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
