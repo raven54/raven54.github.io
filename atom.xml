@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-28T14:55:18.917Z</updated>
+  <updated>2017-08-29T13:59:37.644Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,52 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>170829-TIL</title>
+    <link href="http://yoursite.com/2017/08/29/170829-TIL/"/>
+    <id>http://yoursite.com/2017/08/29/170829-TIL/</id>
+    <published>2017-08-29T13:51:03.204Z</published>
+    <updated>2017-08-29T13:59:37.644Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
+<li style="list-style: none"><input type="checkbox"> 알고리즘 Level.1 문제 2개 풀기</li>
+<li style="list-style: none"><input type="checkbox" checked> 생활코딩 자바스크립트 입문 강의 2개 듣기 : 클로저 / 값으로서의 함수의 콜백</li>
+<li style="list-style: none"><input type="checkbox" checked> <a href="https://www.youtube.com/watch?v=RaXN4qmW96Q&amp;list=PLnkwNkWVo5pVxyGW_xqGgTJ_PBlTzXcm8" target="_blank" rel="external">한 놈만 패는 자바스크립트</a> 5교시 듣기</li>
+<li style="list-style: none"><input type="checkbox" checked> 소수찾기 part2 다시 풀기</li>
+<li style="list-style: none"><input type="checkbox" checked> 코드카데미 javascript 다시 시작 / 코스 하나 끝내기<a id="more"></a></li>
+<li>자바스크립트 인사이드 책 구매</li>
+<li>Front-end 개발자를 위한 Javascript 배열부분 복습</li>
+</ul>
+<h4 id="느낀점"><a href="#느낀점" class="headerlink" title="느낀점"></a>느낀점</h4><ul>
+<li>배열 연습을 열심히 해야겠다.</li>
+<li>소수찾기 part2는 내일 한번 더 풀고 외울 정도로 복습하기, 다른 방식으로 풀어보기</li>
+<li>코드카데미가 많은 도움이 됨. 영어공부도 게을리하면 안되겠다 휴.</li>
+</ul>
+<h4 id="내일-할-일"><a href="#내일-할-일" class="headerlink" title="내일 할 일"></a>내일 할 일</h4><ul>
+<li>자바스크립트 인사이드 훑어보기</li>
+<li>Front-end 개발자를 위한 Javascript 배열 - 객체</li>
+<li>MEAN stack 스터디 3차</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
+&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot;&gt; 알고리즘 Level.1 문제 2개 풀기&lt;/li&gt;
+&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt; 생활코딩 자바스크립트 입문 강의 2개 듣기 : 클로저 / 값으로서의 함수의 콜백&lt;/li&gt;
+&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=RaXN4qmW96Q&amp;amp;list=PLnkwNkWVo5pVxyGW_xqGgTJ_PBlTzXcm8&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;한 놈만 패는 자바스크립트&lt;/a&gt; 5교시 듣기&lt;/li&gt;
+&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt; 소수찾기 part2 다시 풀기&lt;/li&gt;
+&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt; 코드카데미 javascript 다시 시작 / 코스 하나 끝내기
+    
+    </summary>
+    
+      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
+    
+    
+      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
+    
+  </entry>
   
   <entry>
     <title>자바스크립트 약수의 합</title>
