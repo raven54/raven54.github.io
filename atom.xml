@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-02T14:00:43.833Z</updated>
+  <updated>2017-09-03T14:07:51.566Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,54 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>170903-TIL</title>
+    <link href="http://yoursite.com/2017/09/03/170903-TIL/"/>
+    <id>http://yoursite.com/2017/09/03/170903-TIL/</id>
+    <published>2017-09-03T14:07:02.734Z</published>
+    <updated>2017-09-03T14:07:51.566Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
+<li style="list-style: none"><input type="checkbox" checked> 프로젝트 메인페이지 CSS -&gt; SASS로 변경 및 클래스 정리</li>
+<li style="list-style: none"><input type="checkbox" checked> 에라토스테네스의 체(배열) 50% 완료</li>
+<li style="list-style: none"><input type="checkbox" checked> 알고리즘 Level.1 문제 풀기 : <a href="https://programmers.co.kr/learn/challenge_codes/104" target="_blank" rel="external">서울에서 김서방찾기</a></li>
+<li style="list-style: none"><input type="checkbox"> 스터디 1번 / 2번 예제 실습<a id="more"></a>
+</li>
+</ul>
+<h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><ul>
+<li>알고리즘 어렵다…</li>
+<li>예제도 어렵다…</li>
+<li>한 번 더 해보고 안되면 내일 다시 도전하는 것으로..</li>
+</ul>
+<h4 id="내일-할-일"><a href="#내일-할-일" class="headerlink" title="내일 할 일"></a>내일 할 일</h4><ul>
+<li>예제 집중 공부</li>
+<li>3차 스터티 파트 모르는 부분 정리</li>
+<li>배열 / 객체 모르는 부분 정리</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
+&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt; 프로젝트 메인페이지 CSS -&amp;gt; SASS로 변경 및 클래스 정리&lt;/li&gt;
+&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt; 에라토스테네스의 체(배열) 50% 완료&lt;/li&gt;
+&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt; 알고리즘 Level.1 문제 풀기 : &lt;a href=&quot;https://programmers.co.kr/learn/challenge_codes/104&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;서울에서 김서방찾기&lt;/a&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot;&gt; 스터디 1번 / 2번 예제 실습
+    
+    </summary>
+    
+      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
+    
+    
+      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
+    
+  </entry>
+  
+  <entry>
     <title>170902-TIL</title>
     <link href="http://yoursite.com/2017/09/02/170902-TIL/"/>
     <id>http://yoursite.com/2017/09/02/170902-TIL/</id>
     <published>2017-09-02T13:57:07.398Z</published>
-    <updated>2017-09-02T14:00:43.833Z</updated>
+    <updated>2017-09-03T14:07:09.599Z</updated>
     
     <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
 <li style="list-style: none"><input type="checkbox"> 스터디 1번/2번 예제 실습</li>
