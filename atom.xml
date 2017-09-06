@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-05T14:44:16.327Z</updated>
+  <updated>2017-09-06T14:13:43.530Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,39 +16,109 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="http://yoursite.com/2017/09/05/part3exam1/"/>
-    <id>http://yoursite.com/2017/09/05/part3exam1/</id>
-    <published>2017-09-05T14:43:31.511Z</published>
-    <updated>2017-09-05T14:44:16.327Z</updated>
+    <title>170906-TIL</title>
+    <link href="http://yoursite.com/2017/09/06/170906-TIL/"/>
+    <id>http://yoursite.com/2017/09/06/170906-TIL/</id>
+    <published>2017-09-06T14:12:33.538Z</published>
+    <updated>2017-09-06T14:13:43.530Z</updated>
     
-    <content type="html"><![CDATA[<p>실습문제 [1-1]<br>함수호출 - 제곱함수</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div></pre></td><td class="code"><pre><div class="line">function multiply(a)&#123;</div><div class="line">	return a * a;</div><div class="line">&#125;</div><div class="line"></div><div class="line">var firstTask = &#123;</div><div class="line">	value : 0,</div><div class="line">    increse : function(n)&#123;</div><div class="line">		this.value = multiply(n);</div><div class="line">	&#125;</div><div class="line">&#125;;</div><div class="line"></div><div class="line">firstTask.incerese(5);</div><div class="line">console.log(firstTask.value); // 25출력</div></pre></td></tr></table></figure>
-<p>실습문제 [1-2]<br>함수호출 - 절댓값 함수</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div></pre></td><td class="code"><pre><div class="line">function absolute(n)&#123;</div><div class="line">	return Math.abs(n);</div><div class="line">&#125;</div><div class="line"></div><div class="line">var secondTask = &#123;</div><div class="line">	value : 0,</div><div class="line">	absol : function(n)&#123;</div><div class="line">		this.value = absolute(n);</div><div class="line">	&#125;</div><div class="line">&#125;;</div><div class="line"></div><div class="line">secondTask.absol(5);</div><div class="line">console.log(secondTask.value);</div></pre></td></tr></table></figure>
-<p>실습문제 [2]<br>인수배열 - 출석부 만들기<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line">var student = function(name)&#123;</div><div class="line">	result = &apos;&apos;;</div><div class="line">	for(var i = 0; i&lt; arguments.length; i++)&#123;</div><div class="line">			result = arguments.length + &apos;번&apos; + &apos; 이름 :&apos;+ name;</div><div class="line">			return result;</div><div class="line">	&#125;</div><div class="line">	return student;</div><div class="line">&#125;</div></pre></td></tr></table></figure></p>
-<p>실습문제 [3]<br>생성자함수 - 출석부만들기</p>
-<p>학생들의 이름과 학번을 입력 받아서 학생들을 객체로 관리<br>예상치 못한 입력이 들어왔을 때 예외 처리<br>이름에 ’-1’을 입력받으면 입력을 종료<br>각각의 학생들을 생성자 함수로 구현<br>추가 구현<br>각 학생들을 연결 리스트(linked list) 자료구조를 이용하여 관리<br>Array 객체의 sort 메소드와 apply 메소드를 이용하여 정렬*</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div></pre></td><td class="code"><pre><div class="line">var student = function(name,number)&#123;</div><div class="line">			return &quot;이름 :&quot; + name + &quot; 학번 :&quot; + number;</div><div class="line">&#125;</div><div class="line"></div><div class="line">var list = &#123;</div><div class="line">    value : 0,</div><div class="line">	person : function(name,number)&#123;</div><div class="line">		this.value = student(name,number);</div><div class="line">	&#125;</div><div class="line">&#125;;</div></pre></td></tr></table></figure>
-<p>작성중.</p>
+    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
+<li style="list-style: none"><input type="checkbox" checked> 4차 스터디<a id="more"></a>
+</li>
+</ul>
+<h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><ul>
+<li>한가지에 집중할 것</li>
+</ul>
+<h4 id="내일-할-일"><a href="#내일-할-일" class="headerlink" title="내일 할 일"></a>내일 할 일</h4><ul>
+<li>예제 Node api 보기</li>
+</ul>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;실습문제 [1-1]&lt;br&gt;함수호출 - 제곱함수&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;lin
+      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
+&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt; 4차 스터디
     
     </summary>
     
+      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
+    
+    
+      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
     
   </entry>
   
   <entry>
-    <title>배열과 객체</title>
+    <title>170905-TIL</title>
+    <link href="http://yoursite.com/2017/09/06/170905-TIL/"/>
+    <id>http://yoursite.com/2017/09/06/170905-TIL/</id>
+    <published>2017-09-06T14:10:34.462Z</published>
+    <updated>2017-09-06T14:12:19.469Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
+<li style="list-style: none"><input type="checkbox" checked> 3차 스터디 문제 1,2번 풀기<a id="more"></a>
+</li>
+</ul>
+<h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><ul>
+<li>알고리즘, 로직을 꾸준히 공부해야 할듯.</li>
+<li>실습형 공부 위주로 변경</li>
+</ul>
+<h4 id="내일-할-일"><a href="#내일-할-일" class="headerlink" title="내일 할 일"></a>내일 할 일</h4><ul>
+<li>4차 스터디</li>
+<li>모르는 부분 정리</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
+&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt; 3차 스터디 문제 1,2번 풀기
+    
+    </summary>
+    
+      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
+    
+    
+      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>함수패턴 연습</title>
+    <link href="http://yoursite.com/2017/09/05/part3exam1/"/>
+    <id>http://yoursite.com/2017/09/05/part3exam1/</id>
+    <published>2017-09-05T14:43:31.511Z</published>
+    <updated>2017-09-06T14:17:04.938Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="실습문제-1-1"><a href="#실습문제-1-1" class="headerlink" title="실습문제 [1-1]"></a>실습문제 [1-1]</h4><p>함수호출 - 제곱함수</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div></pre></td><td class="code"><pre><div class="line">function multiply(a)&#123;</div><div class="line">	return a * a;</div><div class="line">&#125;</div><div class="line"></div><div class="line">var firstTask = &#123;</div><div class="line">	value : 0,</div><div class="line">    increse : function(n)&#123;</div><div class="line">		this.value = multiply(n);</div><div class="line">	&#125;</div><div class="line">&#125;;</div><div class="line"></div><div class="line">firstTask.incerese(5);</div><div class="line">console.log(firstTask.value); // 25출력</div></pre></td></tr></table></figure>
+<h4 id="실습문제-1-2"><a href="#실습문제-1-2" class="headerlink" title="실습문제 [1-2]"></a>실습문제 [1-2]</h4><p>함수호출 - 절댓값 함수</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div></pre></td><td class="code"><pre><div class="line">function absolute(n)&#123;</div><div class="line">	return Math.abs(n);</div><div class="line">&#125;</div><div class="line"></div><div class="line">var secondTask = &#123;</div><div class="line">	value : 0,</div><div class="line">	absol : function(n)&#123;</div><div class="line">		this.value = absolute(n);</div><div class="line">	&#125;</div><div class="line">&#125;;</div><div class="line"></div><div class="line">secondTask.absol(5);</div><div class="line">console.log(secondTask.value);</div></pre></td></tr></table></figure>
+<p>실습문제 [2]<br>인수배열 - 출석부 만들기<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line">var student = function(name)&#123;</div><div class="line">	result = &apos;&apos;;</div><div class="line">	for(var i = 0; i&lt; arguments.length; i++)&#123;</div><div class="line">			result = (i+1) + &apos;번&apos; + &apos; 이름 :&apos;+ name;</div><div class="line">			return result;</div><div class="line">	&#125;</div><div class="line">	return student;</div><div class="line">&#125;</div></pre></td></tr></table></figure></p>
+<h4 id="실습문제-3"><a href="#실습문제-3" class="headerlink" title="실습문제 [3]"></a>실습문제 [3]</h4><p>생성자함수 - 출석부만들기</p>
+<p>학생들의 이름과 학번을 입력 받아서 학생들을 객체로 관리<br>예상치 못한 입력이 들어왔을 때 예외 처리<br>이름에 ’-1’을 입력받으면 입력을 종료<br>각각의 학생들을 생성자 함수로 구현<br>추가 구현<br>각 학생들을 연결 리스트(linked list) 자료구조를 이용하여 관리<br>Array 객체의 sort 메소드와 apply 메소드를 이용하여 정렬*</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;실습문제-1-1&quot;&gt;&lt;a href=&quot;#실습문제-1-1&quot; class=&quot;headerlink&quot; title=&quot;실습문제 [1-1]&quot;&gt;&lt;/a&gt;실습문제 [1-1]&lt;/h4&gt;&lt;p&gt;함수호출 - 제곱함수&lt;/p&gt;
+&lt;figure class=&quot;highlight p
+    
+    </summary>
+    
+      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
+    
+    
+      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>함수 패턴</title>
     <link href="http://yoursite.com/2017/09/04/function1/"/>
     <id>http://yoursite.com/2017/09/04/function1/</id>
     <published>2017-09-04T12:55:44.287Z</published>
-    <updated>2017-09-04T12:57:02.575Z</updated>
+    <updated>2017-09-06T14:10:20.484Z</updated>
     
     <content type="html"><![CDATA[<h4 id="Part-함수"><a href="#Part-함수" class="headerlink" title="Part : 함수"></a>Part : 함수</h4><h4 id="함수의-메소드"><a href="#함수의-메소드" class="headerlink" title="함수의 메소드"></a>함수의 메소드</h4><p><strong>예제</strong><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">var obj = &#123;</div><div class="line">    prime : function()&#123; // 메소드</div><div class="line">      console.log(&apos;prime&apos;);</div><div class="line">    &#125;</div><div class="line"></div><div class="line">&#125;</div></pre></td></tr></table></figure></p>
 <h4 id="메소드-호출-패턴"><a href="#메소드-호출-패턴" class="headerlink" title="메소드 호출 패턴"></a>메소드 호출 패턴</h4><ul>
@@ -71,6 +141,32 @@
     
     
       <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>자바스크립트 서울에서 김서방 찾기</title>
+    <link href="http://yoursite.com/2017/09/03/kim/"/>
+    <id>http://yoursite.com/2017/09/03/kim/</id>
+    <published>2017-09-03T14:56:35.252Z</published>
+    <updated>2017-09-06T14:16:06.571Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="Level-1-자바스크립트-서울에서-김서방-찾기"><a href="#Level-1-자바스크립트-서울에서-김서방-찾기" class="headerlink" title="Level 1. 자바스크립트 서울에서 김서방 찾기"></a>Level 1. 자바스크립트 <a href="https://programmers.co.kr/learn/challenge_codes/106" target="_blank" rel="external">서울에서 김서방 찾기</a></h4><blockquote>
+<p><strong>문제</strong><br><br>findKim 함수(메소드)는 String형 배열 seoul을 매개변수로 받습니다.<br>seoul의 element중 “Kim”의 위치 x를 찾아, “김서방은 x에 있다”는 String을 반환하세요.<br>seoul에 “Kim”은 오직 한 번만 나타나며 잘못된 값이 입력되는 경우는 없습니다.</p>
+</blockquote>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div></pre></td><td class="code"><pre><div class="line">function findKim(seoul)&#123;</div><div class="line">  var idx = &apos;&apos;;</div><div class="line"></div><div class="line">  for (var i = 0; i &lt; seoul.length; i++) &#123;</div><div class="line">		if (seoul[i] == &quot;Kim&quot;) &#123;</div><div class="line">			idx = i;</div><div class="line">      break;</div><div class="line">&#125;</div><div class="line">&#125;</div><div class="line">return &quot;김서방은 &quot; + idx + &quot;에 있다&quot;;</div><div class="line">&#125;</div><div class="line"></div><div class="line">// 실행을 위한 테스트코드입니다.</div><div class="line">console.log( findKim([&quot;Queen&quot;, &quot;Tod&quot;, &quot;Kim&quot;]));</div></pre></td></tr></table></figure>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;Level-1-자바스크립트-서울에서-김서방-찾기&quot;&gt;&lt;a href=&quot;#Level-1-자바스크립트-서울에서-김서방-찾기&quot; class=&quot;headerlink&quot; title=&quot;Level 1. 자바스크립트 서울에서 김서방 찾기&quot;&gt;&lt;/a&gt;Level 1
+    
+    </summary>
+    
+      <category term="알고리즘" scheme="http://yoursite.com/categories/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/"/>
+    
+    
+      <category term="알고리즘" scheme="http://yoursite.com/tags/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/"/>
     
   </entry>
   
@@ -509,7 +605,7 @@
     <link href="http://yoursite.com/2017/08/27/primenumber/"/>
     <id>http://yoursite.com/2017/08/27/primenumber/</id>
     <published>2017-08-27T14:22:05.626Z</published>
-    <updated>2017-08-27T14:35:39.164Z</updated>
+    <updated>2017-09-06T14:14:22.664Z</updated>
     
     <content type="html"><![CDATA[<h4 id="Level-2-자바스크립트-소수찾기"><a href="#Level-2-자바스크립트-소수찾기" class="headerlink" title="Level 2. 자바스크립트 소수찾기"></a>Level 2. 자바스크립트 소수찾기</h4><blockquote>
 <h4 id="문제"><a href="#문제" class="headerlink" title="문제"></a><strong>문제</strong></h4><p><a href="https://ko.wikipedia.org/wiki/%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4" target="_blank" rel="external">에라토스테네스의 체</a>를 참고하여 숫자 1000까지의 소수를 모두 찾고 합하여 출력해보자.</p>
@@ -519,6 +615,7 @@
 <blockquote>
 <h4 id="풀이"><a href="#풀이" class="headerlink" title="풀이"></a><strong>풀이</strong></h4></blockquote>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">prime(1000);</div><div class="line">76127</div></pre></td></tr></table></figure>
+<p>배열에 소수 넣기<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div></pre></td><td class="code"><pre><div class="line">function pr(n) &#123;</div><div class="line">	var arr = [];</div><div class="line"></div><div class="line">	for (var i = 2; i &lt; n; i++) &#123;</div><div class="line">		arr[i] = false;</div><div class="line">        for(var j = 2; j &lt; i; j++) &#123;</div><div class="line">			if (i % j == 0) &#123;</div><div class="line">				arr[i] = undefined;</div><div class="line">				break;</div><div class="line">			&#125;</div><div class="line">			else &#123;</div><div class="line">				arr[i] = true;  </div><div class="line">			&#125;</div><div class="line"></div><div class="line">		&#125;   </div><div class="line">    &#125;</div><div class="line">	var arr2 = [];</div><div class="line">	for (var x = 0; x &lt; arr.length; x++)&#123;</div><div class="line">		if(arr[x] == true) &#123;</div><div class="line">    		arr2.push(x);</div><div class="line">		&#125;</div><div class="line">    &#125;</div><div class="line">	console.log(arr2);</div><div class="line">&#125;</div></pre></td></tr></table></figure></p>
 ]]></content>
     
     <summary type="html">
