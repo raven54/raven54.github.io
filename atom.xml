@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-07T14:52:23.796Z</updated>
+  <updated>2017-09-08T12:15:15.560Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,90 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>170908-TIL</title>
+    <link href="http://yoursite.com/2017/09/08/170908-TIL/"/>
+    <id>http://yoursite.com/2017/09/08/170908-TIL/</id>
+    <published>2017-09-08T12:14:38.817Z</published>
+    <updated>2017-09-08T12:15:15.560Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
+<li style="list-style: none"><input type="checkbox" checked> Node.js API 활성화</li>
+<li style="list-style: none"><input type="checkbox" checked> Node.js 정리</li>
+</ul>
+<a id="more"></a>
+<h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><ul>
+<li>궁금했던 호이스팅이 무엇인지 알았다.</li>
+<li>프로토타입, 조금 알겠는데 어렵다. 몇 번 다시 봐야할듯.</li>
+<li>Node.js는 신기하면서 재밌다.</li>
+</ul>
+<h4 id="내일-할-일"><a href="#내일-할-일" class="headerlink" title="내일 할 일"></a>내일 할 일</h4><ul>
+<li>4차스터디 : Node.js 작동원리를 알아보자 (key/value 활성화)</li>
+<li>지금까지 공부한 Node.js 정리</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
+&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt; Node.js API 활성화&lt;/li&gt;
+&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt; Node.js 정리&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
+    
+    
+      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2017/09/08/FunctionBasics/"/>
+    <id>http://yoursite.com/2017/09/08/FunctionBasics/</id>
+    <published>2017-09-08T01:00:06.745Z</published>
+    <updated>2017-09-08T01:12:55.314Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="함수선언식-Function-Declarations"><a href="#함수선언식-Function-Declarations" class="headerlink" title="함수선언식 (Function Declarations)"></a>함수선언식 (Function Declarations)</h4><p>함수선언은 Function Statement라고도 하며,<br>말 그대로 함수 문장이라는 뜻이다.<br>실행가능한 코드블럭이 아닌 함수의 정의를 나타내는 문장으로 해석되며 따라서 코드해것에 따른 수행결과가 존재하지 않는다는 것을 의미한다.</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">//Function Declarations</div><div class="line">function foo() &#123;</div><div class="line">  console.log(&apos;hello&apos;);</div><div class="line">&#125;</div><div class="line">&gt; undefined</div></pre></td></tr></table></figure>
+<h4 id="함수표현식-Function-Expresssions"><a href="#함수표현식-Function-Expresssions" class="headerlink" title="함수표현식 (Function Expresssions)"></a>함수표현식 (Function Expresssions)</h4><p>함수표현은 Function Literal이다. 실행 가능한 코드로 해석되거나 변수, 데이터구조에 할당되어지고 있음을 의미한다. 해당 코드블럭이 실행코드로서 해석되어지며 동시에 코드실행에 따른 결과값을 가지거나 특정 변수에 할당된 값으로 존재한ㄷ.ㅏ</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div></pre></td><td class="code"><pre><div class="line">//anonymous function expresssion</div><div class="line">var foo = function() &#123;</div><div class="line">  console.log(&apos;hello&apos;);</div><div class="line">&#125;</div><div class="line"></div><div class="line">//named function expresssion</div><div class="line">var foo = function foo() &#123;</div><div class="line">  console.log(&apos;hello&apos;);</div><div class="line">&#125;</div><div class="line"></div><div class="line">//self invoking funtion expression</div><div class="line">(function foo() &#123;</div><div class="line">  console.log(&apos;hello&apos;);</div><div class="line">  &#125;)();</div></pre></td></tr></table></figure>
+<p>위의 named function expression은 foo라는 변수에 이름있는 함수를 할당하고 있다.<br>이 named expression에는 특징이 있는데, 바로 해당 함수의 이름은 함수 밖에서 사용할 수 없다는 것이다.</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">var foo = function A() &#123;</div><div class="line">  A(); //실행가능</div><div class="line">&#125;</div><div class="line"></div><div class="line">A(); //syntax error</div></pre></td></tr></table></figure>
+<p>호이스팅 : 선언문은 자바스크립트 엔진 구동시 가장 최우선으로 해석된다.</p>
+<ul>
+<li>선언문은 항상 최상위에서 작성하는 것을 권고하고 있다.<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">//함수선언에서의 호이스팅</div><div class="line">foo();</div><div class="line">function foo() &#123;</div><div class="line">  console.log(&apos;hello&apos;);</div><div class="line">&#125;;</div></pre></td></tr></table></figure>
+</li>
+</ul>
+<blockquote>
+<p>hello</p>
+</blockquote>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">foo();</div><div class="line">//함수표현에서의 호이스팅</div><div class="line">var foo = function() &#123;</div><div class="line">console.log(&apos;hello&apos;);</div><div class="line">&#125;;</div></pre></td></tr></table></figure>
+<blockquote>
+<p>Syntax error</p>
+</blockquote>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div></pre></td><td class="code"><pre><div class="line">function foo() &#123;</div><div class="line">  function bar() &#123;</div><div class="line">    console.log(&apos;hello&apos;);</div><div class="line">  &#125;</div><div class="line">  return bar();</div><div class="line"></div><div class="line">  function bar() &#123;</div><div class="line">    console.log(&apos;world&apos;);</div><div class="line">  &#125;</div><div class="line">&#125;</div><div class="line">foo();</div></pre></td></tr></table></figure>
+<blockquote>
+<p>답 : ‘world’<br>정답 : ‘world / undefined’</p>
+</blockquote>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div></pre></td><td class="code"><pre><div class="line">function foo() &#123;</div><div class="line">  var bar = function() &#123;</div><div class="line">    console.log(&apos;hello&apos;);</div><div class="line">  &#125;;</div><div class="line">  return bar();</div><div class="line">  var bar = function() &#123;</div><div class="line">    console.log(&apos;world&apos;);</div><div class="line">  &#125;;</div><div class="line">&#125;</div><div class="line">foo();</div></pre></td></tr></table></figure>
+<blockquote>
+<p>‘hello’<br>정답 : ‘hello’ / undefined</p>
+</blockquote>
+<p>// <a href="http://insanehong.kr/post/javascript-function/" target="_blank" rel="external">http://insanehong.kr/post/javascript-function/</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;함수선언식-Function-Declarations&quot;&gt;&lt;a href=&quot;#함수선언식-Function-Declarations&quot; class=&quot;headerlink&quot; title=&quot;함수선언식 (Function Declarations)&quot;&gt;&lt;/a&gt;함수선
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>170907-TIL</title>
@@ -704,44 +788,6 @@
     
     
       <category term="알고리즘" scheme="http://yoursite.com/tags/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>자바스크립트 학습계획</title>
-    <link href="http://yoursite.com/2017/08/24/jsstudyplan/"/>
-    <id>http://yoursite.com/2017/08/24/jsstudyplan/</id>
-    <published>2017-08-24T09:28:34.814Z</published>
-    <updated>2017-08-27T14:35:29.258Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="자바스크립트-스터디-1"><a href="#자바스크립트-스터디-1" class="headerlink" title="자바스크립트 스터디 #1"></a>자바스크립트 스터디 #1</h4><p>17.08.25일 시작<br><a id="more"></a></p>
-<h4 id="학습-순서"><a href="#학습-순서" class="headerlink" title="학습 순서"></a>학습 순서</h4><h4 id="javascript-기본"><a href="#javascript-기본" class="headerlink" title="javascript 기본"></a>javascript 기본</h4><ul>
-<li>함수 / 배열</li>
-<li>정규표현식</li>
-<li>콜백 / 클로저</li>
-<li>상속 / 프로토타입</li>
-<li>Ajax / JSON</li>
-</ul>
-<p><strong>알고리즘</strong> <a href="https://programmers.co.kr/learn" target="_blank" rel="external">프로그래머스</a></p>
-<hr>
-<h4 id="Node-js"><a href="#Node-js" class="headerlink" title="Node.js"></a>Node.js</h4><ul>
-<li>express로 서버 만들기</li>
-<li>heroku 배포</li>
-<li>게시판 만들기</li>
-<li>회원가입 기능 만들기</li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;자바스크립트-스터디-1&quot;&gt;&lt;a href=&quot;#자바스크립트-스터디-1&quot; class=&quot;headerlink&quot; title=&quot;자바스크립트 스터디 #1&quot;&gt;&lt;/a&gt;자바스크립트 스터디 #1&lt;/h4&gt;&lt;p&gt;17.08.25일 시작&lt;br&gt;
-    
-    </summary>
-    
-      <category term="알고리즘" scheme="http://yoursite.com/categories/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/"/>
-    
-    
-      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
     
   </entry>
   
