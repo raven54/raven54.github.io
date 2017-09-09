@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-08T12:15:15.560Z</updated>
+  <updated>2017-09-09T14:28:06.973Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,47 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>170909-TIL</title>
+    <link href="http://yoursite.com/2017/09/09/170909-TIL/"/>
+    <id>http://yoursite.com/2017/09/09/170909-TIL/</id>
+    <published>2017-09-09T14:24:41.595Z</published>
+    <updated>2017-09-09T14:28:06.973Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
+<li>javascript yes or no logic (20%)</li>
+<li>강의시청 :<ul>
+<li><a href="https://www.youtube.com/watch?v=zbgKZVMzdfk&amp;list=PLnkwNkWVo5pVxyGW_xqGgTJ_PBlTzXcm8&amp;index=7" target="_blank" rel="external">한 놈만 패는 자바스크립트</a> 파트 7 - 프로토타입 (60%)</li>
+</ul>
+</li>
+</ul>
+<a id="more"></a>
+<h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><ul>
+<li>javascript, jquery DOM 제어를 제대로 몰라서 yes or no logic 짜기가 힘들다. 간단해 보이는 것도 어렵다.</li>
+<li>prototype 어렵다. 몇 번 더 봐야할듯..</li>
+<li>내일은 node 공부를 하자.</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;javascript yes or no logic (20%)&lt;/li&gt;
+&lt;li&gt;강의시청 :&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=zbgKZVMzdfk&amp;amp;list=PLnkwNkWVo5pVxyGW_xqGgTJ_PBlTzXcm8&amp;amp;index=7&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;한 놈만 패는 자바스크립트&lt;/a&gt; 파트 7 - 프로토타입 (60%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
+    
+    
+      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
+    
+  </entry>
   
   <entry>
     <title>170908-TIL</title>
@@ -59,7 +100,7 @@
     <link href="http://yoursite.com/2017/09/08/FunctionBasics/"/>
     <id>http://yoursite.com/2017/09/08/FunctionBasics/</id>
     <published>2017-09-08T01:00:06.745Z</published>
-    <updated>2017-09-08T01:12:55.314Z</updated>
+    <updated>2017-09-09T14:24:34.375Z</updated>
     
     <content type="html"><![CDATA[<h4 id="함수선언식-Function-Declarations"><a href="#함수선언식-Function-Declarations" class="headerlink" title="함수선언식 (Function Declarations)"></a>함수선언식 (Function Declarations)</h4><p>함수선언은 Function Statement라고도 하며,<br>말 그대로 함수 문장이라는 뜻이다.<br>실행가능한 코드블럭이 아닌 함수의 정의를 나타내는 문장으로 해석되며 따라서 코드해것에 따른 수행결과가 존재하지 않는다는 것을 의미한다.</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">//Function Declarations</div><div class="line">function foo() &#123;</div><div class="line">  console.log(&apos;hello&apos;);</div><div class="line">&#125;</div><div class="line">&gt; undefined</div></pre></td></tr></table></figure>
@@ -758,29 +799,6 @@
       &lt;h4 id=&quot;Level-2-자바스크립트-소수찾기&quot;&gt;&lt;a href=&quot;#Level-2-자바스크립트-소수찾기&quot; class=&quot;headerlink&quot; title=&quot;Level 2. 자바스크립트 소수찾기&quot;&gt;&lt;/a&gt;Level 2. 자바스크립트 소수찾기&lt;/h4&gt;&lt;blockquote&gt;
 &lt;h4 id=&quot;문제&quot;&gt;&lt;a href=&quot;#문제&quot; class=&quot;headerlink&quot; title=&quot;문제&quot;&gt;&lt;/a&gt;&lt;strong&gt;문제&lt;/strong&gt;&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://ko.wikipedia.org/wiki/%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;에라토스테네스의 체&lt;/a&gt;를 참고하여 숫자 1000까지의 소수를 모두 찾고 합하여 출력해보자.&lt;/p&gt;
 &lt;/blockquote&gt;
-    
-    </summary>
-    
-      <category term="알고리즘" scheme="http://yoursite.com/categories/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/"/>
-    
-    
-      <category term="알고리즘" scheme="http://yoursite.com/tags/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>자바스크립트 트리만들기</title>
-    <link href="http://yoursite.com/2017/08/25/jstree/"/>
-    <id>http://yoursite.com/2017/08/25/jstree/</id>
-    <published>2017-08-25T13:57:46.530Z</published>
-    <updated>2017-08-31T13:17:35.626Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="Level-1-자바스크립트-트리-만들기"><a href="#Level-1-자바스크립트-트리-만들기" class="headerlink" title="Level 1. 자바스크립트 트리 만들기"></a>Level 1. 자바스크립트 트리 만들기</h4><h4 id="문제"><a href="#문제" class="headerlink" title="문제"></a>문제</h4><p>for문을 사용하여 크리스마스 트리 만들기<br><a id="more"></a><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div></pre></td><td class="code"><pre><div class="line">function tree(n)&#123;</div><div class="line">   var result = &quot;&quot;;</div><div class="line">   result += &quot;\n&quot;;</div><div class="line">   for (var i = 1; i &lt; n ; i++)&#123;</div><div class="line">      for ( var j = n ; j  &gt;= i - 1 ; j--) &#123;</div><div class="line">         result += &quot; &quot;;</div><div class="line">      &#125;</div><div class="line">      for(var k = 0; k &lt; 2 * i - 1; k++)&#123;</div><div class="line">           result += &quot;*&quot;;</div><div class="line">        &#125;</div><div class="line">    result += &quot;\n&quot;;</div><div class="line">&#125;</div><div class="line">return result;</div><div class="line">&#125;</div><div class="line">tree(10);</div></pre></td></tr></table></figure></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;Level-1-자바스크립트-트리-만들기&quot;&gt;&lt;a href=&quot;#Level-1-자바스크립트-트리-만들기&quot; class=&quot;headerlink&quot; title=&quot;Level 1. 자바스크립트 트리 만들기&quot;&gt;&lt;/a&gt;Level 1. 자바스크립트 트리 만들기&lt;/h4&gt;&lt;h4 id=&quot;문제&quot;&gt;&lt;a href=&quot;#문제&quot; class=&quot;headerlink&quot; title=&quot;문제&quot;&gt;&lt;/a&gt;문제&lt;/h4&gt;&lt;p&gt;for문을 사용하여 크리스마스 트리 만들기&lt;br&gt;
     
     </summary>
     
