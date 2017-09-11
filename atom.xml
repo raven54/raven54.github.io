@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-09T14:28:06.973Z</updated>
+  <updated>2017-09-11T14:43:31.426Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,127 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>프로토타입 기본 공부 part.1</title>
+    <link href="http://yoursite.com/2017/09/11/prototype1/"/>
+    <id>http://yoursite.com/2017/09/11/prototype1/</id>
+    <published>2017-09-11T14:15:53.227Z</published>
+    <updated>2017-09-11T14:43:31.426Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><blockquote>
+<p>09.10 ~ 09.11 공부한 프로토타입 정리</p>
+</blockquote>
+<p>프로토타입은 object와 link 2가지로 나눠서 이해해야 한다.</p>
+<p><strong>1. prototype object</strong></p>
+<ul>
+<li>모든 객체의 조상은 ‘함수’이다.</li>
+<li>함수가 정의될 때는 2가지 일이 동시에 이루어진다. 첫번째는 해당 함수에 constructor(생성자) 자격이 부여되고, 두번째는 해당 함수의 prototype Object가 생성, 연결된다.</li>
+<li>prototype Object는 constructor와 _ _proto__ 를 가지고 일반적인 객체와 같다.</li>
+</ul>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">// 동일하다.</div><div class="line">var obj = &#123;&#125;;</div><div class="line">var obj = new Object();</div></pre></td></tr></table></figure>
+<p><strong>2. prototype link</strong></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;blockquote&gt;
+&lt;p&gt;09.10 ~ 09.11 공부한 프로토타입 정리&lt;/p&gt;
+&lt;/blockquo
+    
+    </summary>
+    
+      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
+    
+    
+      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>170910-TIL</title>
+    <link href="http://yoursite.com/2017/09/11/170911-TIL/"/>
+    <id>http://yoursite.com/2017/09/11/170911-TIL/</id>
+    <published>2017-09-11T14:00:38.970Z</published>
+    <updated>2017-09-11T14:11:51.948Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
+<li>프로토타입 공부 -  <a href="">프로토타입 정리</a><ul>
+<li><a href="https://opentutorials.org/course/743/6573" target="_blank" rel="external">생활코딩 프로토타입 강의 1편</a> 시청</li>
+<li><a href="https://www.youtube.com/watch?v=fXIpMyrI3U8" target="_blank" rel="external">프로그래밍 학습의 어려움과 극복하는 방법</a></li>
+<li><a href="https://www.youtube.com/watch?v=Xcy2Pq6LABk" target="_blank" rel="external">프로그래밍 학습 방법</a></li>
+</ul>
+</li>
+<li>호이스팅 복습<br>-<a id="more"></a>
+</li>
+</ul>
+<h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><ul>
+<li>스터디를 빨리 구해야 할듯. 점점 혼자 공부하기가 힘들다.</li>
+<li>아 맥북 사고싶다. 추석 전에 뉴맥북 질러야 할듯.</li>
+<li>프로그래밍 학습의 어려움과 극복 방법.<ul>
+<li>왜 배우기 어려운지 확실히 알겠다. 어떻게 하면 극복할 수 있는지도..</li>
+</ul>
+</li>
+<li>내일은 호이스팅 공부 내용 정리하기.</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;프로토타입 공부 -  &lt;a href=&quot;&quot;&gt;프로토타입 정리&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://opentutorials.org/course/743/6573&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;생활코딩 프로토타입 강의 1편&lt;/a&gt; 시청&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=fXIpMyrI3U8&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;프로그래밍 학습의 어려움과 극복하는 방법&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Xcy2Pq6LABk&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;프로그래밍 학습 방법&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;호이스팅 복습&lt;br&gt;-
+    
+    </summary>
+    
+      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
+    
+    
+      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>170910-TIL</title>
+    <link href="http://yoursite.com/2017/09/10/170910-TIL/"/>
+    <id>http://yoursite.com/2017/09/10/170910-TIL/</id>
+    <published>2017-09-10T12:54:50.004Z</published>
+    <updated>2017-09-11T14:00:30.890Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
+<li>javascript yes or no logic (100%)</li>
+<li>강의시청 :<ul>
+<li><a href="https://www.youtube.com/watch?v=zbgKZVMzdfk&amp;list=PLnkwNkWVo5pVxyGW_xqGgTJ_PBlTzXcm8&amp;index=7" target="_blank" rel="external">한 놈만 패는 자바스크립트</a> 파트 7 - 프로토타입 (80%)</li>
+</ul>
+</li>
+</ul>
+<a id="more"></a>
+<h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><p>-yes or no 로직을 완성하긴 했는데 너무 막쓴듯. 업그레이드 해야겠다.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;javascript yes or no logic (100%)&lt;/li&gt;
+&lt;li&gt;강의시청 :&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=zbgKZVMzdfk&amp;amp;list=PLnkwNkWVo5pVxyGW_xqGgTJ_PBlTzXcm8&amp;amp;index=7&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;한 놈만 패는 자바스크립트&lt;/a&gt; 파트 7 - 프로토타입 (80%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
+    
+    
+      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
+    
+  </entry>
   
   <entry>
     <title>170909-TIL</title>
@@ -61,17 +182,17 @@
     <link href="http://yoursite.com/2017/09/08/170908-TIL/"/>
     <id>http://yoursite.com/2017/09/08/170908-TIL/</id>
     <published>2017-09-08T12:14:38.817Z</published>
-    <updated>2017-09-08T12:15:15.560Z</updated>
+    <updated>2017-09-11T14:15:09.819Z</updated>
     
     <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
 <li style="list-style: none"><input type="checkbox" checked> Node.js API 활성화</li>
 <li style="list-style: none"><input type="checkbox" checked> Node.js 정리</li>
 </ul>
-<a id="more"></a>
 <h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><ul>
 <li>궁금했던 호이스팅이 무엇인지 알았다.</li>
 <li>프로토타입, 조금 알겠는데 어렵다. 몇 번 다시 봐야할듯.</li>
-<li>Node.js는 신기하면서 재밌다.</li>
+<li><a id="more"></a>
+</li>
 </ul>
 <h4 id="내일-할-일"><a href="#내일-할-일" class="headerlink" title="내일 할 일"></a>내일 할 일</h4><ul>
 <li>4차스터디 : Node.js 작동원리를 알아보자 (key/value 활성화)</li>
@@ -85,6 +206,10 @@
 &lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt; Node.js API 활성화&lt;/li&gt;
 &lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt; Node.js 정리&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h4 id=&quot;회고&quot;&gt;&lt;a href=&quot;#회고&quot; class=&quot;headerlink&quot; title=&quot;회고&quot;&gt;&lt;/a&gt;회고&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;궁금했던 호이스팅이 무엇인지 알았다.&lt;/li&gt;
+&lt;li&gt;프로토타입, 조금 알겠는데 어렵다. 몇 번 다시 봐야할듯.&lt;/li&gt;
+&lt;li&gt;
     
     </summary>
     
@@ -92,51 +217,6 @@
     
     
       <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://yoursite.com/2017/09/08/FunctionBasics/"/>
-    <id>http://yoursite.com/2017/09/08/FunctionBasics/</id>
-    <published>2017-09-08T01:00:06.745Z</published>
-    <updated>2017-09-09T14:24:34.375Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="함수선언식-Function-Declarations"><a href="#함수선언식-Function-Declarations" class="headerlink" title="함수선언식 (Function Declarations)"></a>함수선언식 (Function Declarations)</h4><p>함수선언은 Function Statement라고도 하며,<br>말 그대로 함수 문장이라는 뜻이다.<br>실행가능한 코드블럭이 아닌 함수의 정의를 나타내는 문장으로 해석되며 따라서 코드해것에 따른 수행결과가 존재하지 않는다는 것을 의미한다.</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">//Function Declarations</div><div class="line">function foo() &#123;</div><div class="line">  console.log(&apos;hello&apos;);</div><div class="line">&#125;</div><div class="line">&gt; undefined</div></pre></td></tr></table></figure>
-<h4 id="함수표현식-Function-Expresssions"><a href="#함수표현식-Function-Expresssions" class="headerlink" title="함수표현식 (Function Expresssions)"></a>함수표현식 (Function Expresssions)</h4><p>함수표현은 Function Literal이다. 실행 가능한 코드로 해석되거나 변수, 데이터구조에 할당되어지고 있음을 의미한다. 해당 코드블럭이 실행코드로서 해석되어지며 동시에 코드실행에 따른 결과값을 가지거나 특정 변수에 할당된 값으로 존재한ㄷ.ㅏ</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div></pre></td><td class="code"><pre><div class="line">//anonymous function expresssion</div><div class="line">var foo = function() &#123;</div><div class="line">  console.log(&apos;hello&apos;);</div><div class="line">&#125;</div><div class="line"></div><div class="line">//named function expresssion</div><div class="line">var foo = function foo() &#123;</div><div class="line">  console.log(&apos;hello&apos;);</div><div class="line">&#125;</div><div class="line"></div><div class="line">//self invoking funtion expression</div><div class="line">(function foo() &#123;</div><div class="line">  console.log(&apos;hello&apos;);</div><div class="line">  &#125;)();</div></pre></td></tr></table></figure>
-<p>위의 named function expression은 foo라는 변수에 이름있는 함수를 할당하고 있다.<br>이 named expression에는 특징이 있는데, 바로 해당 함수의 이름은 함수 밖에서 사용할 수 없다는 것이다.</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">var foo = function A() &#123;</div><div class="line">  A(); //실행가능</div><div class="line">&#125;</div><div class="line"></div><div class="line">A(); //syntax error</div></pre></td></tr></table></figure>
-<p>호이스팅 : 선언문은 자바스크립트 엔진 구동시 가장 최우선으로 해석된다.</p>
-<ul>
-<li>선언문은 항상 최상위에서 작성하는 것을 권고하고 있다.<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">//함수선언에서의 호이스팅</div><div class="line">foo();</div><div class="line">function foo() &#123;</div><div class="line">  console.log(&apos;hello&apos;);</div><div class="line">&#125;;</div></pre></td></tr></table></figure>
-</li>
-</ul>
-<blockquote>
-<p>hello</p>
-</blockquote>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">foo();</div><div class="line">//함수표현에서의 호이스팅</div><div class="line">var foo = function() &#123;</div><div class="line">console.log(&apos;hello&apos;);</div><div class="line">&#125;;</div></pre></td></tr></table></figure>
-<blockquote>
-<p>Syntax error</p>
-</blockquote>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div></pre></td><td class="code"><pre><div class="line">function foo() &#123;</div><div class="line">  function bar() &#123;</div><div class="line">    console.log(&apos;hello&apos;);</div><div class="line">  &#125;</div><div class="line">  return bar();</div><div class="line"></div><div class="line">  function bar() &#123;</div><div class="line">    console.log(&apos;world&apos;);</div><div class="line">  &#125;</div><div class="line">&#125;</div><div class="line">foo();</div></pre></td></tr></table></figure>
-<blockquote>
-<p>답 : ‘world’<br>정답 : ‘world / undefined’</p>
-</blockquote>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div></pre></td><td class="code"><pre><div class="line">function foo() &#123;</div><div class="line">  var bar = function() &#123;</div><div class="line">    console.log(&apos;hello&apos;);</div><div class="line">  &#125;;</div><div class="line">  return bar();</div><div class="line">  var bar = function() &#123;</div><div class="line">    console.log(&apos;world&apos;);</div><div class="line">  &#125;;</div><div class="line">&#125;</div><div class="line">foo();</div></pre></td></tr></table></figure>
-<blockquote>
-<p>‘hello’<br>정답 : ‘hello’ / undefined</p>
-</blockquote>
-<p>// <a href="http://insanehong.kr/post/javascript-function/" target="_blank" rel="external">http://insanehong.kr/post/javascript-function/</a></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;함수선언식-Function-Declarations&quot;&gt;&lt;a href=&quot;#함수선언식-Function-Declarations&quot; class=&quot;headerlink&quot; title=&quot;함수선언식 (Function Declarations)&quot;&gt;&lt;/a&gt;함수선
-    
-    </summary>
-    
     
   </entry>
   
@@ -262,7 +342,7 @@
     <link href="http://yoursite.com/2017/09/05/part3exam1/"/>
     <id>http://yoursite.com/2017/09/05/part3exam1/</id>
     <published>2017-09-05T14:43:31.511Z</published>
-    <updated>2017-09-07T14:40:27.796Z</updated>
+    <updated>2017-09-11T14:13:15.080Z</updated>
     
     <content type="html"><![CDATA[<h4 id="실습문제-1-1"><a href="#실습문제-1-1" class="headerlink" title="실습문제 [1-1]"></a>실습문제 [1-1]</h4><p>함수호출 - 제곱함수</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div></pre></td><td class="code"><pre><div class="line">function multiply(a)&#123;</div><div class="line">	return a * a;</div><div class="line">&#125;</div><div class="line"></div><div class="line">var firstTask = &#123;</div><div class="line">	value : 0,</div><div class="line">    increse : function(n)&#123;</div><div class="line">		this.value = multiply(n);</div><div class="line">	&#125;</div><div class="line">&#125;;</div><div class="line"></div><div class="line">firstTask.incerese(5);</div><div class="line">console.log(firstTask.value); // 25출력</div></pre></td></tr></table></figure>
@@ -272,6 +352,7 @@
 <p>실습문제 [2]<br>인수배열 - 출석부 만들기<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line">var student = function(name)&#123;</div><div class="line">	result = &apos;&apos;;</div><div class="line">	for(var i = 0; i&lt; arguments.length; i++)&#123;</div><div class="line">			result = (i+1) + &apos;번&apos; + &apos; 이름 :&apos;+ name;</div><div class="line">			return result;</div><div class="line">	&#125;</div><div class="line">	return student;</div><div class="line">&#125;</div></pre></td></tr></table></figure></p>
 <h4 id="실습문제-3"><a href="#실습문제-3" class="headerlink" title="실습문제 [3]"></a>실습문제 [3]</h4><p>생성자함수 - 출석부만들기</p>
 <p>학생들의 이름과 학번을 입력 받아서 학생들을 객체로 관리<br>예상치 못한 입력이 들어왔을 때 예외 처리<br>이름에 ’-1’을 입력받으면 입력을 종료<br>각각의 학생들을 생성자 함수로 구현<br>추가 구현<br>각 학생들을 연결 리스트(linked list) 자료구조를 이용하여 관리<br>Array 객체의 sort 메소드와 apply 메소드를 이용하여 정렬*</p>
+<p>// 자료구조 먼저 공부할것</p>
 ]]></content>
     
     <summary type="html">
@@ -734,78 +815,6 @@
     
     
       <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>170827-TIL</title>
-    <link href="http://yoursite.com/2017/08/27/170827-TIL/"/>
-    <id>http://yoursite.com/2017/08/27/170827-TIL/</id>
-    <published>2017-08-27T14:36:06.396Z</published>
-    <updated>2017-08-27T14:44:00.293Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
-<li>초보자를 위한 Github 사용법 일독</li>
-<li>Hexo 테마 사용법</li>
-<li>생활코딩 강의 : <a href="https://opentutorials.org/course/743/6508" target="_blank" rel="external">값으로서의 함수와 콜백</a> 2/4</li>
-</ul>
-<a id="more"></a>
-<h4 id="내일-할-일"><a href="#내일-할-일" class="headerlink" title="내일 할 일"></a>내일 할 일</h4><ul>
-<li>알고리즘 : 소수찾기 part2 - 배열을 사용하여 소수찾기 알고리즘 작성</li>
-<li>생활코딩 배열 파트 다시 듣기</li>
-<li><a href="https://www.youtube.com/watch?v=RaXN4qmW96Q&amp;list=PLnkwNkWVo5pVxyGW_xqGgTJ_PBlTzXcm8" target="_blank" rel="external">한 놈만 패는 자바스크립트</a> 2교시 다시듣기</li>
-<li>배열 모르는 부분 정리 / <a href="http://tryhelloworld.co.kr" target="_blank" rel="external">알고리즘</a> Level.1 문제 1개 풀기</li>
-<li>깃허브페이지 디자인 작업 : 로고 및 타이틀</li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;초보자를 위한 Github 사용법 일독&lt;/li&gt;
-&lt;li&gt;Hexo 테마 사용법&lt;/li&gt;
-&lt;li&gt;생활코딩 강의 : &lt;a href=&quot;https://opentutorials.org/course/743/6508&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;값으로서의 함수와 콜백&lt;/a&gt; 2/4&lt;/li&gt;
-&lt;/ul&gt;
-    
-    </summary>
-    
-      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
-    
-    
-      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>자바스크립트 소수찾기</title>
-    <link href="http://yoursite.com/2017/08/27/primenumber/"/>
-    <id>http://yoursite.com/2017/08/27/primenumber/</id>
-    <published>2017-08-27T14:22:05.626Z</published>
-    <updated>2017-09-06T14:14:22.664Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="Level-2-자바스크립트-소수찾기"><a href="#Level-2-자바스크립트-소수찾기" class="headerlink" title="Level 2. 자바스크립트 소수찾기"></a>Level 2. 자바스크립트 소수찾기</h4><blockquote>
-<h4 id="문제"><a href="#문제" class="headerlink" title="문제"></a><strong>문제</strong></h4><p><a href="https://ko.wikipedia.org/wiki/%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4" target="_blank" rel="external">에라토스테네스의 체</a>를 참고하여 숫자 1000까지의 소수를 모두 찾고 합하여 출력해보자.</p>
-</blockquote>
-<a id="more"></a>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div></pre></td><td class="code"><pre><div class="line">function prime(n)&#123;</div><div class="line"></div><div class="line">var result = &apos;&apos;;</div><div class="line">var a = 0;</div><div class="line">    for (var i = 2; i &lt;= n; i++ )&#123;</div><div class="line">      result = true;</div><div class="line">      for(var j = 2; j &lt; i; j++)&#123;</div><div class="line">         if(i % j == 0)&#123;</div><div class="line">            result = false;</div><div class="line">            break;</div><div class="line">            &#125;</div><div class="line">        &#125;</div><div class="line">      if ( result ) &#123;</div><div class="line">      a += i;</div><div class="line">      &#125;</div><div class="line">    &#125;</div><div class="line">   return a;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
-<blockquote>
-<h4 id="풀이"><a href="#풀이" class="headerlink" title="풀이"></a><strong>풀이</strong></h4></blockquote>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">prime(1000);</div><div class="line">76127</div></pre></td></tr></table></figure>
-<p>배열에 소수 넣기<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div></pre></td><td class="code"><pre><div class="line">function pr(n) &#123;</div><div class="line">	var arr = [];</div><div class="line"></div><div class="line">	for (var i = 2; i &lt; n; i++) &#123;</div><div class="line">		arr[i] = false;</div><div class="line">        for(var j = 2; j &lt; i; j++) &#123;</div><div class="line">			if (i % j == 0) &#123;</div><div class="line">				arr[i] = undefined;</div><div class="line">				break;</div><div class="line">			&#125;</div><div class="line">			else &#123;</div><div class="line">				arr[i] = true;  </div><div class="line">			&#125;</div><div class="line"></div><div class="line">		&#125;   </div><div class="line">    &#125;</div><div class="line">	var arr2 = [];</div><div class="line">	for (var x = 0; x &lt; arr.length; x++)&#123;</div><div class="line">		if(arr[x] == true) &#123;</div><div class="line">    		arr2.push(x);</div><div class="line">		&#125;</div><div class="line">    &#125;</div><div class="line">	console.log(arr2);</div><div class="line">&#125;</div></pre></td></tr></table></figure></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;Level-2-자바스크립트-소수찾기&quot;&gt;&lt;a href=&quot;#Level-2-자바스크립트-소수찾기&quot; class=&quot;headerlink&quot; title=&quot;Level 2. 자바스크립트 소수찾기&quot;&gt;&lt;/a&gt;Level 2. 자바스크립트 소수찾기&lt;/h4&gt;&lt;blockquote&gt;
-&lt;h4 id=&quot;문제&quot;&gt;&lt;a href=&quot;#문제&quot; class=&quot;headerlink&quot; title=&quot;문제&quot;&gt;&lt;/a&gt;&lt;strong&gt;문제&lt;/strong&gt;&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://ko.wikipedia.org/wiki/%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;에라토스테네스의 체&lt;/a&gt;를 참고하여 숫자 1000까지의 소수를 모두 찾고 합하여 출력해보자.&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-      <category term="알고리즘" scheme="http://yoursite.com/categories/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/"/>
-    
-    
-      <category term="알고리즘" scheme="http://yoursite.com/tags/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/"/>
     
   </entry>
   

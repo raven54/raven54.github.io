@@ -2,6 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2017/09/11/prototype1/</loc>
+    
+    <lastmod>2017-09-11T14:43:31.426Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/09/08/170908-TIL/</loc>
+    
+    <lastmod>2017-09-11T14:15:09.819Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/09/05/part3exam1/</loc>
+    
+    <lastmod>2017-09-11T14:13:15.080Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/09/11/170911-TIL/</loc>
+    
+    <lastmod>2017-09-11T14:11:51.948Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/09/10/170910-TIL/</loc>
+    
+    <lastmod>2017-09-11T14:00:30.890Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2017/09/09/170909-TIL/</loc>
     
     <lastmod>2017-09-09T14:28:06.973Z</lastmod>
@@ -9,30 +44,9 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2017/09/08/FunctionBasics/</loc>
-    
-    <lastmod>2017-09-09T14:24:34.375Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2017/09/08/170908-TIL/</loc>
-    
-    <lastmod>2017-09-08T12:15:15.560Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/2017/09/07/170907-TIL/</loc>
     
     <lastmod>2017-09-07T14:52:23.796Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2017/09/05/part3exam1/</loc>
-    
-    <lastmod>2017-09-07T14:40:27.796Z</lastmod>
     
   </url>
   
