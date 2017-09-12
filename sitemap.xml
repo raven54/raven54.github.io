@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2017/09/12/170912-TIL/</loc>
+    
+    <lastmod>2017-09-12T14:51:40.705Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/09/11/170911-TIL/</loc>
+    
+    <lastmod>2017-09-12T14:46:28.043Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2017/09/11/prototype1/</loc>
     
-    <lastmod>2017-09-11T14:43:31.426Z</lastmod>
+    <lastmod>2017-09-12T14:42:05.410Z</lastmod>
     
   </url>
   
@@ -19,13 +33,6 @@
     <loc>http://yoursite.com/2017/09/05/part3exam1/</loc>
     
     <lastmod>2017-09-11T14:13:15.080Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2017/09/11/170911-TIL/</loc>
-    
-    <lastmod>2017-09-11T14:11:51.948Z</lastmod>
     
   </url>
   
