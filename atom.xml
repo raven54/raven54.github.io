@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-12T14:51:40.705Z</updated>
+  <updated>2017-09-14T14:12:59.485Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,155 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>제이쿼리 이메일 체크</title>
+    <link href="http://yoursite.com/2017/09/14/email-validate-js/"/>
+    <id>http://yoursite.com/2017/09/14/email-validate-js/</id>
+    <published>2017-09-14T14:04:34.205Z</published>
+    <updated>2017-09-14T14:12:59.485Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="제이쿼리-이메일-체크"><a href="#제이쿼리-이메일-체크" class="headerlink" title="제이쿼리 이메일 체크"></a>제이쿼리 이메일 체크</h4><blockquote>
+<p>자바스크립트를 이용한 이메일 유효성 검사<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div></pre></td><td class="code"><pre><div class="line">//html</div><div class="line">&lt;div&gt;</div><div class="line">  &lt;input id=&quot;txtEmail&quot; class=&quot;email-box&quot; type=&quot;text&quot; placeholder=&quot;이메일 주소&quot; name=&quot;email&quot; value=&quot;&quot;&gt;</div><div class="line">  &lt;span class=&quot;address&quot;&gt;이메일을 입력해주세요.&lt;span class=&quot;test&quot;&gt;&lt;/span&gt;&lt;/span&gt;</div><div class="line">&lt;/div&gt;</div><div class="line"></div><div class="line">// 이메일 유효성 검사 함수</div><div class="line">function validateEmail(sEmail) &#123;</div><div class="line">  var filter = /^([\w-\.]+)@((\[[0-9]&#123;1,3&#125;\.[0-9]&#123;1,3&#125;\.[0-9]&#123;1,3&#125;\.)|(([\w-]+\.)+))([a-zA-Z]&#123;2,4&#125;|[0-9]&#123;1,3&#125;)(\]?)$/;</div><div class="line">  if (filter.test(sEmail)) &#123;</div><div class="line">    return true;</div><div class="line">  &#125;</div><div class="line">  else &#123;</div><div class="line">    return false;</div><div class="line">  &#125;</div><div class="line">&#125;</div><div class="line"></div><div class="line">// jquery로 실행</div><div class="line">$(document).ready(function() &#123;</div><div class="line">  // keyup -&gt; #txtEmail에 타이핑 할 때 실행</div><div class="line">  $(&apos;#txtEmail&apos;).keyup(function() &#123;</div><div class="line">    var sEmail = $(&apos;#txtEmail&apos;).val();</div><div class="line">    //trim -&gt; 공백 제거</div><div class="line">    if ($.trim(sEmail).length == 0) &#123;</div><div class="line">      $(&apos;.address&apos;).html(&apos;이메일을 입력해주세요.&apos;);                    // length == 0, 즉 입력하지 않았을 때 출력</div><div class="line">      $(&apos;.email-box&apos;).css(&apos;border-color&apos;,&apos;rgba(255, 70, 70, 0.71)&apos;)  // 틀리거나 없는 경우 border 빨간색으로 변경</div><div class="line">    &#125;</div><div class="line">    else if (validateEmail(sEmail)) &#123;</div><div class="line">      $(&apos;.address&apos;).html(&apos;이메일 주소가 확인되었습니다.&apos;);</div><div class="line">      $(&apos;.email-box&apos;).css(&apos;border-color&apos;,&apos;#d2d2d2&apos;);</div><div class="line">    &#125;</div><div class="line">    else &#123;</div><div class="line">      $(&apos;.address&apos;).html(&apos;이메일을 정확하게 입력해주세요.&apos;);            // 유효성 검사를 통과하지 못했을 때 출력</div><div class="line">      $(&apos;.email-box&apos;).css(&apos;border-color&apos;,&apos;rgba(255, 70, 70, 0.71)&apos;);</div><div class="line">    &#125;</div><div class="line">  &#125;)</div><div class="line">&#125;);</div></pre></td></tr></table></figure></p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;제이쿼리-이메일-체크&quot;&gt;&lt;a href=&quot;#제이쿼리-이메일-체크&quot; class=&quot;headerlink&quot; title=&quot;제이쿼리 이메일 체크&quot;&gt;&lt;/a&gt;제이쿼리 이메일 체크&lt;/h4&gt;&lt;blockquote&gt;
+&lt;p&gt;자바스크립트를 이용한 이메일 유효성 검
+    
+    </summary>
+    
+      <category term="javascript" scheme="http://yoursite.com/categories/javascript/"/>
+    
+    
+      <category term="javascript, jquery" scheme="http://yoursite.com/tags/javascript-jquery/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>170914-TIL</title>
+    <link href="http://yoursite.com/2017/09/14/170914-TIL/"/>
+    <id>http://yoursite.com/2017/09/14/170914-TIL/</id>
+    <published>2017-09-14T13:41:26.203Z</published>
+    <updated>2017-09-14T14:13:09.081Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
+<li>강의시청 :<ul>
+<li><a href="https://opentutorials.org/course/743/6573" target="_blank" rel="external">생활코딩 프로토타입</a> part2 (100%)</li>
+<li><a href="https://opentutorials.org/course/743/6573" target="_blank" rel="external">표준 객체와 내장 객체</a> part2 (100%)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><p>FJ 메인 프로젝트</p>
+<ul>
+<li><a href="https://raven54.github.io/2017/09/14/email-validate-js/" target="_blank" rel="external">회원가입 Form 유효성 검사</a> 추가</li>
+<li>메인페이지 slick-slider 틀 추가</li>
+<li>activity 페이지 CSS 변경<a id="more"></a>
+</li>
+</ul>
+</li>
+<li><p>프론트엔드 개발자, 알고리즘 지식에 대한 논란 <a href="https://medium.com/@ghilbut/%EC%8B%A4%EB%AC%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EA%B2%8C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%80-%EB%8D%9C-%EC%A4%91%EC%9A%94%ED%95%A0%EA%B9%8C-fcbab7f87074" target="_blank" rel="external">실무 개발자에게 알고리즘은 덜 중요할까?</a></p>
+<ul>
+<li>좋은 글. 의구심이 들던 부분인데 명쾌하게 정리됐다. 로직 공부 열심히 해야겠다.</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>disqus 추가</li>
+</ul>
+<h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><ul>
+<li>jquery를 계속 쓰다보니 느는 것 같다. 그래도 웬만하면 그냥 javascript를 쓰자.</li>
+<li><a href="https://opentutorials.org/course/743" target="_blank" rel="external">생활코딩 javascript 코스</a> 끝이 보인다. 완전히 이해하진 못했지만 이번 주 내로 진도는 끝낼 수 있겠다. 모르는 부분은 다시 봐야지.</li>
+<li>내일은 slick-slider를 구현하면 될 듯.</li>
+</ul>
+<h4 id="내일-할-일"><a href="#내일-할-일" class="headerlink" title="내일 할 일"></a>내일 할 일</h4><ul>
+<li>메인페이지 slick-slider 4개로 구현하기</li>
+<li>sign in / sign up 페이지 CSS 변경</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;강의시청 :&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://opentutorials.org/course/743/6573&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;생활코딩 프로토타입&lt;/a&gt; part2 (100%)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://opentutorials.org/course/743/6573&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;표준 객체와 내장 객체&lt;/a&gt; part2 (100%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;FJ 메인 프로젝트&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://raven54.github.io/2017/09/14/email-validate-js/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;회원가입 Form 유효성 검사&lt;/a&gt; 추가&lt;/li&gt;
+&lt;li&gt;메인페이지 slick-slider 틀 추가&lt;/li&gt;
+&lt;li&gt;activity 페이지 CSS 변경
+    
+    </summary>
+    
+      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
+    
+    
+      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>170913-TIL</title>
+    <link href="http://yoursite.com/2017/09/14/170913-TIL/"/>
+    <id>http://yoursite.com/2017/09/14/170913-TIL/</id>
+    <published>2017-09-14T13:27:07.205Z</published>
+    <updated>2017-09-14T13:40:59.544Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
+<li>강의시청 :<ul>
+<li><a href="https://www.youtube.com/watch?v=zbgKZVMzdfk&amp;list=PLnkwNkWVo5pVxyGW_xqGgTJ_PBlTzXcm8&amp;index=7" target="_blank" rel="external">한 놈만 패는 자바스크립트</a> 파트 7 - 프로토타입 (100%)</li>
+</ul>
+</li>
+</ul>
+<a id="more"></a>
+<p><br></p>
+<ul>
+<li>FJ 서브 프로젝트 (coupon)<ul>
+<li>기존 heroku app express 설정 변경<ul>
+<li>html 렌더 -&gt; pug / ejs로 변경</li>
+<li>메인 화면 초기화</li>
+<li>route 렌더</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><ul>
+<li><p>메인 프로젝트의 서브 프로젝트로 coupon 추천 사이트를 열기로 했다. 서버부터 front까지 일단 만들어보기로 결정. 작게 시작해서 하나씩 배워갈 마음으로 일단 시작.</p>
+</li>
+<li><p>node.js의 router가 어떻게 돌아가는지 조금 이해했다. url 바꾸는 게 생각보다 이렇게 간단하다니..</p>
+</li>
+<li>기존 html 렌더 설정을 pug, ejs로 바꾸는 데 한참 걸린듯.. Node를 모르니까 답답해 죽겠다. stackoverflow에서 찾아서 겨우 해결했다. 빨리 공부를 해야지 휴..</li>
+<li>무료 버전 heroku app은 느린게 단점.. 테스트 용으로는 괜찮은데 너무 느리다. 사용량이 얼마까지 허용되는지 모르겠다. 알아봐야 할 듯.</li>
+<li>AWS도 써보고 싶다. 가입은 해놨는데 엄두가 안난다. heroku app부터 완성하고 다음은 AWS에서 구축해봐야겠다. 추석에 시간 날 때 해봐야지.</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;강의시청 :&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=zbgKZVMzdfk&amp;amp;list=PLnkwNkWVo5pVxyGW_xqGgTJ_PBlTzXcm8&amp;amp;index=7&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;한 놈만 패는 자바스크립트&lt;/a&gt; 파트 7 - 프로토타입 (100%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
+    
+    
+      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
+    
+  </entry>
   
   <entry>
     <title>170912-TIL</title>
@@ -113,7 +262,7 @@
     <link href="http://yoursite.com/2017/09/11/170911-TIL/"/>
     <id>http://yoursite.com/2017/09/11/170911-TIL/</id>
     <published>2017-09-11T14:00:38.970Z</published>
-    <updated>2017-09-12T14:46:28.043Z</updated>
+    <updated>2017-09-14T14:05:31.307Z</updated>
     
     <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
 <li>프로토타입 공부 - <a href="https://raven54.github.io/2017/09/11/prototype1/" target="_blank" rel="external">프로토타입 정리</a><ul>
@@ -699,131 +848,6 @@
     
     
       <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>170830-TIL</title>
-    <link href="http://yoursite.com/2017/08/31/170830-TIL/"/>
-    <id>http://yoursite.com/2017/08/31/170830-TIL/</id>
-    <published>2017-08-31T00:42:52.137Z</published>
-    <updated>2017-08-31T13:21:36.222Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
-<li>MEAN stack 스터디 3차</li>
-<li style="list-style: none"><input type="checkbox" checked> 자바스크립트 인사이드 : 배열과 객체 파트 읽음</li>
-<li style="list-style: none"><input type="checkbox" checked> Front-end 개발자를 위한 javascript : 배열과 객체 파트 읽음<a id="more"></a>
-</li>
-</ul>
-<h4 id="3차-스터디"><a href="#3차-스터디" class="headerlink" title="3차 스터디"></a>3차 스터디</h4><ul>
-<li>함수란 무엇인가? : this 바인딩, 객체의 특징 복습, 생성자 호출 패턴, apply 호출 패턴, 인수 배열, 예외 처리</li>
-<li>객체지향에 대한 얕은 지식</li>
-<li>node.js 라우터 기능</li>
-<li>node.js 퍼그 레이아웃 구성방법</li>
-</ul>
-<h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><ul>
-<li>스터디를 통해 평소에 몰랐던 부분을 확실하게 이해할 수 있었다. 꾸준히 해야겠다.</li>
-<li>node.js / express.js 기초강의를 빨리 들어야겠다. 보안은 나중에 생각하고 무엇이든 일단 만들어보는 것으로.</li>
-<li>자바스크립트 학습방향을 정할 수 있었다. 답답한 부분이 조금이나마 사라졌다.</li>
-</ul>
-<h4 id="내일-할-일"><a href="#내일-할-일" class="headerlink" title="내일 할 일"></a>내일 할 일</h4><ul>
-<li>스터디 자료 읽기</li>
-<li>소수찾기 part2 다시 풀기</li>
-<li>배열과 객체 파트 정리</li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;MEAN stack 스터디 3차&lt;/li&gt;
-&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt; 자바스크립트 인사이드 : 배열과 객체 파트 읽음&lt;/li&gt;
-&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt; Front-end 개발자를 위한 javascript : 배열과 객체 파트 읽음
-    
-    </summary>
-    
-      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
-    
-    
-      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>170829-TIL</title>
-    <link href="http://yoursite.com/2017/08/29/170829-TIL/"/>
-    <id>http://yoursite.com/2017/08/29/170829-TIL/</id>
-    <published>2017-08-29T13:51:03.204Z</published>
-    <updated>2017-08-31T13:16:19.710Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
-<li style="list-style: none"><input type="checkbox"> 알고리즘 Level.1 문제 2개 풀기</li>
-<li style="list-style: none"><input type="checkbox" checked> 생활코딩 자바스크립트 입문 강의 2개 듣기 : 클로저 / 값으로서의 함수의 콜백</li>
-<li style="list-style: none"><input type="checkbox" checked> <a href="https://www.youtube.com/watch?v=RaXN4qmW96Q&amp;list=PLnkwNkWVo5pVxyGW_xqGgTJ_PBlTzXcm8" target="_blank" rel="external">한 놈만 패는 자바스크립트</a> 5교시 듣기</li>
-<li style="list-style: none"><input type="checkbox" checked> 소수찾기 part2 다시 풀기</li>
-<li style="list-style: none"><input type="checkbox" checked> 코드카데미 javascript 다시 시작 / 코스 하나 끝내기<a id="more"></a></li>
-<li>자바스크립트 인사이드 책 구매</li>
-<li>Front-end 개발자를 위한 Javascript 배열부분 복습</li>
-</ul>
-<h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><ul>
-<li>배열 연습을 열심히 해야겠다.</li>
-<li>소수찾기 part2는 내일 한번 더 풀고 외울 정도로 복습하기, 다른 방식으로 풀어보기</li>
-<li>코드카데미가 많은 도움이 됨. 영어공부도 게을리하면 안되겠다 휴.</li>
-</ul>
-<h4 id="내일-할-일"><a href="#내일-할-일" class="headerlink" title="내일 할 일"></a>내일 할 일</h4><ul>
-<li>자바스크립트 인사이드 훑어보기</li>
-<li>Front-end 개발자를 위한 Javascript 배열 - 객체</li>
-<li>MEAN stack 스터디 3차</li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
-&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot;&gt; 알고리즘 Level.1 문제 2개 풀기&lt;/li&gt;
-&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt; 생활코딩 자바스크립트 입문 강의 2개 듣기 : 클로저 / 값으로서의 함수의 콜백&lt;/li&gt;
-&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=RaXN4qmW96Q&amp;amp;list=PLnkwNkWVo5pVxyGW_xqGgTJ_PBlTzXcm8&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;한 놈만 패는 자바스크립트&lt;/a&gt; 5교시 듣기&lt;/li&gt;
-&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt; 소수찾기 part2 다시 풀기&lt;/li&gt;
-&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt; 코드카데미 javascript 다시 시작 / 코스 하나 끝내기
-    
-    </summary>
-    
-      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
-    
-    
-      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>자바스크립트 약수의 합</title>
-    <link href="http://yoursite.com/2017/08/28/divisorsum/"/>
-    <id>http://yoursite.com/2017/08/28/divisorsum/</id>
-    <published>2017-08-28T14:48:19.826Z</published>
-    <updated>2017-08-28T14:55:18.917Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="Level-1-자바스크립트-약수의-합"><a href="#Level-1-자바스크립트-약수의-합" class="headerlink" title="Level 1. 자바스크립트 약수의 합"></a>Level 1. 자바스크립트 <a href="https://programmers.co.kr/learn/challenge_codes/3" target="_blank" rel="external">약수의 합</a></h4><blockquote>
-<p><strong>문제</strong><br><br>어떤 수를 입력받아 그 수의 약수를 모두 더한 수 sumDivisor 함수를 완성해 보세요. 예를 들어 12가 입력된다면 12의 약수는 [1, 2, 3, 4, 6, 12]가 되고, 총 합은 28이 되므로 28을 반환해 주면 됩니다.</p>
-</blockquote>
-<a id="more"></a>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div></pre></td><td class="code"><pre><div class="line">function sumDivisor(num) &#123;</div><div class="line">	var answer = 0;</div><div class="line">    // i가 num보다 크거나 같을 때 까지 i값이 증가</div><div class="line">		for (var i = 0; i &lt;= num; i++) &#123;</div><div class="line">      // 만약 num 값을 i로 나눴을 때 나머지가 0이면 answer에 i값을 더한다.</div><div class="line">			if (num % i == 0) &#123;  </div><div class="line">				answer += i;</div><div class="line">			&#125;</div><div class="line">		&#125;</div><div class="line">	return answer;</div><div class="line">&#125;</div><div class="line"></div><div class="line">// 아래는 테스트로 출력해 보기 위한 코드입니다.</div><div class="line">console.log(sumDivisor(12));</div></pre></td></tr></table></figure>
-<blockquote>
-<h4 id="풀이"><a href="#풀이" class="headerlink" title="풀이"></a><strong>풀이</strong></h4></blockquote>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">sumDivisor(12);</div><div class="line">28</div></pre></td></tr></table></figure>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;Level-1-자바스크립트-약수의-합&quot;&gt;&lt;a href=&quot;#Level-1-자바스크립트-약수의-합&quot; class=&quot;headerlink&quot; title=&quot;Level 1. 자바스크립트 약수의 합&quot;&gt;&lt;/a&gt;Level 1. 자바스크립트 &lt;a href=&quot;https://programmers.co.kr/learn/challenge_codes/3&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;약수의 합&lt;/a&gt;&lt;/h4&gt;&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;문제&lt;/strong&gt;&lt;br&gt;&lt;br&gt;어떤 수를 입력받아 그 수의 약수를 모두 더한 수 sumDivisor 함수를 완성해 보세요. 예를 들어 12가 입력된다면 12의 약수는 [1, 2, 3, 4, 6, 12]가 되고, 총 합은 28이 되므로 28을 반환해 주면 됩니다.&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-      <category term="알고리즘" scheme="http://yoursite.com/categories/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/"/>
-    
-    
-      <category term="알고리즘" scheme="http://yoursite.com/tags/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/"/>
     
   </entry>
   
