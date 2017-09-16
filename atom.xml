@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-16T14:20:07.623Z</updated>
+  <updated>2017-09-16T14:34:04.938Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,39 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Codecademy Javascript FizzBuzz</title>
+    <link href="http://yoursite.com/2017/09/16/js-fizzbuzz/"/>
+    <id>http://yoursite.com/2017/09/16/js-fizzbuzz/</id>
+    <published>2017-09-16T14:30:24.468Z</published>
+    <updated>2017-09-16T14:34:04.938Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="Codecademy-FizzBuzz"><a href="#Codecademy-FizzBuzz" class="headerlink" title="Codecademy - FizzBuzz"></a><a href="https://www.codecademy.com/courses/fizzbuzz/0/1" target="_blank" rel="external">Codecademy - FizzBuzz</a></h4><blockquote>
+<p><strong>문제</strong></p>
+<p>FizzBuzz<br>You are fizzing and buzzing right along.</p>
+<p>But look at that “15”…it says “Fizz” but it should be “FizzBuzz” because it’s &gt; divisible by both 3 and 5. Oops!<br><a id="more"></a></p>
+</blockquote>
+<p><em>Instructions</em></p>
+<p>Add another if statement to your code to check for this special case.<br>There is a special math trick that will help you here. Remember there is a Hint button below if you don’t remember it.</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div></pre></td><td class="code"><pre><div class="line">for (var i = 1; i &lt;= 20; i++)&#123;</div><div class="line"></div><div class="line">    if  (i % 15 === 0)&#123;</div><div class="line">        console.log(&quot;FizzBuzz&quot;);</div><div class="line">    &#125;</div><div class="line">    else if (i % 3 ===0) &#123;</div><div class="line">        console.log(&quot;Fizz&quot;);</div><div class="line">    &#125;</div><div class="line">    else if (i % 5 ===0) &#123;</div><div class="line">        console.log(&quot;Buzz&quot;);</div><div class="line">    &#125;</div><div class="line">    else &#123;</div><div class="line">        console.log(i);</div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;Codecademy-FizzBuzz&quot;&gt;&lt;a href=&quot;#Codecademy-FizzBuzz&quot; class=&quot;headerlink&quot; title=&quot;Codecademy - FizzBuzz&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.codecademy.com/courses/fizzbuzz/0/1&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Codecademy - FizzBuzz&lt;/a&gt;&lt;/h4&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;문제&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;FizzBuzz&lt;br&gt;You are fizzing and buzzing right along.&lt;/p&gt;
+&lt;p&gt;But look at that “15”…it says “Fizz” but it should be “FizzBuzz” because it’s &amp;gt; divisible by both 3 and 5. Oops!&lt;br&gt;
+    
+    </summary>
+    
+      <category term="javascript" scheme="http://yoursite.com/categories/javascript/"/>
+    
+    
+      <category term="javascript codecademy" scheme="http://yoursite.com/tags/javascript-codecademy/"/>
+    
+  </entry>
   
   <entry>
     <title>170916-TIL</title>
@@ -817,46 +850,6 @@
 &lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt; 알고리즘 Level.1 문제 &lt;a href=&quot;https://programmers.co.kr/learn/challenge_codes/120&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;정수제곱근 판별하기&lt;/a&gt; 풀기&lt;/li&gt;
 &lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt; 코딩 1페이지 50% 작업&lt;/li&gt;
 &lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt; SASS 설치 / CSS -&amp;gt; SASS로 변경&lt;/li&gt;
-&lt;/ul&gt;
-    
-    </summary>
-    
-      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
-    
-    
-      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>170901-TIL</title>
-    <link href="http://yoursite.com/2017/09/01/170901-TIL/"/>
-    <id>http://yoursite.com/2017/09/01/170901-TIL/</id>
-    <published>2017-09-01T11:03:23.152Z</published>
-    <updated>2017-09-02T14:00:41.211Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
-<li style="list-style: none"><input type="checkbox" checked> 코드카데미 배열 파트 1개 프로젝트 완료</li>
-<li style="list-style: none"><input type="checkbox" checked> 스터디 자료 다시 읽기</li>
-<li style="list-style: none"><input type="checkbox" checked> 생활코딩 강의 2개 듣기 - this / 메소드와 this</li>
-</ul>
-<a id="more"></a>
-<h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><ul>
-<li>오늘은 공부를 많이 못했다.</li>
-</ul>
-<h4 id="내일-할-일"><a href="#내일-할-일" class="headerlink" title="내일 할 일"></a>내일 할 일</h4><ul>
-<li>스터디 1번/2번 예제 실습</li>
-<li>알고리즘 Level.1 문제 1개 풀기</li>
-<li>코딩 1페이지</li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
-&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt; 코드카데미 배열 파트 1개 프로젝트 완료&lt;/li&gt;
-&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt; 스터디 자료 다시 읽기&lt;/li&gt;
-&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt; 생활코딩 강의 2개 듣기 - this / 메소드와 this&lt;/li&gt;
 &lt;/ul&gt;
     
     </summary>
