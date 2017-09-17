@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-16T14:34:04.938Z</updated>
+  <updated>2017-09-17T14:41:35.621Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,50 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>170917-TIL</title>
+    <link href="http://yoursite.com/2017/09/17/170917-TIL/"/>
+    <id>http://yoursite.com/2017/09/17/170917-TIL/</id>
+    <published>2017-09-17T14:39:17.423Z</published>
+    <updated>2017-09-17T14:41:35.621Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
+<li>Codecademy<ul>
+<li>객체(objects) 입문 I 파트 완료</li>
+</ul>
+</li>
+</ul>
+<h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><ul>
+<li><p>객체 복습했다. 내일 또 복습.</p>
+<a id="more"></a>
+</li>
+</ul>
+<h4 id="내일-할-일"><a href="#내일-할-일" class="headerlink" title="내일 할 일"></a>내일 할 일</h4><ul>
+<li>codecademy 객체 입문 파트 2</li>
+<li>프로젝트 메인페이지 이미지 추가, calendar 디자인 변경, bookmark button 변경</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Codecademy&lt;ul&gt;
+&lt;li&gt;객체(objects) 입문 I 파트 완료&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;회고&quot;&gt;&lt;a href=&quot;#회고&quot; class=&quot;headerlink&quot; title=&quot;회고&quot;&gt;&lt;/a&gt;회고&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;객체 복습했다. 내일 또 복습.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
+    
+    
+      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
+    
+  </entry>
   
   <entry>
     <title>Codecademy Javascript FizzBuzz</title>
@@ -810,47 +854,6 @@
 &lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt; 에라토스테네스의 체(배열) 50% 완료&lt;/li&gt;
 &lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt; 알고리즘 Level.1 문제 풀기 : &lt;a href=&quot;https://programmers.co.kr/learn/challenge_codes/104&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;서울에서 김서방찾기&lt;/a&gt;&lt;/li&gt;
 &lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot;&gt; 스터디 1번 / 2번 예제 실습
-    
-    </summary>
-    
-      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
-    
-    
-      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>170902-TIL</title>
-    <link href="http://yoursite.com/2017/09/02/170902-TIL/"/>
-    <id>http://yoursite.com/2017/09/02/170902-TIL/</id>
-    <published>2017-09-02T13:57:07.398Z</published>
-    <updated>2017-09-03T14:07:09.599Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
-<li style="list-style: none"><input type="checkbox"> 스터디 1번/2번 예제 실습</li>
-<li style="list-style: none"><input type="checkbox" checked> 알고리즘 Level.1 문제 <a href="https://programmers.co.kr/learn/challenge_codes/120" target="_blank" rel="external">정수제곱근 판별하기</a> 풀기</li>
-<li style="list-style: none"><input type="checkbox" checked> 코딩 1페이지 50% 작업</li>
-<li style="list-style: none"><input type="checkbox" checked> SASS 설치 / CSS -&gt; SASS로 변경</li>
-</ul>
-<a id="more"></a>
-<h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><ul>
-<li>제이쿼리 공부도 틈틈히 해야할듯.</li>
-</ul>
-<h4 id="내일-할-일"><a href="#내일-할-일" class="headerlink" title="내일 할 일"></a>내일 할 일</h4><ul>
-<li>스터디 1번 / 2번 예제 실습</li>
-<li>알고리즘 Level.1 문제 풀기</li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
-&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot;&gt; 스터디 1번/2번 예제 실습&lt;/li&gt;
-&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt; 알고리즘 Level.1 문제 &lt;a href=&quot;https://programmers.co.kr/learn/challenge_codes/120&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;정수제곱근 판별하기&lt;/a&gt; 풀기&lt;/li&gt;
-&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt; 코딩 1페이지 50% 작업&lt;/li&gt;
-&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt; SASS 설치 / CSS -&amp;gt; SASS로 변경&lt;/li&gt;
-&lt;/ul&gt;
     
     </summary>
     
