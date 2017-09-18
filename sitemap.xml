@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2017/09/18/170918-TIL/</loc>
+    <loc>http://yoursite.com/2017/09/16/js-fizzbuzz/</loc>
     
-    <lastmod>2017-09-18T14:34:57.269Z</lastmod>
+    <lastmod>2017-09-18T15:55:57.107Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/2017/09/18/become-a-front-end-developer/</loc>
     
-    <lastmod>2017-09-18T14:34:01.836Z</lastmod>
+    <lastmod>2017-09-18T15:55:39.765Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/09/18/170918-TIL/</loc>
+    
+    <lastmod>2017-09-18T14:34:57.269Z</lastmod>
     
   </url>
   
@@ -23,23 +30,9 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2017/09/18/object-part-1/</loc>
-    
-    <lastmod>2017-09-18T12:16:43.768Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/2017/09/17/170917-TIL/</loc>
     
     <lastmod>2017-09-17T14:41:35.621Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2017/09/16/js-fizzbuzz/</loc>
-    
-    <lastmod>2017-09-16T14:34:04.938Z</lastmod>
     
   </url>
   

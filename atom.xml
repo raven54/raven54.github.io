@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>daily study</title>
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-18T14:34:01.836Z</updated>
+  <updated>2017-09-18T15:55:39.765Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>standbe</name>
     
   </author>
   
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2017/09/18/become-a-front-end-developer/"/>
     <id>http://yoursite.com/2017/09/18/become-a-front-end-developer/</id>
     <published>2017-09-18T14:18:12.847Z</published>
-    <updated>2017-09-18T14:34:01.836Z</updated>
+    <updated>2017-09-18T15:55:39.765Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>프론트엔드 로드맵 정리</p>
@@ -28,9 +28,8 @@
 <h4 id="비전공자"><a href="#비전공자" class="headerlink" title="비전공자"></a>비전공자</h4><ul>
 <li><a href="http://bitobe.me/good-tip/how-to-be-developer-interview/" target="_blank" rel="external">개발자가 되고 싶은 비전공자가 고민해야 할 것-인터뷰</a></li>
 <li><a href="https://www.facebook.com/notes/jungmin-oh/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EB%A1%9C%EC%84%9C-%EA%B0%9C%EB%B0%9C%EA%B3%B5%EB%B6%80%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%A9%B0/517022371737304/" target="_blank" rel="external">비전공자로 개발 공부를 시작하며</a></li>
-<li><a href="https://brunch.co.kr/@andrewyhc/3" target="_blank" rel="external">문돌이가 개발자랑 일할 만큼 프로그래밍 익히기</a></li>
-</ul>
-<h4 id="개발입문"><a href="#개발입문" class="headerlink" title="개발입문"></a>개발입문</h4><ul>
+<li><a href="https://brunch.co.kr/@andrewyhc/3" target="_blank" rel="external">문돌이가 개발자랑 일할 만큼 프로그래밍 익히기</a><a id="more"></a>
+<h4 id="개발입문"><a href="#개발입문" class="headerlink" title="개발입문"></a>개발입문</h4></li>
 <li><a href="http://asfirstalways.tistory.com/293" target="_blank" rel="external">개발입문자를 위한 짤막한 안내서</a></li>
 <li><a href="http://qna.iamprogrammer.io/t/topic/333/6" target="_blank" rel="external">나프다 초보 개발자가 살아남는법</a></li>
 <li><a href="https://www.sangkon.com/2016/02/10/good_books_for_dev/" target="_blank" rel="external">프로그래밍 필독서</a></li>
@@ -64,7 +63,9 @@
 &lt;p&gt;프론트엔드 로드맵 정리&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h4 id=&quot;비전공자&quot;&gt;&lt;a href=&quot;#비전공자&quot; class=&quot;headerlink&quot; title=&quot;비전공자&quot;&gt;&lt;/a&gt;비전공자&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;
+&lt;li&gt;&lt;a href=&quot;http://bitobe.me/good-tip/how-to-be-developer-interview/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;개발자가 되고 싶은 비전공자가 고민해야 할 것-인터뷰&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/notes/jungmin-oh/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EB%A1%9C%EC%84%9C-%EA%B0%9C%EB%B0%9C%EA%B3%B5%EB%B6%80%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%A9%B0/517022371737304/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;비전공자로 개발 공부를 시작하며&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://brunch.co.kr/@andrewyhc/3&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;문돌이가 개발자랑 일할 만큼 프로그래밍 익히기&lt;/a&gt;
     
     </summary>
     
@@ -72,30 +73,6 @@
     
     
       <category term="javascript, front-end" scheme="http://yoursite.com/tags/javascript-front-end/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>객체 Part.1</title>
-    <link href="http://yoursite.com/2017/09/18/object-part-1/"/>
-    <id>http://yoursite.com/2017/09/18/object-part-1/</id>
-    <published>2017-09-18T12:14:28.698Z</published>
-    <updated>2017-09-18T12:16:43.768Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="Part-객체"><a href="#Part-객체" class="headerlink" title="Part : 객체"></a>Part : 객체</h4><p>리터럴 방식<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">var james = &#123;&#125;;</div><div class="line"></div><div class="line">var clay = new Array();  </div><div class="line">var owen = [];</div></pre></td></tr></table></figure></p>
-<p>생성자<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">var James = new Object();</div></pre></td></tr></table></figure></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;Part-객체&quot;&gt;&lt;a href=&quot;#Part-객체&quot; class=&quot;headerlink&quot; title=&quot;Part : 객체&quot;&gt;&lt;/a&gt;Part : 객체&lt;/h4&gt;&lt;p&gt;리터럴 방식&lt;br&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;tab
-    
-    </summary>
-    
-      <category term="javascript" scheme="http://yoursite.com/categories/javascript/"/>
-    
-    
-      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
     
   </entry>
   
@@ -199,11 +176,11 @@
   </entry>
   
   <entry>
-    <title>Codecademy Javascript FizzBuzz</title>
+    <title>Javascript FizzBuzz</title>
     <link href="http://yoursite.com/2017/09/16/js-fizzbuzz/"/>
     <id>http://yoursite.com/2017/09/16/js-fizzbuzz/</id>
     <published>2017-09-16T14:30:24.468Z</published>
-    <updated>2017-09-16T14:34:04.938Z</updated>
+    <updated>2017-09-18T15:55:57.107Z</updated>
     
     <content type="html"><![CDATA[<h4 id="Codecademy-FizzBuzz"><a href="#Codecademy-FizzBuzz" class="headerlink" title="Codecademy - FizzBuzz"></a><a href="https://www.codecademy.com/courses/fizzbuzz/0/1" target="_blank" rel="external">Codecademy - FizzBuzz</a></h4><blockquote>
 <p><strong>문제</strong></p>
@@ -896,6 +873,38 @@
     </summary>
     
       <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
+    
+    
+      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>함수 패턴</title>
+    <link href="http://yoursite.com/2017/09/04/function1/"/>
+    <id>http://yoursite.com/2017/09/04/function1/</id>
+    <published>2017-09-04T12:55:44.287Z</published>
+    <updated>2017-09-07T14:40:06.167Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="Part-함수"><a href="#Part-함수" class="headerlink" title="Part : 함수"></a>Part : 함수</h4><h4 id="함수의-메소드"><a href="#함수의-메소드" class="headerlink" title="함수의 메소드"></a>함수의 메소드</h4><p><strong>예제</strong><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">var obj = &#123;</div><div class="line">    prime : function()&#123; // 메소드</div><div class="line">      console.log(&apos;prime&apos;);</div><div class="line">    &#125;</div><div class="line"></div><div class="line">&#125;</div></pre></td></tr></table></figure></p>
+<a id="more"></a>
+<h4 id="메소드-호출-패턴"><a href="#메소드-호출-패턴" class="headerlink" title="메소드 호출 패턴"></a>메소드 호출 패턴</h4><ul>
+<li>함수를 객체의 속성에 저장하는 경우, 그 함수를 메소드라고 부른다.</li>
+<li>메소드를 호출할 때, this는 메소드를 포함하고 있는 <strong>객체</strong> 에 바인딩 된다.</li>
+</ul>
+<p><strong>예제</strong><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div></pre></td><td class="code"><pre><div class="line">var myObject = &#123;</div><div class="line">  value : 0;</div><div class="line">  increment : function(inc) &#123;</div><div class="line">    this.value += typeof inc === &apos;number&apos; ? inc : 1;</div><div class="line">  &#125;</div><div class="line">&#125;;</div><div class="line">myObject.increment();</div><div class="line">console.log(myObject[&quot;value&quot;]); // 1</div><div class="line">myObject.increment(2);</div><div class="line">console.log(myObject.value); // 3</div><div class="line">```      </div><div class="line"></div><div class="line">#### 함수 호출 패턴</div><div class="line">- 함수가 객체의 속성이 아닌 경우에는 함수로서 호출</div><div class="line">- this는 전역 객체에 바인딩 된다 (Web의 경우 window, node는 global)</div><div class="line">-- 언어 설계 단계에서의 실수로 본다.</div><div class="line">-- 메소드에서 변수를 정의한 후 여기에 this를 할당하고, 내부 함수는 이 변수를 통해서 메소드의 this에 접근함으로써 해결 가능(트릭)</div><div class="line"></div><div class="line">**예제**</div></pre></td></tr></table></figure></p>
+<p>function add(a,b){<br>  return a + b;<br>}</p>
+<p>myObject.double = fuction(){<br>  var that = this; // 대안<br>  var helper = fuction(){<br>    that.value = add(that.value, that.value);<br>  }<br>  helper();<br>};</p>
+<p>myObject.double();<br>console.log(myObject.getValue()); // 6;<br>```</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;Part-함수&quot;&gt;&lt;a href=&quot;#Part-함수&quot; class=&quot;headerlink&quot; title=&quot;Part : 함수&quot;&gt;&lt;/a&gt;Part : 함수&lt;/h4&gt;&lt;h4 id=&quot;함수의-메소드&quot;&gt;&lt;a href=&quot;#함수의-메소드&quot; class=&quot;headerlink&quot; title=&quot;함수의 메소드&quot;&gt;&lt;/a&gt;함수의 메소드&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;예제&lt;/strong&gt;&lt;br&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;3&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;4&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;5&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;6&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;var obj = &amp;#123;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;    prime : function()&amp;#123; // 메소드&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;      console.log(&amp;apos;prime&amp;apos;);&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;    &amp;#125;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&amp;#125;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="javascript" scheme="http://yoursite.com/categories/javascript/"/>
     
     
       <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
