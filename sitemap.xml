@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2017/09/18/170918-TIL/</loc>
+    
+    <lastmod>2017-09-18T14:34:57.269Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/09/18/become-a-front-end-developer/</loc>
+    
+    <lastmod>2017-09-18T14:34:01.836Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/08/31/aryobj1/</loc>
+    
+    <lastmod>2017-09-18T14:16:04.366Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/09/18/object-part-1/</loc>
+    
+    <lastmod>2017-09-18T12:16:43.768Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2017/09/17/170917-TIL/</loc>
     
     <lastmod>2017-09-17T14:41:35.621Z</lastmod>
@@ -138,13 +166,6 @@
     <loc>http://yoursite.com/2017/08/27/primenumber/</loc>
     
     <lastmod>2017-09-06T14:14:22.664Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2017/08/31/aryobj1/</loc>
-    
-    <lastmod>2017-09-04T12:56:33.868Z</lastmod>
     
   </url>
   

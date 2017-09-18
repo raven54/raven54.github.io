@@ -1,10 +1,48 @@
-<!DOCTYPE html><html prefix="og: http://ogp.me/ns#"><head><meta charset="utf-8"><meta name="X-UA-Compatible" content="IE=edge"><title>배열과 객체 · Hexo</title><meta name="description"><meta name="og:url" content="http://yoursite.com/2017/08/31/aryobj1/"><meta name="og:type" content="article"><meta name="og:title" content="배열과 객체"><meta name="og:description"><meta name="og:image" content="http://yoursite.com/logo.png"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="icon" href="/favicon.ico"><link rel="stylesheet" href="/css/apollo.css"><link rel="search" type="application/opensearchdescription+xml" href="http://yoursite.com/atom.xml" title="Hexo"></head><body><div id="fb-root"></div><div class="wrap"><header><a class="logo-link" href="/"><img src="/logo.png" alt="logo"></a><ul class="nav nav-list"><li class="nav-list-item"><a class="nav-list-link" href="/archives/" target="_self">아카이브</a></li><li class="nav-list-item"><a class="nav-list-link" href="/categories/TIL" target="_self">TIL</a></li></ul></header><main class="container"><div class="post"><article class="post-block"><h1 class="post-title">배열과 객체</h1><div class="post-info"><div class="post-info-profile"><a href="https://github.com/raven54" target="_blank"><img src="/image/profile.jpg"></a></div><div class="post-info-details"><div class="post-categories"><a href="/categories/javascript" target="_self"><span>JAVASCRIPT</span></a></div><div class="post-date">Aug 31, 2017에 쓰여진 글입니다.</div></div></div><div class="post-share"><div class="fb-like" data-href="http://yoursite.com/2017/08/31/aryobj1/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="false">                 </div><div class="fb-share-button" data-href="http://yoursite.com/2017/08/31/aryobj1/" data-layout="button" data-size="small" data-mobile-iframe="true"></div></div><div class="post-content"><h4 id="Part-배열과-객체"><a href="#Part-배열과-객체" class="headerlink" title="Part : 배열과 객체"></a>Part : 배열과 객체</h4><h4 id="배열"><a href="#배열" class="headerlink" title="배열"></a>배열</h4><p>배열의 특징</p>
+<!DOCTYPE html><html prefix="og: http://ogp.me/ns#"><head><meta charset="utf-8"><meta name="X-UA-Compatible" content="IE=edge"><title>배열과 객체 · Hexo</title><meta name="description"><meta name="og:url" content="http://yoursite.com/2017/08/31/aryobj1/"><meta name="og:type" content="article"><meta name="og:title" content="배열과 객체"><meta name="og:description"><meta name="og:image" content="http://yoursite.com/logo.png"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="icon" href="/favicon.ico"><link rel="stylesheet" href="/css/apollo.css"><link rel="search" type="application/opensearchdescription+xml" href="http://yoursite.com/atom.xml" title="Hexo"></head><body><div id="fb-root"></div><div class="wrap"><header><a class="logo-link" href="/"><img src="/logo.png" alt="logo"></a><ul class="nav nav-list"><li class="nav-list-item"><a class="nav-list-link" href="/archives/" target="_self">아카이브</a></li><li class="nav-list-item"><a class="nav-list-link" href="/categories/TIL" target="_self">TIL</a></li></ul></header><main class="container"><div class="post"><article class="post-block"><h1 class="post-title">배열과 객체</h1><div class="post-info"><div class="post-info-profile"><a href="https://github.com/raven54" target="_blank"><img src="/image/profile.jpg"></a></div><div class="post-info-details"><div class="post-categories"><a href="/categories/javascript" target="_self"><span>JAVASCRIPT</span></a></div><div class="post-date">Aug 31, 2017에 쓰여진 글입니다.</div></div></div><div class="post-share"><div class="fb-like" data-href="http://yoursite.com/2017/08/31/aryobj1/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="false">                 </div><div class="fb-share-button" data-href="http://yoursite.com/2017/08/31/aryobj1/" data-layout="button" data-size="small" data-mobile-iframe="true"></div></div><div class="post-content"><h4 id="Part-배열과-객체"><a href="#Part-배열과-객체" class="headerlink" title="Part : 배열과 객체"></a>Part : 배열과 객체</h4><h4 id="객체"><a href="#객체" class="headerlink" title="객체"></a>객체</h4><ul>
+<li>속성의 이름은 문자열이면 모두 가능(공백과 대시도 포함)</li>
+<li>속성의 값은 undefined를 제외한 모든 값 가능</li>
+<li>쉼표로 이름-값 쌍을 구분</li>
+<li>속성의 이름은 <a href="https://msdn.microsoft.com/ko-kr/library/0779sbks(v=vs.94" target="_blank" rel="external">예약어</a>.aspx)가 아닐 경우 따옴표 (“”)를 생략 할 수 있다.</li>
+<li>객체의 속성 값은 대괄호나 마침표로 접근 할 수 있다.</li>
+</ul>
+<a id="more"></a>
+<ol>
+<li>리터럴 방식<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">var james = &#123;&#125;;</div></pre></td></tr></table></figure>
+</li>
+</ol>
 <ul>
+<li>프로퍼티 추가<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">var james = &#123;</div><div class="line">  lastName : &quot;owen&quot;,</div><div class="line">  gender : &apos;male&apos;,</div><div class="line">  ID : 1234  </div><div class="line">&#125;;</div></pre></td></tr></table></figure>
+</li>
+</ul>
+<ol>
+<li>생성자 방식<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">var James = new Object();</div></pre></td></tr></table></figure>
+</li>
+</ol>
+<ul>
+<li><p>프로퍼티 추가</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">James.firstName = &quot;owen&quot;;</div><div class="line">James.gender = &quot;male&quot;;</div></pre></td></tr></table></figure>
+</li>
+<li><p>출력값</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">James;</div><div class="line">&#123;firstName : &quot;owen&quot;, genter : &quot;male&quot;&#125;</div></pre></td></tr></table></figure>
+</li>
+</ul>
+<ol>
+<li>생성자 함수</li>
+</ol>
+<ul>
+<li><p>생성자 함수의 첫 글자는 대문자로 쓰는 것을 권장한다.</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">var Group = function(member, gender, age) &#123;</div><div class="line">  this.member = member;</div><div class="line">  this.gender = gender;</div><div class="line">  this.age = age;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+</li>
+<li><p>출력값</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">var soccer = new Group(&apos;Ronaldo&apos;,&apos;male&apos;,&apos;32&apos;);</div><div class="line"></div><div class="line">console.log(soccer);</div><div class="line">Group &#123;member: &quot;Ronaldo&quot;, gender: &quot;male&quot;, age: &quot;32&quot;&#125;</div></pre></td></tr></table></figure>
+</li>
+</ul>
+<h4 id="배열"><a href="#배열" class="headerlink" title="배열"></a>배열</h4><p>배열의 특징</p>
+<ul>
+<li>배열 자체도 객체이다.</li>
 <li>생성방식 : 리터럴 방식과 생성자 방식이 있다.</li>
 <li>숫자, 문자, 객체, boolean 각기 다른 타입을 담을 수 있다.</li>
 <li>값을 지정하지 않은 경우 undefined가 된다.</li>
-<li>배열 자체는 객체이다.<a id="more"></a>
-</li>
 </ul>
 <p><strong>선언 방식</strong></p>
 <ol>
@@ -12,14 +50,7 @@
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">var arr = [];</div><div class="line">var arr2 = [1,true,a,&quot;o&quot;];</div></pre></td></tr></table></figure>
 </li>
 <li><p>생성자 방식</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">var arr = new Array();</div><div class="line"></div><div class="line">var arr = new Array(3)</div><div class="line">//숫자를 쓰면 데이터가 3개 있는 배열을 만든다.</div><div class="line"></div><div class="line">var arr = array(2);</div><div class="line">// new를 생략해도 선언이 가능하지만 new를 쓰는 게 좋다.</div></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">var arr = new Array();</div><div class="line"></div><div class="line">var arr = new Array(3);</div><div class="line">//숫자를 쓰면 데이터가 3개 있는 배열을 만든다.</div><div class="line"></div><div class="line">var arr = array(2);</div><div class="line">// new를 생략해도 선언이 가능하지만 new를 쓰는 게 좋다.</div></pre></td></tr></table></figure>
 </li>
 </ol>
-<h4 id="객체"><a href="#객체" class="headerlink" title="객체"></a>객체</h4><ul>
-<li>속성의 이름은 문자열이면 모두 가능(공백과 대시도 포함)</li>
-<li>속성의 값은 undefined를 제외한 모든 값 가능</li>
-<li>쉼표로 이름-값 쌍을 구분</li>
-<li>속성의 이름은 예약어가 아닐 경우 따옴표 (“”)를 생략 할 수 있다.</li>
-<li>객체의 속성 값은 대괄호나 마침표로 접근 할 수 있다.</li>
-</ul>
 </div></article></div></main><footer><div class="paginator"><a class="prev" href="/2017/08/31/170831-TIL/">PREV</a><a class="next" href="/2017/08/31/170830-TIL/">NEXT</a></div><div id="disqus_thread"></div></footer></div><script async src="//cdn.bootcss.com/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML" integrity="sha384-crwIf/BuaWM9rM65iM+dWFldgQ1Un8jWZMuh3puxb8TOY9+linwLoI7ZHZT+aekW" crossorigin="anonymous"></script><script>(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;e=o.createElement(i);r=o.getElementsByTagName(i)[0];e.src='//www.google-analytics.com/analytics.js';r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));ga('create','UA-99076253-1','auto');ga('send','pageview');</script></body></html>
