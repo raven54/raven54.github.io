@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-18T15:55:39.765Z</updated>
+  <updated>2017-09-19T14:44:33.084Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,149 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Private Variables</title>
+    <link href="http://yoursite.com/2017/09/19/private-variables/"/>
+    <id>http://yoursite.com/2017/09/19/private-variables/</id>
+    <published>2017-09-19T14:36:06.623Z</published>
+    <updated>2017-09-19T14:44:33.084Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="Private-Variables"><a href="#Private-Variables" class="headerlink" title="Private Variables"></a>Private Variables</h4><blockquote>
+<p>Codecademy</p>
+</blockquote>
+<ul>
+<li>함수가 해당 함수 내에서만 사용할 수 있는 지역 변수를 갖는 것 처럼, 객체 역시 객체 내에서만 접근할 수 있는 private variables가 있다.</li>
+</ul>
+<a id="more"></a>
+<blockquote>
+<p>example</p>
+</blockquote>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div></pre></td><td class="code"><pre><div class="line">function() &#123;</div><div class="line">  var a = 10;</div><div class="line">&#125;</div><div class="line">a; // undefined 함수</div><div class="line"></div><div class="line">function Person() &#123;</div><div class="line">  this.name = name;</div><div class="line">  var balance = 5000;</div><div class="line">&#125;</div><div class="line"></div><div class="line">var john = new Person();</div><div class="line">console.log(john.balance); // 5000 출력</div></pre></td></tr></table></figure>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;Private-Variables&quot;&gt;&lt;a href=&quot;#Private-Variables&quot; class=&quot;headerlink&quot; title=&quot;Private Variables&quot;&gt;&lt;/a&gt;Private Variables&lt;/h4&gt;&lt;blockquote&gt;
+&lt;p&gt;Codecademy&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;함수가 해당 함수 내에서만 사용할 수 있는 지역 변수를 갖는 것 처럼, 객체 역시 객체 내에서만 접근할 수 있는 private variables가 있다.&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="javascript" scheme="http://yoursite.com/categories/javascript/"/>
+    
+    
+      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>170919-TIL</title>
+    <link href="http://yoursite.com/2017/09/19/170919-TIL/"/>
+    <id>http://yoursite.com/2017/09/19/170919-TIL/</id>
+    <published>2017-09-19T13:55:15.513Z</published>
+    <updated>2017-09-19T14:47:05.866Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
+<li><p>Codecademy</p>
+<ul>
+<li>객체(objects) 입문 II 파트 27/30 진행</li>
+<li><a href="https://raven54.github.io/2017/09/11/prototype1/" target="_blank" rel="external">프로토타입 내용 추가</a></li>
+<li>Private Variables</li>
+</ul>
+</li>
+<li><p>강의시청 :</p>
+<ul>
+<li>생활코딩 생성자와 new 1~3 파트 복습</li>
+</ul>
+</li>
+<li><p>개발영어 : stackoverflow에서 모르는 단어외우기 10개</p>
+</li>
+</ul>
+<h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><ul>
+<li>오늘은 홈페이지 작업을 못했다. 보고서 쓰느라 시간을 너무 많이 썼고, codecademy Object part.2 범위가 생각보다 넓었다.</li>
+<li>영어 공부로 간단하게 stackoverflow에서 모르는 단어를 외우기로 했다. 일단은 하루 10~15개씩만 출퇴근 시간에 외우면 될듯.</li>
+<li>disqus 추가가 안된다. 방법을 찾아봐야겠다.</li>
+</ul>
+<h4 id="내일-할-일"><a href="#내일-할-일" class="headerlink" title="내일 할 일"></a>내일 할 일</h4><ul>
+<li>codecademy 객체 입문 파트 2 마무리</li>
+<li>프로젝트 메인페이지 이미지 추가, calendar 디자인 변경</li>
+<li>프로젝트 activity 페이지 마무리하기.</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Codecademy&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;객체(objects) 입문 II 파트 
+    
+    </summary>
+    
+      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
+    
+    
+      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>생성자와 new</title>
+    <link href="http://yoursite.com/2017/09/19/constructor-new/"/>
+    <id>http://yoursite.com/2017/09/19/constructor-new/</id>
+    <published>2017-09-19T13:50:24.875Z</published>
+    <updated>2017-09-19T13:55:02.285Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="생성자와-new"><a href="#생성자와-new" class="headerlink" title="생성자와 new"></a>생성자와 new</h4><blockquote>
+<p>생활코딩 복습</p>
+</blockquote>
+<ul>
+<li>javascript는 prototype based language이다.</li>
+<li>객체는 연관 된 변수와 함수를 그룹핑한 그릇이다.</li>
+<li>객체 지향의 목표는 “좋은 부품”을 만드는 것이다.</li>
+</ul>
+<p><strong>객체</strong></p>
+<ul>
+<li>객체 내의 변수를 “property”, 함수를 “method”라고 한다.<a id="more"></a></li>
+<li>생성자는 객체를 만드는 역할을 하는 함수를 가르킨다.</li>
+</ul>
+<blockquote>
+<p>example</p>
+</blockquote>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">function person() &#123;&#125;;</div><div class="line">var p = person();</div><div class="line">p // undefined</div><div class="line"></div><div class="line">var p1 = new Person(); // new를 붙이면 Person(); 생성자로 가르킨다.</div><div class="line">var p1 // Person&#123;&#125;</div></pre></td></tr></table></figure>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;생성자와-new&quot;&gt;&lt;a href=&quot;#생성자와-new&quot; class=&quot;headerlink&quot; title=&quot;생성자와 new&quot;&gt;&lt;/a&gt;생성자와 new&lt;/h4&gt;&lt;blockquote&gt;
+&lt;p&gt;생활코딩 복습&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;javascript는 prototype based language이다.&lt;/li&gt;
+&lt;li&gt;객체는 연관 된 변수와 함수를 그룹핑한 그릇이다.&lt;/li&gt;
+&lt;li&gt;객체 지향의 목표는 “좋은 부품”을 만드는 것이다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;객체&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;객체 내의 변수를 “property”, 함수를 “method”라고 한다.
+    
+    </summary>
+    
+      <category term="javascript" scheme="http://yoursite.com/categories/javascript/"/>
+    
+    
+      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
+    
+  </entry>
+  
+  <entry>
     <title>프론트엔드 입문자를 위한 로드맵</title>
     <link href="http://yoursite.com/2017/09/18/become-a-front-end-developer/"/>
     <id>http://yoursite.com/2017/09/18/become-a-front-end-developer/</id>
     <published>2017-09-18T14:18:12.847Z</published>
-    <updated>2017-09-18T15:55:39.765Z</updated>
+    <updated>2017-09-19T14:33:12.647Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>프론트엔드 로드맵 정리</p>
@@ -28,8 +166,10 @@
 <h4 id="비전공자"><a href="#비전공자" class="headerlink" title="비전공자"></a>비전공자</h4><ul>
 <li><a href="http://bitobe.me/good-tip/how-to-be-developer-interview/" target="_blank" rel="external">개발자가 되고 싶은 비전공자가 고민해야 할 것-인터뷰</a></li>
 <li><a href="https://www.facebook.com/notes/jungmin-oh/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EB%A1%9C%EC%84%9C-%EA%B0%9C%EB%B0%9C%EA%B3%B5%EB%B6%80%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%A9%B0/517022371737304/" target="_blank" rel="external">비전공자로 개발 공부를 시작하며</a></li>
-<li><a href="https://brunch.co.kr/@andrewyhc/3" target="_blank" rel="external">문돌이가 개발자랑 일할 만큼 프로그래밍 익히기</a><a id="more"></a>
-<h4 id="개발입문"><a href="#개발입문" class="headerlink" title="개발입문"></a>개발입문</h4></li>
+<li><a href="https://brunch.co.kr/@andrewyhc/3" target="_blank" rel="external">문돌이가 개발자랑 일할 만큼 프로그래밍 익히기</a></li>
+</ul>
+<a id="more"></a>
+<h4 id="개발입문"><a href="#개발입문" class="headerlink" title="개발입문"></a>개발입문</h4><ul>
 <li><a href="http://asfirstalways.tistory.com/293" target="_blank" rel="external">개발입문자를 위한 짤막한 안내서</a></li>
 <li><a href="http://qna.iamprogrammer.io/t/topic/333/6" target="_blank" rel="external">나프다 초보 개발자가 살아남는법</a></li>
 <li><a href="https://www.sangkon.com/2016/02/10/good_books_for_dev/" target="_blank" rel="external">프로그래밍 필독서</a></li>
@@ -65,7 +205,8 @@
 &lt;h4 id=&quot;비전공자&quot;&gt;&lt;a href=&quot;#비전공자&quot; class=&quot;headerlink&quot; title=&quot;비전공자&quot;&gt;&lt;/a&gt;비전공자&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;http://bitobe.me/good-tip/how-to-be-developer-interview/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;개발자가 되고 싶은 비전공자가 고민해야 할 것-인터뷰&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/notes/jungmin-oh/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EB%A1%9C%EC%84%9C-%EA%B0%9C%EB%B0%9C%EA%B3%B5%EB%B6%80%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%A9%B0/517022371737304/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;비전공자로 개발 공부를 시작하며&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://brunch.co.kr/@andrewyhc/3&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;문돌이가 개발자랑 일할 만큼 프로그래밍 익히기&lt;/a&gt;
+&lt;li&gt;&lt;a href=&quot;https://brunch.co.kr/@andrewyhc/3&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;문돌이가 개발자랑 일할 만큼 프로그래밍 익히기&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
     
     </summary>
     
@@ -81,7 +222,7 @@
     <link href="http://yoursite.com/2017/09/18/170918-TIL/"/>
     <id>http://yoursite.com/2017/09/18/170918-TIL/</id>
     <published>2017-09-18T12:10:26.124Z</published>
-    <updated>2017-09-18T14:34:57.269Z</updated>
+    <updated>2017-09-19T14:33:26.261Z</updated>
     
     <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
 <li><p>Codecademy</p>
@@ -98,9 +239,9 @@
 </li>
 </ul>
 <h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><ul>
-<li><p>객체 복습했다. 자꾸 까먹는다.</p>
-<!--more-->
-<h4 id="내일-할-일"><a href="#내일-할-일" class="headerlink" title="내일 할 일"></a>내일 할 일</h4></li>
+<li>객체 복습했다. 자꾸 까먹는다.</li>
+</ul>
+<h4 id="내일-할-일"><a href="#내일-할-일" class="headerlink" title="내일 할 일"></a>내일 할 일</h4><ul>
 <li>codecademy 객체 입문 파트 2 복습</li>
 <li>프로젝트 메인페이지 이미지 추가, calendar 디자인 변경</li>
 <li>프로젝트 activity 페이지 마무리하기.</li>
@@ -524,7 +665,7 @@
     <link href="http://yoursite.com/2017/09/11/prototype1/"/>
     <id>http://yoursite.com/2017/09/11/prototype1/</id>
     <published>2017-09-11T14:15:53.227Z</published>
-    <updated>2017-09-12T14:42:05.410Z</updated>
+    <updated>2017-09-19T13:50:01.429Z</updated>
     
     <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><blockquote>
 <p>09.10 ~ 09.11 공부한 프로토타입 정리<br>프로토타입은 object와 link 2가지로 나눠서 이해해야 한다.</p>
@@ -533,10 +674,19 @@
 <ul>
 <li>모든 객체의 조상은 ‘함수’이다.</li>
 <li>함수가 정의될 때는 2가지 일이 동시에 이루어진다. 첫번째는 해당 함수에 constructor(생성자) 자격이 부여되고, 두번째는 해당 함수의 prototype Object가 생성, 연결된다.</li>
-<li>prototype Object는 constructor와 _ _proto__ 를 가지고 있고, 일반적인 객체와 같다.<a id="more"></a>
+<li>prototype Object는 constructor와 _ _proto__ 를 가지고 있고, 일반적인 객체와 같다.<a id="more"></a></li>
+<li>X는 Y인 경우 프로토타입을 사용하기 좋은 기회가 된다.</li>
+<li>상속. 상속은 우리가 다른 클래스의 속성과 메소드를 확인하고 사용할 수 있게 해준다.</li>
+</ul>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">// 정확하게 같지는 않지만 비슷하다.</div><div class="line">var obj = &#123;&#125;;</div><div class="line">var obj = new Object();</div></pre></td></tr></table></figure>
+<blockquote>
+<p>codecademy prototype Example 추가(17.09.19)</p>
+</blockquote>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div></pre></td><td class="code"><pre><div class="line">function Animal(name, numLegs) &#123;</div><div class="line">  this.name = name;</div><div class="line">  this.numLegs = numLegs;</div><div class="line">&#125;;</div><div class="line"></div><div class="line">Animal.prototype.sayName = function() &#123;</div><div class="line">  console.log(&quot;Hi my name is &quot; + this.name);</div><div class="line">&#125;;</div><div class="line"></div><div class="line">var Penguin = function(name) &#123;</div><div class="line">  this.name = name;</div><div class="line">  this.numLegs = 2;</div><div class="line">&#125;;</div><div class="line"></div><div class="line">Penguin.prototype = new Animal();</div><div class="line"></div><div class="line">var penguin = new Penguin(&quot;penguin&quot;);</div><div class="line">penguin.sayName();</div></pre></td></tr></table></figure>
+<ul>
+<li>출력<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">&quot;Hi my name is penguin&quot;</div></pre></td></tr></table></figure>
 </li>
 </ul>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">// 동일하다.</div><div class="line">var obj = &#123;&#125;;</div><div class="line">var obj = new Object();</div></pre></td></tr></table></figure>
 <p><strong>2. prototype link</strong></p>
 ]]></content>
     
@@ -804,107 +954,6 @@
     </summary>
     
       <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
-    
-    
-      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>170905-TIL</title>
-    <link href="http://yoursite.com/2017/09/06/170905-TIL/"/>
-    <id>http://yoursite.com/2017/09/06/170905-TIL/</id>
-    <published>2017-09-06T14:10:34.462Z</published>
-    <updated>2017-09-07T14:39:48.487Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
-<li style="list-style: none"><input type="checkbox" checked> 3차 스터디 문제 1,2번 풀기</li>
-<li style="list-style: none"><input type="checkbox"> <h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4></li>
-<li>알고리즘, 로직을 꾸준히 공부해야 할듯.</li>
-<li>실습형 공부 위주로 변경<a id="more"></a>
-</li>
-</ul>
-<h4 id="내일-할-일"><a href="#내일-할-일" class="headerlink" title="내일 할 일"></a>내일 할 일</h4><ul>
-<li>4차 스터디</li>
-<li>모르는 부분 정리</li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
-&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt; 3차 스터디 문제 1,2번 풀기&lt;/li&gt;
-&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot;&gt; &lt;h4 id=&quot;회고&quot;&gt;&lt;a href=&quot;#회고&quot; class=&quot;headerlink&quot; title=&quot;회고&quot;&gt;&lt;/a&gt;회고&lt;/h4&gt;&lt;/li&gt;
-&lt;li&gt;알고리즘, 로직을 꾸준히 공부해야 할듯.&lt;/li&gt;
-&lt;li&gt;실습형 공부 위주로 변경
-    
-    </summary>
-    
-      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
-    
-    
-      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>함수패턴 연습</title>
-    <link href="http://yoursite.com/2017/09/05/part3exam1/"/>
-    <id>http://yoursite.com/2017/09/05/part3exam1/</id>
-    <published>2017-09-05T14:43:31.511Z</published>
-    <updated>2017-09-11T14:13:15.080Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="실습문제-1-1"><a href="#실습문제-1-1" class="headerlink" title="실습문제 [1-1]"></a>실습문제 [1-1]</h4><p>함수호출 - 제곱함수</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div></pre></td><td class="code"><pre><div class="line">function multiply(a)&#123;</div><div class="line">	return a * a;</div><div class="line">&#125;</div><div class="line"></div><div class="line">var firstTask = &#123;</div><div class="line">	value : 0,</div><div class="line">    increse : function(n)&#123;</div><div class="line">		this.value = multiply(n);</div><div class="line">	&#125;</div><div class="line">&#125;;</div><div class="line"></div><div class="line">firstTask.incerese(5);</div><div class="line">console.log(firstTask.value); // 25출력</div></pre></td></tr></table></figure>
-<a id="more"></a>
-<h4 id="실습문제-1-2"><a href="#실습문제-1-2" class="headerlink" title="실습문제 [1-2]"></a>실습문제 [1-2]</h4><p>함수호출 - 절댓값 함수</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div></pre></td><td class="code"><pre><div class="line">function absolute(n)&#123;</div><div class="line">	return Math.abs(n);</div><div class="line">&#125;</div><div class="line"></div><div class="line">var secondTask = &#123;</div><div class="line">	value : 0,</div><div class="line">	absol : function(n)&#123;</div><div class="line">		this.value = absolute(n);</div><div class="line">	&#125;</div><div class="line">&#125;;</div><div class="line"></div><div class="line">secondTask.absol(5);</div><div class="line">console.log(secondTask.value);</div></pre></td></tr></table></figure>
-<p>실습문제 [2]<br>인수배열 - 출석부 만들기<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line">var student = function(name)&#123;</div><div class="line">	result = &apos;&apos;;</div><div class="line">	for(var i = 0; i&lt; arguments.length; i++)&#123;</div><div class="line">			result = (i+1) + &apos;번&apos; + &apos; 이름 :&apos;+ name;</div><div class="line">			return result;</div><div class="line">	&#125;</div><div class="line">	return student;</div><div class="line">&#125;</div></pre></td></tr></table></figure></p>
-<h4 id="실습문제-3"><a href="#실습문제-3" class="headerlink" title="실습문제 [3]"></a>실습문제 [3]</h4><p>생성자함수 - 출석부만들기</p>
-<p>학생들의 이름과 학번을 입력 받아서 학생들을 객체로 관리<br>예상치 못한 입력이 들어왔을 때 예외 처리<br>이름에 ’-1’을 입력받으면 입력을 종료<br>각각의 학생들을 생성자 함수로 구현<br>추가 구현<br>각 학생들을 연결 리스트(linked list) 자료구조를 이용하여 관리<br>Array 객체의 sort 메소드와 apply 메소드를 이용하여 정렬*</p>
-<p>// 자료구조 먼저 공부할것</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;실습문제-1-1&quot;&gt;&lt;a href=&quot;#실습문제-1-1&quot; class=&quot;headerlink&quot; title=&quot;실습문제 [1-1]&quot;&gt;&lt;/a&gt;실습문제 [1-1]&lt;/h4&gt;&lt;p&gt;함수호출 - 제곱함수&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;3&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;4&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;5&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;6&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;7&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;8&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;9&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;10&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;11&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;12&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;13&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;function multiply(a)&amp;#123;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;	return a * a;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&amp;#125;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;var firstTask = &amp;#123;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;	value : 0,&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;    increse : function(n)&amp;#123;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;		this.value = multiply(n);&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;	&amp;#125;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&amp;#125;;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;firstTask.incerese(5);&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;console.log(firstTask.value); // 25출력&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-    
-    </summary>
-    
-      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
-    
-    
-      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>함수 패턴</title>
-    <link href="http://yoursite.com/2017/09/04/function1/"/>
-    <id>http://yoursite.com/2017/09/04/function1/</id>
-    <published>2017-09-04T12:55:44.287Z</published>
-    <updated>2017-09-07T14:40:06.167Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="Part-함수"><a href="#Part-함수" class="headerlink" title="Part : 함수"></a>Part : 함수</h4><h4 id="함수의-메소드"><a href="#함수의-메소드" class="headerlink" title="함수의 메소드"></a>함수의 메소드</h4><p><strong>예제</strong><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">var obj = &#123;</div><div class="line">    prime : function()&#123; // 메소드</div><div class="line">      console.log(&apos;prime&apos;);</div><div class="line">    &#125;</div><div class="line"></div><div class="line">&#125;</div></pre></td></tr></table></figure></p>
-<a id="more"></a>
-<h4 id="메소드-호출-패턴"><a href="#메소드-호출-패턴" class="headerlink" title="메소드 호출 패턴"></a>메소드 호출 패턴</h4><ul>
-<li>함수를 객체의 속성에 저장하는 경우, 그 함수를 메소드라고 부른다.</li>
-<li>메소드를 호출할 때, this는 메소드를 포함하고 있는 <strong>객체</strong> 에 바인딩 된다.</li>
-</ul>
-<p><strong>예제</strong><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div></pre></td><td class="code"><pre><div class="line">var myObject = &#123;</div><div class="line">  value : 0;</div><div class="line">  increment : function(inc) &#123;</div><div class="line">    this.value += typeof inc === &apos;number&apos; ? inc : 1;</div><div class="line">  &#125;</div><div class="line">&#125;;</div><div class="line">myObject.increment();</div><div class="line">console.log(myObject[&quot;value&quot;]); // 1</div><div class="line">myObject.increment(2);</div><div class="line">console.log(myObject.value); // 3</div><div class="line">```      </div><div class="line"></div><div class="line">#### 함수 호출 패턴</div><div class="line">- 함수가 객체의 속성이 아닌 경우에는 함수로서 호출</div><div class="line">- this는 전역 객체에 바인딩 된다 (Web의 경우 window, node는 global)</div><div class="line">-- 언어 설계 단계에서의 실수로 본다.</div><div class="line">-- 메소드에서 변수를 정의한 후 여기에 this를 할당하고, 내부 함수는 이 변수를 통해서 메소드의 this에 접근함으로써 해결 가능(트릭)</div><div class="line"></div><div class="line">**예제**</div></pre></td></tr></table></figure></p>
-<p>function add(a,b){<br>  return a + b;<br>}</p>
-<p>myObject.double = fuction(){<br>  var that = this; // 대안<br>  var helper = fuction(){<br>    that.value = add(that.value, that.value);<br>  }<br>  helper();<br>};</p>
-<p>myObject.double();<br>console.log(myObject.getValue()); // 6;<br>```</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;Part-함수&quot;&gt;&lt;a href=&quot;#Part-함수&quot; class=&quot;headerlink&quot; title=&quot;Part : 함수&quot;&gt;&lt;/a&gt;Part : 함수&lt;/h4&gt;&lt;h4 id=&quot;함수의-메소드&quot;&gt;&lt;a href=&quot;#함수의-메소드&quot; class=&quot;headerlink&quot; title=&quot;함수의 메소드&quot;&gt;&lt;/a&gt;함수의 메소드&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;예제&lt;/strong&gt;&lt;br&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;3&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;4&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;5&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;6&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;var obj = &amp;#123;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;    prime : function()&amp;#123; // 메소드&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;      console.log(&amp;apos;prime&amp;apos;);&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;    &amp;#125;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&amp;#125;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="javascript" scheme="http://yoursite.com/categories/javascript/"/>
     
     
       <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
