@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-19T14:44:33.084Z</updated>
+  <updated>2017-09-19T15:07:47.193Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>&#39;test&#39;</title>
+    <link href="http://yoursite.com/2017/09/20/test/"/>
+    <id>http://yoursite.com/2017/09/20/test/</id>
+    <published>2017-09-19T15:07:47.000Z</published>
+    <updated>2017-09-19T15:07:47.193Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Private Variables</title>
@@ -914,42 +928,6 @@
 &lt;li&gt;강의시청 :&lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=EZNeN3-cDWs&amp;amp;list=PLnkwNkWVo5pVxyGW_xqGgTJ_PBlTzXcm8&amp;amp;index=6&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;한 놈만 패는 자바스크립트&lt;/a&gt; 파트 6 - 호이스팅편(100%)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=zbgKZVMzdfk&amp;amp;list=PLnkwNkWVo5pVxyGW_xqGgTJ_PBlTzXcm8&amp;amp;index=7&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;한 놈만 패는 자바스크립트&lt;/a&gt; 파트 7 - 프로토타입 (30%)
-    
-    </summary>
-    
-      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
-    
-    
-      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>170906-TIL</title>
-    <link href="http://yoursite.com/2017/09/06/170906-TIL/"/>
-    <id>http://yoursite.com/2017/09/06/170906-TIL/</id>
-    <published>2017-09-06T14:12:33.538Z</published>
-    <updated>2017-09-07T14:39:39.721Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
-<li style="list-style: none"><input type="checkbox" checked> 4차 스터디</li>
-</ul>
-<h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><ul>
-<li>한가지에 집중할 것<a id="more"></a>
-</li>
-</ul>
-<h4 id="내일-할-일"><a href="#내일-할-일" class="headerlink" title="내일 할 일"></a>내일 할 일</h4><ul>
-<li>예제 Node api 보기</li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
-&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt; 4차 스터디&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&quot;회고&quot;&gt;&lt;a href=&quot;#회고&quot; class=&quot;headerlink&quot; title=&quot;회고&quot;&gt;&lt;/a&gt;회고&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;한가지에 집중할 것
     
     </summary>
     
