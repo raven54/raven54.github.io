@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-20T14:32:23.992Z</updated>
+  <updated>2017-09-21T14:35:45.159Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,68 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>170921-TIL</title>
+    <link href="http://yoursite.com/2017/09/21/170921-TIL/"/>
+    <id>http://yoursite.com/2017/09/21/170921-TIL/</id>
+    <published>2017-09-21T14:22:15.667Z</published>
+    <updated>2017-09-21T14:35:45.159Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
+<li><p>강의시청 :</p>
+<ul>
+<li>생활코딩 BOM</li>
+<li><a href="https://www.youtube.com/watch?v=zbgKZVMzdfk&amp;list=PLnkwNkWVo5pVxyGW_xqGgTJ_PBlTzXcm8&amp;index=7" target="_blank" rel="external">한 놈만 패는 자바스크립트</a> 파트 7 - 프로토타입 복습</li>
+</ul>
+</li>
+<li><p>Codecademy</p>
+<ul>
+<li>객체(objects) 입문 II 파트 완료<a id="more"></a>
+</li>
+</ul>
+</li>
+<li><p>개발영어 : stackoverflow에서 모르는 단어외우기 5개</p>
+</li>
+<li>FJ / 메인페이지 작업 완료</li>
+<li>FJ / Activity 크기 수정</li>
+</ul>
+<!--more-->
+<h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><ul>
+<li>메인페이지 PC 버전 드디어 끝. 심플한데 레이아웃 고민하느라 한참 걸렸다. 다음 주엔 모바일 반응형 작업을 해야겠다.</li>
+<li>배너 디자인이 생각보다 오래걸렸다.</li>
+<li>알고리즘 문제 안푼지 오래된듯.. 내일 출근하면서 다시 해봐야겠다.</li>
+<li>내일은 진짜 Activity 마무리. 오늘 머리가 아파서 작업을 많이 못했다.</li>
+</ul>
+<h4 id="내일-할-일"><a href="#내일-할-일" class="headerlink" title="내일 할 일"></a>내일 할 일</h4><ul>
+<li>activity 페이지 마무리</li>
+<li>출근하면서 알고리즘 문제 풀기</li>
+<li>인사이드 자바스크립트 객체 파트 읽기</li>
+<li>생활코딩 웹브라우저 javascript 강의 2개 듣기</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;강의시청 :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;생활코딩 BOM&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=zbgKZVMzdfk&amp;amp;list=PLnkwNkWVo5pVxyGW_xqGgTJ_PBlTzXcm8&amp;amp;index=7&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;한 놈만 패는 자바스크립트&lt;/a&gt; 파트 7 - 프로토타입 복습&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Codecademy&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;객체(objects) 입문 II 파트 완료
+    
+    </summary>
+    
+      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
+    
+    
+      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
+    
+  </entry>
   
   <entry>
     <title>170920-TIL</title>
@@ -63,20 +125,6 @@
     
     
       <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>&#39;test&#39;</title>
-    <link href="http://yoursite.com/2017/09/20/test/"/>
-    <id>http://yoursite.com/2017/09/20/test/</id>
-    <published>2017-09-19T15:07:47.000Z</published>
-    <updated>2017-09-19T15:07:47.193Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
     
   </entry>
   
