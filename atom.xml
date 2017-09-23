@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-22T11:13:36.937Z</updated>
+  <updated>2017-09-23T14:26:36.059Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,96 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>170921-TIL</title>
+    <title>170923-TIL</title>
+    <link href="http://yoursite.com/2017/09/23/170923-TIL/"/>
+    <id>http://yoursite.com/2017/09/23/170923-TIL/</id>
+    <published>2017-09-23T14:20:02.050Z</published>
+    <updated>2017-09-23T14:26:36.059Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
+<li>FJ / Activity ui calendar 디자인 완료</li>
+<li>jquery ui calendar position fixed 문제 해결</li>
+<li>인사이드 자바스크립트 프로토타입 부분 다시 읽음</li>
+<li>포트폴리오 사이트 UI/UX 디자인 (10%)</li>
+</ul>
+<a id="more"></a>
+<h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><ul>
+<li>사이트를 작업하다보니 부족한 부분이 너무 많다ㅎㅎ 기획 단계에서 좀 더 디테일하게 작업 할 걸..</li>
+<li>git을 좀 배워야겠다.</li>
+<li>포트폴리오 사이트를 빨리 준비해야겠다. 기획을 디테일하게 해야겠다.</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;FJ / Activity ui calendar 디자인 완료&lt;/li&gt;
+&lt;li&gt;jquery ui calendar position fixed 문제 해결&lt;/li&gt;
+&lt;li&gt;인사이드 자바스크립트 프로토타입 부분 다시 읽음&lt;/li&gt;
+&lt;li&gt;포트폴리오 사이트 UI/UX 디자인 (10%)&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
+    
+    
+      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>170922-TIL</title>
     <link href="http://yoursite.com/2017/09/22/170922-TIL/"/>
     <id>http://yoursite.com/2017/09/22/170922-TIL/</id>
     <published>2017-09-22T11:13:36.625Z</published>
-    <updated>2017-09-22T11:13:36.937Z</updated>
+    <updated>2017-09-23T14:19:43.972Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
+<li><p>생활코딩 강의시청 :</p>
+<ul>
+<li><a href="https://opentutorials.org/course/1375" target="_blank" rel="external">웹브라우저 자바스크립트</a> 3개</li>
+</ul>
+</li>
+<li><p>FJ / Activity ui calendar 수정</p>
+</li>
+<li>인사이드 자바스크립트 객체 파트 읽음</li>
+</ul>
+<a id="more"></a>
+<h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><ul>
+<li>jquery ui calendar 창이 fixed 되버리는 문제 발생. 내일 고쳐야지.</li>
+<li>다음 주 수요일 meetup 신청했다. 기대된다.</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;생활코딩 강의시청 :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://opentutorials.org/course/1375&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;웹브라우저 자바스크립트&lt;/a&gt; 3개&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;FJ / Activity ui calendar 수정&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;인사이드 자바스크립트 객체 파트 읽음&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
+    
+    
+      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>170921-TIL</title>
+    <link href="http://yoursite.com/2017/09/21/170921-TIL/"/>
+    <id>http://yoursite.com/2017/09/21/170921-TIL/</id>
+    <published>2017-09-21T14:22:15.667Z</published>
+    <updated>2017-09-23T14:19:18.954Z</updated>
     
     <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
 <li><p>강의시청 :</p>
@@ -67,52 +152,6 @@
 &lt;li&gt;&lt;p&gt;Codecademy&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;객체(objects) 입문 II 파트 완료
-    
-    </summary>
-    
-      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
-    
-    
-      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>170922-TIL</title>
-    <link href="http://yoursite.com/2017/09/21/170921-TIL/"/>
-    <id>http://yoursite.com/2017/09/21/170921-TIL/</id>
-    <published>2017-09-21T14:22:15.667Z</published>
-    <updated>2017-09-22T11:19:37.542Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
-<li><p>생활코딩 강의시청 :</p>
-<ul>
-<li><a href="https://opentutorials.org/course/1375" target="_blank" rel="external">웹브라우저 자바스크립트</a> 3개</li>
-</ul>
-</li>
-<li><p>FJ / Activity ui calendar 수정</p>
-</li>
-<li>인사이드 자바스크립트 객체 파트 읽음</li>
-</ul>
-<a id="more"></a>
-<h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><ul>
-<li>jquery ui calendar 창이 fixed 되버리는 문제 발생. 내일 고쳐야지.</li>
-<li>다음 주 수요일 meetup 신청했다. 기대된다.</li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;생활코딩 강의시청 :&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://opentutorials.org/course/1375&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;웹브라우저 자바스크립트&lt;/a&gt; 3개&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;FJ / Activity ui calendar 수정&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;인사이드 자바스크립트 객체 파트 읽음&lt;/li&gt;
-&lt;/ul&gt;
     
     </summary>
     
@@ -953,47 +992,6 @@
 &lt;li&gt;javascript yes or no logic (100%)&lt;/li&gt;
 &lt;li&gt;강의시청 :&lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=zbgKZVMzdfk&amp;amp;list=PLnkwNkWVo5pVxyGW_xqGgTJ_PBlTzXcm8&amp;amp;index=7&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;한 놈만 패는 자바스크립트&lt;/a&gt; 파트 7 - 프로토타입 (80%)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-    
-    </summary>
-    
-      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
-    
-    
-      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>170909-TIL</title>
-    <link href="http://yoursite.com/2017/09/09/170909-TIL/"/>
-    <id>http://yoursite.com/2017/09/09/170909-TIL/</id>
-    <published>2017-09-09T14:24:41.595Z</published>
-    <updated>2017-09-09T14:28:06.973Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
-<li>javascript yes or no logic (20%)</li>
-<li>강의시청 :<ul>
-<li><a href="https://www.youtube.com/watch?v=zbgKZVMzdfk&amp;list=PLnkwNkWVo5pVxyGW_xqGgTJ_PBlTzXcm8&amp;index=7" target="_blank" rel="external">한 놈만 패는 자바스크립트</a> 파트 7 - 프로토타입 (60%)</li>
-</ul>
-</li>
-</ul>
-<a id="more"></a>
-<h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><ul>
-<li>javascript, jquery DOM 제어를 제대로 몰라서 yes or no logic 짜기가 힘들다. 간단해 보이는 것도 어렵다.</li>
-<li>prototype 어렵다. 몇 번 더 봐야할듯..</li>
-<li>내일은 node 공부를 하자.</li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;javascript yes or no logic (20%)&lt;/li&gt;
-&lt;li&gt;강의시청 :&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=zbgKZVMzdfk&amp;amp;list=PLnkwNkWVo5pVxyGW_xqGgTJ_PBlTzXcm8&amp;amp;index=7&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;한 놈만 패는 자바스크립트&lt;/a&gt; 파트 7 - 프로토타입 (60%)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
