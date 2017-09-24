@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-23T14:26:36.059Z</updated>
+  <updated>2017-09-24T14:34:34.105Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,48 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>170924-TIL</title>
+    <link href="http://yoursite.com/2017/09/24/170924-TIL/"/>
+    <id>http://yoursite.com/2017/09/24/170924-TIL/</id>
+    <published>2017-09-24T14:30:34.342Z</published>
+    <updated>2017-09-24T14:34:34.105Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
+<li>FJ / 메인페이지 반응형 작업 (70%)</li>
+<li>activity 크기 수정</li>
+</ul>
+<h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><ul>
+<li>실습형 예제 <a href="https://javascript30.com/" target="_blank" rel="external">javascript30</a> 재미있을 것 같다. 10월에 해봐야겠다.</li>
+<li>역시 반응형은 손이 많이간다..</li>
+</ul>
+<a id="more"></a>
+<h4 id="내일-할-일"><a href="#내일-할-일" class="headerlink" title="내일 할 일"></a>내일 할 일</h4><ul>
+<li>포트폴리오 사이트 기획 / 디자인 레이아웃 초안</li>
+<li>메인페이지 반응형 100% 완성하기</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;FJ / 메인페이지 반응형 작업 (70%)&lt;/li&gt;
+&lt;li&gt;activity 크기 수정&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;회고&quot;&gt;&lt;a href=&quot;#회고&quot; class=&quot;headerlink&quot; title=&quot;회고&quot;&gt;&lt;/a&gt;회고&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;실습형 예제 &lt;a href=&quot;https://javascript30.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;javascript30&lt;/a&gt; 재미있을 것 같다. 10월에 해봐야겠다.&lt;/li&gt;
+&lt;li&gt;역시 반응형은 손이 많이간다..&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
+    
+    
+      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
+    
+  </entry>
   
   <entry>
     <title>170923-TIL</title>
@@ -957,43 +999,6 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;호이스팅 복습&lt;/li&gt;
-&lt;/ul&gt;
-    
-    </summary>
-    
-      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
-    
-    
-      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>170910-TIL</title>
-    <link href="http://yoursite.com/2017/09/10/170910-TIL/"/>
-    <id>http://yoursite.com/2017/09/10/170910-TIL/</id>
-    <published>2017-09-10T12:54:50.004Z</published>
-    <updated>2017-09-11T14:00:30.890Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
-<li>javascript yes or no logic (100%)</li>
-<li>강의시청 :<ul>
-<li><a href="https://www.youtube.com/watch?v=zbgKZVMzdfk&amp;list=PLnkwNkWVo5pVxyGW_xqGgTJ_PBlTzXcm8&amp;index=7" target="_blank" rel="external">한 놈만 패는 자바스크립트</a> 파트 7 - 프로토타입 (80%)</li>
-</ul>
-</li>
-</ul>
-<a id="more"></a>
-<h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><p>-yes or no 로직을 완성하긴 했는데 너무 막쓴듯. 업그레이드 해야겠다.</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;javascript yes or no logic (100%)&lt;/li&gt;
-&lt;li&gt;강의시청 :&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=zbgKZVMzdfk&amp;amp;list=PLnkwNkWVo5pVxyGW_xqGgTJ_PBlTzXcm8&amp;amp;index=7&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;한 놈만 패는 자바스크립트&lt;/a&gt; 파트 7 - 프로토타입 (80%)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
 &lt;/ul&gt;
     
     </summary>
