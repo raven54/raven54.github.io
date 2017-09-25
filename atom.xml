@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-24T14:34:34.105Z</updated>
+  <updated>2017-09-25T14:38:17.763Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,60 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>170925-TIL</title>
+    <link href="http://yoursite.com/2017/09/25/170925-TIL/"/>
+    <id>http://yoursite.com/2017/09/25/170925-TIL/</id>
+    <published>2017-09-25T14:35:15.206Z</published>
+    <updated>2017-09-25T14:38:17.763Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
+<li><p>서울역 FJ 저녁 미팅</p>
+</li>
+<li><p>미완료</p>
+<ul>
+<li style="list-style: none"><input type="checkbox"> 포트폴리오 사이트 기획 / 디자인 레이아웃 초안</li>
+<li style="list-style: none"><input type="checkbox"> 메인페이지 반응형 100% 완성하기</li>
+</ul>
+</li>
+</ul>
+<h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><ul>
+<li>서울역 19:30 ~ 23:30 미팅</li>
+<li>javascript30 내일부터 시작</li>
+</ul>
+<a id="more"></a>
+<h4 id="내일-할-일"><a href="#내일-할-일" class="headerlink" title="내일 할 일"></a>내일 할 일</h4><ul>
+<li>인사이드 자바스크립트 객체 다음 파트 읽기</li>
+<li><a href="https://opentutorials.org/course/1375" target="_blank" rel="external">웹브라우저 자바스크립트</a> 3개 시청</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;서울역 FJ 저녁 미팅&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;미완료&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot;&gt; 포트폴리오 사이트 기획 / 디자인 레이아웃 초안&lt;/li&gt;
+&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot;&gt; 메인페이지 반응형 100% 완성하기&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;회고&quot;&gt;&lt;a href=&quot;#회고&quot; class=&quot;headerlink&quot; title=&quot;회고&quot;&gt;&lt;/a&gt;회고&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;서울역 19:30 ~ 23:30 미팅&lt;/li&gt;
+&lt;li&gt;javascript30 내일부터 시작&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
+    
+    
+      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
+    
+  </entry>
   
   <entry>
     <title>170924-TIL</title>
@@ -951,55 +1005,6 @@
 &lt;li&gt;모든 객체의 조상은 ‘함수’이다.&lt;/li&gt;
 &lt;li&gt;함수가 정의될 때는 2가지 일이 동시에 이루어진다. 첫번째는 해당 함수에 constructor(생성자) 자격이 부여되고, 두번째는 해당 함수의 prototype Object가 생성, 연결된다.&lt;/li&gt;
 &lt;li&gt;prototype Object는 constructor와 _ _proto__ 를 가지고 있고, 일반적인 객체와 같다.
-    
-    </summary>
-    
-      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
-    
-    
-      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>170911-TIL</title>
-    <link href="http://yoursite.com/2017/09/11/170911-TIL/"/>
-    <id>http://yoursite.com/2017/09/11/170911-TIL/</id>
-    <published>2017-09-11T14:00:38.970Z</published>
-    <updated>2017-09-14T14:05:31.307Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
-<li>프로토타입 공부 - <a href="https://raven54.github.io/2017/09/11/prototype1/" target="_blank" rel="external">프로토타입 정리</a><ul>
-<li><a href="https://opentutorials.org/course/743/6573" target="_blank" rel="external">생활코딩 프로토타입 강의 1편</a> 시청</li>
-<li><a href="https://www.youtube.com/watch?v=fXIpMyrI3U8" target="_blank" rel="external">프로그래밍 학습의 어려움과 극복하는 방법</a></li>
-<li><a href="https://www.youtube.com/watch?v=Xcy2Pq6LABk" target="_blank" rel="external">프로그래밍 학습 방법</a></li>
-</ul>
-</li>
-<li>호이스팅 복습</li>
-</ul>
-<a id="more"></a>
-<h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><ul>
-<li>스터디를 빨리 구해야 할듯. 점점 혼자 공부하기가 힘들다.</li>
-<li>아 맥북 사고싶다. 추석 전에 뉴맥북 질러야 할듯.</li>
-<li>프로그래밍 학습의 어려움과 극복 방법.<ul>
-<li>왜 배우기 어려운지 확실히 알겠다. 어떻게 하면 극복할 수 있는지도..</li>
-</ul>
-</li>
-<li>내일은 호이스팅 공부 내용 정리하기.</li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;프로토타입 공부 - &lt;a href=&quot;https://raven54.github.io/2017/09/11/prototype1/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;프로토타입 정리&lt;/a&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://opentutorials.org/course/743/6573&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;생활코딩 프로토타입 강의 1편&lt;/a&gt; 시청&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=fXIpMyrI3U8&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;프로그래밍 학습의 어려움과 극복하는 방법&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Xcy2Pq6LABk&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;프로그래밍 학습 방법&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;호이스팅 복습&lt;/li&gt;
-&lt;/ul&gt;
     
     </summary>
     
