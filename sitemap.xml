@@ -2,317 +2,324 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2017/09/26/test/</loc>
+    
+    <lastmod>2017-09-26T14:08:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2017/09/25/170925-TIL/</loc>
     
-    <lastmod>2017-09-25T14:38:17.763Z</lastmod>
+    <lastmod>2017-09-25T14:38:17.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/2017/09/24/170924-TIL/</loc>
     
-    <lastmod>2017-09-24T14:34:34.105Z</lastmod>
+    <lastmod>2017-09-24T14:34:34.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/2017/09/23/170923-TIL/</loc>
     
-    <lastmod>2017-09-23T14:26:36.059Z</lastmod>
+    <lastmod>2017-09-23T14:26:36.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2017/09/22/170922-TIL/</loc>
+    <loc>http://yoursite.com/2017/09/23/170922-TIL/</loc>
     
-    <lastmod>2017-09-23T14:19:43.972Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2017/09/21/170921-TIL/</loc>
-    
-    <lastmod>2017-09-23T14:19:18.954Z</lastmod>
+    <lastmod>2017-09-23T14:19:43.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2017/09/19/170919-TIL/</loc>
+    <loc>http://yoursite.com/2017/09/23/170921-TIL/</loc>
     
-    <lastmod>2017-09-22T11:13:19.410Z</lastmod>
+    <lastmod>2017-09-23T14:19:18.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/09/22/170919-TIL/</loc>
+    
+    <lastmod>2017-09-22T11:13:19.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/2017/09/20/170920-TIL/</loc>
     
-    <lastmod>2017-09-20T14:32:23.992Z</lastmod>
+    <lastmod>2017-09-20T14:32:23.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/2017/09/19/private-variables/</loc>
     
-    <lastmod>2017-09-19T14:44:33.084Z</lastmod>
+    <lastmod>2017-09-19T14:44:33.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2017/09/18/170918-TIL/</loc>
+    <loc>http://yoursite.com/2017/09/19/170918-TIL/</loc>
     
-    <lastmod>2017-09-19T14:33:26.261Z</lastmod>
+    <lastmod>2017-09-19T14:33:26.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2017/09/18/become-a-front-end-developer/</loc>
+    <loc>http://yoursite.com/2017/09/19/become-a-front-end-developer/</loc>
     
-    <lastmod>2017-09-19T14:33:12.647Z</lastmod>
+    <lastmod>2017-09-19T14:33:12.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/2017/09/19/constructor-new/</loc>
     
-    <lastmod>2017-09-19T13:55:02.285Z</lastmod>
+    <lastmod>2017-09-19T13:55:02.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2017/09/11/prototype1/</loc>
+    <loc>http://yoursite.com/2017/09/19/prototype1/</loc>
     
-    <lastmod>2017-09-19T13:50:01.429Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2017/09/16/js-fizzbuzz/</loc>
-    
-    <lastmod>2017-09-18T15:55:57.107Z</lastmod>
+    <lastmod>2017-09-19T13:50:01.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2017/08/31/aryobj1/</loc>
+    <loc>http://yoursite.com/2017/09/19/js-fizzbuzz/</loc>
     
-    <lastmod>2017-09-18T14:16:04.366Z</lastmod>
+    <lastmod>2017-09-18T15:55:57.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/09/18/aryobj1/</loc>
+    
+    <lastmod>2017-09-18T14:16:04.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/2017/09/17/170917-TIL/</loc>
     
-    <lastmod>2017-09-17T14:41:35.621Z</lastmod>
+    <lastmod>2017-09-17T14:41:35.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2017/09/14/170913-TIL/</loc>
+    <loc>http://yoursite.com/2017/09/16/170913-TIL/</loc>
     
-    <lastmod>2017-09-16T14:26:44.311Z</lastmod>
+    <lastmod>2017-09-16T14:26:44.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2017/09/14/170914-TIL/</loc>
+    <loc>http://yoursite.com/2017/09/16/170914-TIL/</loc>
     
-    <lastmod>2017-09-16T14:26:23.358Z</lastmod>
+    <lastmod>2017-09-16T14:26:23.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/2017/09/16/170916-TIL/</loc>
     
-    <lastmod>2017-09-16T14:20:07.623Z</lastmod>
+    <lastmod>2017-09-16T14:20:07.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2017/09/14/email-validate-js/</loc>
+    <loc>http://yoursite.com/2017/09/16/email-validate-js/</loc>
     
-    <lastmod>2017-09-16T14:19:50.488Z</lastmod>
+    <lastmod>2017-09-16T14:19:50.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/2017/09/16/170915-TIL/</loc>
     
-    <lastmod>2017-09-16T14:12:48.970Z</lastmod>
+    <lastmod>2017-09-16T14:12:48.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2017/09/11/170911-TIL/</loc>
+    <loc>http://yoursite.com/2017/09/14/170911-TIL/</loc>
     
-    <lastmod>2017-09-14T14:05:31.307Z</lastmod>
+    <lastmod>2017-09-14T14:05:31.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/2017/09/12/170912-TIL/</loc>
     
-    <lastmod>2017-09-12T14:51:40.705Z</lastmod>
+    <lastmod>2017-09-12T14:51:40.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2017/09/08/170908-TIL/</loc>
+    <loc>http://yoursite.com/2017/09/11/170908-TIL/</loc>
     
-    <lastmod>2017-09-11T14:15:09.819Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2017/09/05/part3exam1/</loc>
-    
-    <lastmod>2017-09-11T14:13:15.080Z</lastmod>
+    <lastmod>2017-09-11T14:15:09.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2017/09/10/170910-TIL/</loc>
+    <loc>http://yoursite.com/2017/09/11/part3exam1/</loc>
     
-    <lastmod>2017-09-11T14:00:30.890Z</lastmod>
+    <lastmod>2017-09-11T14:13:15.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/09/11/170910-TIL/</loc>
+    
+    <lastmod>2017-09-11T14:00:30.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/2017/09/09/170909-TIL/</loc>
     
-    <lastmod>2017-09-09T14:28:06.973Z</lastmod>
+    <lastmod>2017-09-09T14:28:06.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/2017/09/07/170907-TIL/</loc>
     
-    <lastmod>2017-09-07T14:52:23.796Z</lastmod>
+    <lastmod>2017-09-07T14:52:23.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2017/09/04/function1/</loc>
+    <loc>http://yoursite.com/2017/09/07/function1/</loc>
     
-    <lastmod>2017-09-07T14:40:06.167Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2017/09/06/170905-TIL/</loc>
-    
-    <lastmod>2017-09-07T14:39:48.487Z</lastmod>
+    <lastmod>2017-09-07T14:40:06.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2017/09/06/170906-TIL/</loc>
+    <loc>http://yoursite.com/2017/09/07/170905-TIL/</loc>
     
-    <lastmod>2017-09-07T14:39:39.721Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2017/09/03/kim/</loc>
-    
-    <lastmod>2017-09-06T14:16:06.571Z</lastmod>
+    <lastmod>2017-09-07T14:39:48.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2017/08/27/primenumber/</loc>
+    <loc>http://yoursite.com/2017/09/07/170906-TIL/</loc>
     
-    <lastmod>2017-09-06T14:14:22.664Z</lastmod>
+    <lastmod>2017-09-07T14:39:39.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/09/06/kim/</loc>
+    
+    <lastmod>2017-09-06T14:16:06.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/09/06/primenumber/</loc>
+    
+    <lastmod>2017-09-06T14:14:22.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/2017/09/03/170903-TIL/</loc>
     
-    <lastmod>2017-09-03T14:07:51.566Z</lastmod>
+    <lastmod>2017-09-03T14:07:51.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2017/09/02/170902-TIL/</loc>
+    <loc>http://yoursite.com/2017/09/03/170902-TIL/</loc>
     
-    <lastmod>2017-09-03T14:07:09.599Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2017/09/01/170901-TIL/</loc>
-    
-    <lastmod>2017-09-02T14:00:41.211Z</lastmod>
+    <lastmod>2017-09-03T14:07:09.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2017/08/31/170831-TIL/</loc>
+    <loc>http://yoursite.com/2017/09/02/170901-TIL/</loc>
     
-    <lastmod>2017-09-01T11:04:29.545Z</lastmod>
+    <lastmod>2017-09-02T14:00:41.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/09/01/170831-TIL/</loc>
+    
+    <lastmod>2017-09-01T11:04:29.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/2017/08/31/170830-TIL/</loc>
     
-    <lastmod>2017-08-31T13:21:36.222Z</lastmod>
+    <lastmod>2017-08-31T13:21:36.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2017/08/25/jstree/</loc>
+    <loc>http://yoursite.com/2017/08/31/jstree/</loc>
     
-    <lastmod>2017-08-31T13:17:35.626Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2017/08/28/170828-TIL/</loc>
-    
-    <lastmod>2017-08-31T13:16:23.658Z</lastmod>
+    <lastmod>2017-08-31T13:17:35.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2017/08/29/170829-TIL/</loc>
+    <loc>http://yoursite.com/2017/08/31/170828-TIL/</loc>
     
-    <lastmod>2017-08-31T13:16:19.710Z</lastmod>
+    <lastmod>2017-08-31T13:16:23.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/08/31/170829-TIL/</loc>
+    
+    <lastmod>2017-08-31T13:16:19.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/2017/08/28/divisorsum/</loc>
     
-    <lastmod>2017-08-28T14:55:18.917Z</lastmod>
+    <lastmod>2017-08-28T14:55:18.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/2017/08/27/170827-TIL/</loc>
     
-    <lastmod>2017-08-27T14:44:00.293Z</lastmod>
+    <lastmod>2017-08-27T14:44:00.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2017/08/24/jsstudyplan/</loc>
+    <loc>http://yoursite.com/2017/08/27/jsstudyplan/</loc>
     
-    <lastmod>2017-08-27T14:35:29.258Z</lastmod>
+    <lastmod>2017-08-27T14:35:29.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/categories/index.html</loc>
     
-    <lastmod>2017-08-25T01:59:13.239Z</lastmod>
+    <lastmod>2017-08-25T01:59:13.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/tags/index.html</loc>
     
-    <lastmod>2017-08-25T01:52:40.712Z</lastmod>
+    <lastmod>2017-08-25T01:52:40.000Z</lastmod>
     
   </url>
   

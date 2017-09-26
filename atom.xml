@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-25T14:38:17.763Z</updated>
+  <updated>2017-09-26T14:08:24.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,25 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>test</title>
+    <link href="http://yoursite.com/2017/09/26/test/"/>
+    <id>http://yoursite.com/2017/09/26/test/</id>
+    <published>2017-09-26T14:08:24.000Z</published>
+    <updated>2017-09-26T14:08:24.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>170925-TIL</title>
     <link href="http://yoursite.com/2017/09/25/170925-TIL/"/>
     <id>http://yoursite.com/2017/09/25/170925-TIL/</id>
-    <published>2017-09-25T14:35:15.206Z</published>
-    <updated>2017-09-25T14:38:17.763Z</updated>
+    <published>2017-09-25T14:38:17.000Z</published>
+    <updated>2017-09-25T14:38:17.000Z</updated>
     
     <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
 <li><p>서울역 FJ 저녁 미팅</p>
@@ -73,8 +87,8 @@
     <title>170924-TIL</title>
     <link href="http://yoursite.com/2017/09/24/170924-TIL/"/>
     <id>http://yoursite.com/2017/09/24/170924-TIL/</id>
-    <published>2017-09-24T14:30:34.342Z</published>
-    <updated>2017-09-24T14:34:34.105Z</updated>
+    <published>2017-09-24T14:34:34.000Z</published>
+    <updated>2017-09-24T14:34:34.000Z</updated>
     
     <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
 <li>FJ / 메인페이지 반응형 작업 (70%)</li>
@@ -115,8 +129,8 @@
     <title>170923-TIL</title>
     <link href="http://yoursite.com/2017/09/23/170923-TIL/"/>
     <id>http://yoursite.com/2017/09/23/170923-TIL/</id>
-    <published>2017-09-23T14:20:02.050Z</published>
-    <updated>2017-09-23T14:26:36.059Z</updated>
+    <published>2017-09-23T14:26:36.000Z</published>
+    <updated>2017-09-23T14:26:36.000Z</updated>
     
     <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
 <li>FJ / Activity ui calendar 디자인 완료</li>
@@ -152,10 +166,10 @@
   
   <entry>
     <title>170922-TIL</title>
-    <link href="http://yoursite.com/2017/09/22/170922-TIL/"/>
-    <id>http://yoursite.com/2017/09/22/170922-TIL/</id>
-    <published>2017-09-22T11:13:36.625Z</published>
-    <updated>2017-09-23T14:19:43.972Z</updated>
+    <link href="http://yoursite.com/2017/09/23/170922-TIL/"/>
+    <id>http://yoursite.com/2017/09/23/170922-TIL/</id>
+    <published>2017-09-23T14:19:43.000Z</published>
+    <updated>2017-09-23T14:19:43.000Z</updated>
     
     <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
 <li><p>생활코딩 강의시청 :</p>
@@ -198,10 +212,10 @@
   
   <entry>
     <title>170921-TIL</title>
-    <link href="http://yoursite.com/2017/09/21/170921-TIL/"/>
-    <id>http://yoursite.com/2017/09/21/170921-TIL/</id>
-    <published>2017-09-21T14:22:15.667Z</published>
-    <updated>2017-09-23T14:19:18.954Z</updated>
+    <link href="http://yoursite.com/2017/09/23/170921-TIL/"/>
+    <id>http://yoursite.com/2017/09/23/170921-TIL/</id>
+    <published>2017-09-23T14:19:18.000Z</published>
+    <updated>2017-09-23T14:19:18.000Z</updated>
     
     <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
 <li><p>강의시청 :</p>
@@ -259,100 +273,11 @@
   </entry>
   
   <entry>
-    <title>170920-TIL</title>
-    <link href="http://yoursite.com/2017/09/20/170920-TIL/"/>
-    <id>http://yoursite.com/2017/09/20/170920-TIL/</id>
-    <published>2017-09-20T11:09:05.944Z</published>
-    <updated>2017-09-20T14:32:23.992Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
-<li><p>강의시청 :</p>
-<ul>
-<li>생활코딩 참조 1~3</li>
-</ul>
-</li>
-<li><p>개발영어 : stackoverflow에서 모르는 단어외우기 10개</p>
-</li>
-<li>FJ 메인페이지 디자인 작업 2/3 완료</li>
-</ul>
-<a id="more"></a>
-<h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><ul>
-<li>메인페이지 빨리 마무리해야겠다.</li>
-<li>오늘은 논현에서 저녁약속</li>
-<li>추석때까지 portfolio site + 이력서 + FJ 마무리</li>
-</ul>
-<h4 id="내일-할-일"><a href="#내일-할-일" class="headerlink" title="내일 할 일"></a>내일 할 일</h4><ul>
-<li>메인페이지 마무리</li>
-<li>activity calendar design</li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;강의시청 :&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;생활코딩 참조 1~3&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;개발영어 : stackoverflow에서 모르는 단어외우기 10개&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;FJ 메인페이지 디자인 작업 2/3 완료&lt;/li&gt;
-&lt;/ul&gt;
-    
-    </summary>
-    
-      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
-    
-    
-      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Private Variables</title>
-    <link href="http://yoursite.com/2017/09/19/private-variables/"/>
-    <id>http://yoursite.com/2017/09/19/private-variables/</id>
-    <published>2017-09-19T14:36:06.623Z</published>
-    <updated>2017-09-19T14:44:33.084Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="Private-Variables"><a href="#Private-Variables" class="headerlink" title="Private Variables"></a>Private Variables</h4><blockquote>
-<p>Codecademy</p>
-</blockquote>
-<ul>
-<li>함수가 해당 함수 내에서만 사용할 수 있는 지역 변수를 갖는 것 처럼, 객체 역시 객체 내에서만 접근할 수 있는 private variables가 있다.</li>
-</ul>
-<a id="more"></a>
-<blockquote>
-<p>example</p>
-</blockquote>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div></pre></td><td class="code"><pre><div class="line">function() &#123;</div><div class="line">  var a = 10;</div><div class="line">&#125;</div><div class="line">a; // undefined 함수</div><div class="line"></div><div class="line">function Person() &#123;</div><div class="line">  this.name = name;</div><div class="line">  var balance = 5000;</div><div class="line">&#125;</div><div class="line"></div><div class="line">var john = new Person();</div><div class="line">console.log(john.balance); // 5000 출력</div></pre></td></tr></table></figure>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;Private-Variables&quot;&gt;&lt;a href=&quot;#Private-Variables&quot; class=&quot;headerlink&quot; title=&quot;Private Variables&quot;&gt;&lt;/a&gt;Private Variables&lt;/h4&gt;&lt;blockquote&gt;
-&lt;p&gt;Codecademy&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;함수가 해당 함수 내에서만 사용할 수 있는 지역 변수를 갖는 것 처럼, 객체 역시 객체 내에서만 접근할 수 있는 private variables가 있다.&lt;/li&gt;
-&lt;/ul&gt;
-    
-    </summary>
-    
-      <category term="javascript" scheme="http://yoursite.com/categories/javascript/"/>
-    
-    
-      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
-    
-  </entry>
-  
-  <entry>
     <title>170919-TIL</title>
-    <link href="http://yoursite.com/2017/09/19/170919-TIL/"/>
-    <id>http://yoursite.com/2017/09/19/170919-TIL/</id>
-    <published>2017-09-19T13:55:15.513Z</published>
-    <updated>2017-09-22T11:13:19.410Z</updated>
+    <link href="http://yoursite.com/2017/09/22/170919-TIL/"/>
+    <id>http://yoursite.com/2017/09/22/170919-TIL/</id>
+    <published>2017-09-22T11:13:19.000Z</published>
+    <updated>2017-09-22T11:13:19.000Z</updated>
     
     <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
 <li><p>Codecademy</p>
@@ -410,44 +335,84 @@
   </entry>
   
   <entry>
-    <title>생성자와 new</title>
-    <link href="http://yoursite.com/2017/09/19/constructor-new/"/>
-    <id>http://yoursite.com/2017/09/19/constructor-new/</id>
-    <published>2017-09-19T13:50:24.875Z</published>
-    <updated>2017-09-19T13:55:02.285Z</updated>
+    <title>170920-TIL</title>
+    <link href="http://yoursite.com/2017/09/20/170920-TIL/"/>
+    <id>http://yoursite.com/2017/09/20/170920-TIL/</id>
+    <published>2017-09-20T14:32:23.000Z</published>
+    <updated>2017-09-20T14:32:23.000Z</updated>
     
-    <content type="html"><![CDATA[<h4 id="생성자와-new"><a href="#생성자와-new" class="headerlink" title="생성자와 new"></a>생성자와 new</h4><blockquote>
-<p>생활코딩 복습</p>
-</blockquote>
+    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
+<li><p>강의시청 :</p>
 <ul>
-<li>javascript는 prototype based language이다.</li>
-<li>객체는 연관 된 변수와 함수를 그룹핑한 그릇이다.</li>
-<li>객체 지향의 목표는 “좋은 부품”을 만드는 것이다.</li>
+<li>생활코딩 참조 1~3</li>
 </ul>
-<p><strong>객체</strong></p>
-<ul>
-<li>객체 내의 변수를 “property”, 함수를 “method”라고 한다.<a id="more"></a></li>
-<li>생성자는 객체를 만드는 역할을 하는 함수를 가르킨다.</li>
+</li>
+<li><p>개발영어 : stackoverflow에서 모르는 단어외우기 10개</p>
+</li>
+<li>FJ 메인페이지 디자인 작업 2/3 완료</li>
 </ul>
-<blockquote>
-<p>example</p>
-</blockquote>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">function person() &#123;&#125;;</div><div class="line">var p = person();</div><div class="line">p // undefined</div><div class="line"></div><div class="line">var p1 = new Person(); // new를 붙이면 Person(); 생성자로 가르킨다.</div><div class="line">var p1 // Person&#123;&#125;</div></pre></td></tr></table></figure>
+<a id="more"></a>
+<h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><ul>
+<li>메인페이지 빨리 마무리해야겠다.</li>
+<li>오늘은 논현에서 저녁약속</li>
+<li>추석때까지 portfolio site + 이력서 + FJ 마무리</li>
+</ul>
+<h4 id="내일-할-일"><a href="#내일-할-일" class="headerlink" title="내일 할 일"></a>내일 할 일</h4><ul>
+<li>메인페이지 마무리</li>
+<li>activity calendar design</li>
+</ul>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h4 id=&quot;생성자와-new&quot;&gt;&lt;a href=&quot;#생성자와-new&quot; class=&quot;headerlink&quot; title=&quot;생성자와 new&quot;&gt;&lt;/a&gt;생성자와 new&lt;/h4&gt;&lt;blockquote&gt;
-&lt;p&gt;생활코딩 복습&lt;/p&gt;
+      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;강의시청 :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;생활코딩 참조 1~3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;개발영어 : stackoverflow에서 모르는 단어외우기 10개&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;FJ 메인페이지 디자인 작업 2/3 완료&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
+    
+    
+      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Private Variables</title>
+    <link href="http://yoursite.com/2017/09/19/private-variables/"/>
+    <id>http://yoursite.com/2017/09/19/private-variables/</id>
+    <published>2017-09-19T14:44:33.000Z</published>
+    <updated>2017-09-19T14:44:33.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="Private-Variables"><a href="#Private-Variables" class="headerlink" title="Private Variables"></a>Private Variables</h4><blockquote>
+<p>Codecademy</p>
+</blockquote>
+<ul>
+<li>함수가 해당 함수 내에서만 사용할 수 있는 지역 변수를 갖는 것 처럼, 객체 역시 객체 내에서만 접근할 수 있는 private variables가 있다.</li>
+</ul>
+<a id="more"></a>
+<blockquote>
+<p>example</p>
+</blockquote>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div></pre></td><td class="code"><pre><div class="line">function() &#123;</div><div class="line">  var a = 10;</div><div class="line">&#125;</div><div class="line">a; // undefined 함수</div><div class="line"></div><div class="line">function Person() &#123;</div><div class="line">  this.name = name;</div><div class="line">  var balance = 5000;</div><div class="line">&#125;</div><div class="line"></div><div class="line">var john = new Person();</div><div class="line">console.log(john.balance); // 5000 출력</div></pre></td></tr></table></figure>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;Private-Variables&quot;&gt;&lt;a href=&quot;#Private-Variables&quot; class=&quot;headerlink&quot; title=&quot;Private Variables&quot;&gt;&lt;/a&gt;Private Variables&lt;/h4&gt;&lt;blockquote&gt;
+&lt;p&gt;Codecademy&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;javascript는 prototype based language이다.&lt;/li&gt;
-&lt;li&gt;객체는 연관 된 변수와 함수를 그룹핑한 그릇이다.&lt;/li&gt;
-&lt;li&gt;객체 지향의 목표는 “좋은 부품”을 만드는 것이다.&lt;/li&gt;
+&lt;li&gt;함수가 해당 함수 내에서만 사용할 수 있는 지역 변수를 갖는 것 처럼, 객체 역시 객체 내에서만 접근할 수 있는 private variables가 있다.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;객체&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;객체 내의 변수를 “property”, 함수를 “method”라고 한다.
     
     </summary>
     
@@ -459,11 +424,66 @@
   </entry>
   
   <entry>
+    <title>170918-TIL</title>
+    <link href="http://yoursite.com/2017/09/19/170918-TIL/"/>
+    <id>http://yoursite.com/2017/09/19/170918-TIL/</id>
+    <published>2017-09-19T14:33:26.000Z</published>
+    <updated>2017-09-19T14:33:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
+<li><p>Codecademy</p>
+<ul>
+<li>객체(objects) 입문 II 파트 완료</li>
+</ul>
+</li>
+<li><p>FJ 프로젝트 메인페이지 이미지 디자인, bookmark button 변경</p>
+</li>
+<li><a href="https://raven54.github.io/2017/09/18/become-a-front-end-developer" target="_blank" rel="external">프론트엔드 입문자를 위한 로드맵</a> 정리</li>
+</ul>
+<h4 id="읽은-글"><a href="#읽은-글" class="headerlink" title="읽은 글"></a>읽은 글</h4><ul>
+<li><a href="http://bitobe.me/good-tip/how-to-be-developer-interview/" target="_blank" rel="external">개발자가 되고 싶은 비전공자가 고민해야 할 것 - 인터뷰</a><a id="more"></a>
+</li>
+</ul>
+<h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><ul>
+<li>객체 복습했다. 자꾸 까먹는다.</li>
+</ul>
+<h4 id="내일-할-일"><a href="#내일-할-일" class="headerlink" title="내일 할 일"></a>내일 할 일</h4><ul>
+<li>codecademy 객체 입문 파트 2 복습</li>
+<li>프로젝트 메인페이지 이미지 추가, calendar 디자인 변경</li>
+<li>프로젝트 activity 페이지 마무리하기.</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Codecademy&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;객체(objects) 입문 II 파트 완료&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;FJ 프로젝트 메인페이지 이미지 디자인, bookmark button 변경&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://raven54.github.io/2017/09/18/become-a-front-end-developer&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;프론트엔드 입문자를 위한 로드맵&lt;/a&gt; 정리&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;읽은-글&quot;&gt;&lt;a href=&quot;#읽은-글&quot; class=&quot;headerlink&quot; title=&quot;읽은 글&quot;&gt;&lt;/a&gt;읽은 글&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://bitobe.me/good-tip/how-to-be-developer-interview/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;개발자가 되고 싶은 비전공자가 고민해야 할 것 - 인터뷰&lt;/a&gt;
+    
+    </summary>
+    
+      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
+    
+    
+      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
+    
+  </entry>
+  
+  <entry>
     <title>프론트엔드 입문자를 위한 로드맵</title>
-    <link href="http://yoursite.com/2017/09/18/become-a-front-end-developer/"/>
-    <id>http://yoursite.com/2017/09/18/become-a-front-end-developer/</id>
-    <published>2017-09-18T14:18:12.847Z</published>
-    <updated>2017-09-19T14:33:12.647Z</updated>
+    <link href="http://yoursite.com/2017/09/19/become-a-front-end-developer/"/>
+    <id>http://yoursite.com/2017/09/19/become-a-front-end-developer/</id>
+    <published>2017-09-19T14:33:12.000Z</published>
+    <updated>2017-09-19T14:33:12.000Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>프론트엔드 로드맵 정리</p>
@@ -523,50 +543,94 @@
   </entry>
   
   <entry>
-    <title>170918-TIL</title>
-    <link href="http://yoursite.com/2017/09/18/170918-TIL/"/>
-    <id>http://yoursite.com/2017/09/18/170918-TIL/</id>
-    <published>2017-09-18T12:10:26.124Z</published>
-    <updated>2017-09-19T14:33:26.261Z</updated>
+    <title>생성자와 new</title>
+    <link href="http://yoursite.com/2017/09/19/constructor-new/"/>
+    <id>http://yoursite.com/2017/09/19/constructor-new/</id>
+    <published>2017-09-19T13:55:02.000Z</published>
+    <updated>2017-09-19T13:55:02.000Z</updated>
     
-    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
-<li><p>Codecademy</p>
+    <content type="html"><![CDATA[<h4 id="생성자와-new"><a href="#생성자와-new" class="headerlink" title="생성자와 new"></a>생성자와 new</h4><blockquote>
+<p>생활코딩 복습</p>
+</blockquote>
 <ul>
-<li>객체(objects) 입문 II 파트 완료</li>
+<li>javascript는 prototype based language이다.</li>
+<li>객체는 연관 된 변수와 함수를 그룹핑한 그릇이다.</li>
+<li>객체 지향의 목표는 “좋은 부품”을 만드는 것이다.</li>
 </ul>
-</li>
-<li><p>FJ 프로젝트 메인페이지 이미지 디자인, bookmark button 변경</p>
-</li>
-<li><a href="https://raven54.github.io/2017/09/18/become-a-front-end-developer" target="_blank" rel="external">프론트엔드 입문자를 위한 로드맵</a> 정리</li>
+<p><strong>객체</strong></p>
+<ul>
+<li>객체 내의 변수를 “property”, 함수를 “method”라고 한다.<a id="more"></a></li>
+<li>생성자는 객체를 만드는 역할을 하는 함수를 가르킨다.</li>
 </ul>
-<h4 id="읽은-글"><a href="#읽은-글" class="headerlink" title="읽은 글"></a>읽은 글</h4><ul>
-<li><a href="http://bitobe.me/good-tip/how-to-be-developer-interview/" target="_blank" rel="external">개발자가 되고 싶은 비전공자가 고민해야 할 것 - 인터뷰</a><a id="more"></a>
-</li>
-</ul>
-<h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><ul>
-<li>객체 복습했다. 자꾸 까먹는다.</li>
-</ul>
-<h4 id="내일-할-일"><a href="#내일-할-일" class="headerlink" title="내일 할 일"></a>내일 할 일</h4><ul>
-<li>codecademy 객체 입문 파트 2 복습</li>
-<li>프로젝트 메인페이지 이미지 추가, calendar 디자인 변경</li>
-<li>프로젝트 activity 페이지 마무리하기.</li>
-</ul>
+<blockquote>
+<p>example</p>
+</blockquote>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">function person() &#123;&#125;;</div><div class="line">var p = person();</div><div class="line">p // undefined</div><div class="line"></div><div class="line">var p1 = new Person(); // new를 붙이면 Person(); 생성자로 가르킨다.</div><div class="line">var p1 // Person&#123;&#125;</div></pre></td></tr></table></figure>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Codecademy&lt;/p&gt;
+      &lt;h4 id=&quot;생성자와-new&quot;&gt;&lt;a href=&quot;#생성자와-new&quot; class=&quot;headerlink&quot; title=&quot;생성자와 new&quot;&gt;&lt;/a&gt;생성자와 new&lt;/h4&gt;&lt;blockquote&gt;
+&lt;p&gt;생활코딩 복습&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;객체(objects) 입문 II 파트 완료&lt;/li&gt;
+&lt;li&gt;javascript는 prototype based language이다.&lt;/li&gt;
+&lt;li&gt;객체는 연관 된 변수와 함수를 그룹핑한 그릇이다.&lt;/li&gt;
+&lt;li&gt;객체 지향의 목표는 “좋은 부품”을 만드는 것이다.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;FJ 프로젝트 메인페이지 이미지 디자인, bookmark button 변경&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://raven54.github.io/2017/09/18/become-a-front-end-developer&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;프론트엔드 입문자를 위한 로드맵&lt;/a&gt; 정리&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&quot;읽은-글&quot;&gt;&lt;a href=&quot;#읽은-글&quot; class=&quot;headerlink&quot; title=&quot;읽은 글&quot;&gt;&lt;/a&gt;읽은 글&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://bitobe.me/good-tip/how-to-be-developer-interview/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;개발자가 되고 싶은 비전공자가 고민해야 할 것 - 인터뷰&lt;/a&gt;
+&lt;p&gt;&lt;strong&gt;객체&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;객체 내의 변수를 “property”, 함수를 “method”라고 한다.
+    
+    </summary>
+    
+      <category term="javascript" scheme="http://yoursite.com/categories/javascript/"/>
+    
+    
+      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>프로토타입 기본 공부 part.1</title>
+    <link href="http://yoursite.com/2017/09/19/prototype1/"/>
+    <id>http://yoursite.com/2017/09/19/prototype1/</id>
+    <published>2017-09-19T13:50:01.000Z</published>
+    <updated>2017-09-19T13:50:01.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><blockquote>
+<p>09.10 ~ 09.11 공부한 프로토타입 정리<br>프로토타입은 object와 link 2가지로 나눠서 이해해야 한다.</p>
+</blockquote>
+<p><strong>1. prototype object</strong></p>
+<ul>
+<li>모든 객체의 조상은 ‘함수’이다.</li>
+<li>함수가 정의될 때는 2가지 일이 동시에 이루어진다. 첫번째는 해당 함수에 constructor(생성자) 자격이 부여되고, 두번째는 해당 함수의 prototype Object가 생성, 연결된다.</li>
+<li>prototype Object는 constructor와 _ _proto__ 를 가지고 있고, 일반적인 객체와 같다.<a id="more"></a></li>
+<li>X는 Y인 경우 프로토타입을 사용하기 좋은 기회가 된다.</li>
+<li>상속. 상속은 우리가 다른 클래스의 속성과 메소드를 확인하고 사용할 수 있게 해준다.</li>
+</ul>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">// 정확하게 같지는 않지만 비슷하다.</div><div class="line">var obj = &#123;&#125;;</div><div class="line">var obj = new Object();</div></pre></td></tr></table></figure>
+<blockquote>
+<p>codecademy prototype Example 추가(17.09.19)</p>
+</blockquote>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div></pre></td><td class="code"><pre><div class="line">function Animal(name, numLegs) &#123;</div><div class="line">  this.name = name;</div><div class="line">  this.numLegs = numLegs;</div><div class="line">&#125;;</div><div class="line"></div><div class="line">Animal.prototype.sayName = function() &#123;</div><div class="line">  console.log(&quot;Hi my name is &quot; + this.name);</div><div class="line">&#125;;</div><div class="line"></div><div class="line">var Penguin = function(name) &#123;</div><div class="line">  this.name = name;</div><div class="line">  this.numLegs = 2;</div><div class="line">&#125;;</div><div class="line"></div><div class="line">Penguin.prototype = new Animal();</div><div class="line"></div><div class="line">var penguin = new Penguin(&quot;penguin&quot;);</div><div class="line">penguin.sayName();</div></pre></td></tr></table></figure>
+<ul>
+<li>출력<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">&quot;Hi my name is penguin&quot;</div></pre></td></tr></table></figure>
+</li>
+</ul>
+<p><strong>2. prototype link</strong></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;blockquote&gt;
+&lt;p&gt;09.10 ~ 09.11 공부한 프로토타입 정리&lt;br&gt;프로토타입은 object와 link 2가지로 나눠서 이해해야 한다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;1. prototype object&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;모든 객체의 조상은 ‘함수’이다.&lt;/li&gt;
+&lt;li&gt;함수가 정의될 때는 2가지 일이 동시에 이루어진다. 첫번째는 해당 함수에 constructor(생성자) 자격이 부여되고, 두번째는 해당 함수의 prototype Object가 생성, 연결된다.&lt;/li&gt;
+&lt;li&gt;prototype Object는 constructor와 _ _proto__ 를 가지고 있고, 일반적인 객체와 같다.
     
     </summary>
     
@@ -578,11 +642,127 @@
   </entry>
   
   <entry>
+    <title>Javascript FizzBuzz</title>
+    <link href="http://yoursite.com/2017/09/19/js-fizzbuzz/"/>
+    <id>http://yoursite.com/2017/09/19/js-fizzbuzz/</id>
+    <published>2017-09-18T15:55:57.000Z</published>
+    <updated>2017-09-18T15:55:57.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="Codecademy-FizzBuzz"><a href="#Codecademy-FizzBuzz" class="headerlink" title="Codecademy - FizzBuzz"></a><a href="https://www.codecademy.com/courses/fizzbuzz/0/1" target="_blank" rel="external">Codecademy - FizzBuzz</a></h4><blockquote>
+<p><strong>문제</strong></p>
+<p>FizzBuzz<br>You are fizzing and buzzing right along.</p>
+<p>But look at that “15”…it says “Fizz” but it should be “FizzBuzz” because it’s &gt; divisible by both 3 and 5. Oops!<br><a id="more"></a></p>
+</blockquote>
+<p><em>Instructions</em></p>
+<p>Add another if statement to your code to check for this special case.<br>There is a special math trick that will help you here. Remember there is a Hint button below if you don’t remember it.</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div></pre></td><td class="code"><pre><div class="line">for (var i = 1; i &lt;= 20; i++)&#123;</div><div class="line"></div><div class="line">    if  (i % 15 === 0)&#123;</div><div class="line">        console.log(&quot;FizzBuzz&quot;);</div><div class="line">    &#125;</div><div class="line">    else if (i % 3 ===0) &#123;</div><div class="line">        console.log(&quot;Fizz&quot;);</div><div class="line">    &#125;</div><div class="line">    else if (i % 5 ===0) &#123;</div><div class="line">        console.log(&quot;Buzz&quot;);</div><div class="line">    &#125;</div><div class="line">    else &#123;</div><div class="line">        console.log(i);</div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;Codecademy-FizzBuzz&quot;&gt;&lt;a href=&quot;#Codecademy-FizzBuzz&quot; class=&quot;headerlink&quot; title=&quot;Codecademy - FizzBuzz&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.codecademy.com/courses/fizzbuzz/0/1&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Codecademy - FizzBuzz&lt;/a&gt;&lt;/h4&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;문제&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;FizzBuzz&lt;br&gt;You are fizzing and buzzing right along.&lt;/p&gt;
+&lt;p&gt;But look at that “15”…it says “Fizz” but it should be “FizzBuzz” because it’s &amp;gt; divisible by both 3 and 5. Oops!&lt;br&gt;
+    
+    </summary>
+    
+      <category term="javascript" scheme="http://yoursite.com/categories/javascript/"/>
+    
+    
+      <category term="javascript codecademy" scheme="http://yoursite.com/tags/javascript-codecademy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>배열과 객체</title>
+    <link href="http://yoursite.com/2017/09/18/aryobj1/"/>
+    <id>http://yoursite.com/2017/09/18/aryobj1/</id>
+    <published>2017-09-18T14:16:04.000Z</published>
+    <updated>2017-09-18T14:16:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="Part-배열과-객체"><a href="#Part-배열과-객체" class="headerlink" title="Part : 배열과 객체"></a>Part : 배열과 객체</h4><h4 id="객체"><a href="#객체" class="headerlink" title="객체"></a>객체</h4><ul>
+<li>속성의 이름은 문자열이면 모두 가능(공백과 대시도 포함)</li>
+<li>속성의 값은 undefined를 제외한 모든 값 가능</li>
+<li>쉼표로 이름-값 쌍을 구분</li>
+<li>속성의 이름은 <a href="https://msdn.microsoft.com/ko-kr/library/0779sbks(v=vs.94" target="_blank" rel="external">예약어</a>.aspx)가 아닐 경우 따옴표 (“”)를 생략 할 수 있다.</li>
+<li>객체의 속성 값은 대괄호나 마침표로 접근 할 수 있다.</li>
+</ul>
+<a id="more"></a>
+<ol>
+<li>리터럴 방식<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">var james = &#123;&#125;;</div></pre></td></tr></table></figure>
+</li>
+</ol>
+<ul>
+<li>프로퍼티 추가<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">var james = &#123;</div><div class="line">  lastName : &quot;owen&quot;,</div><div class="line">  gender : &apos;male&apos;,</div><div class="line">  ID : 1234  </div><div class="line">&#125;;</div></pre></td></tr></table></figure>
+</li>
+</ul>
+<ol>
+<li>생성자 방식<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">var James = new Object();</div></pre></td></tr></table></figure>
+</li>
+</ol>
+<ul>
+<li><p>프로퍼티 추가</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">James.firstName = &quot;owen&quot;;</div><div class="line">James.gender = &quot;male&quot;;</div></pre></td></tr></table></figure>
+</li>
+<li><p>출력값</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">James;</div><div class="line">&#123;firstName : &quot;owen&quot;, genter : &quot;male&quot;&#125;</div></pre></td></tr></table></figure>
+</li>
+</ul>
+<ol>
+<li>생성자 함수</li>
+</ol>
+<ul>
+<li><p>생성자 함수의 첫 글자는 대문자로 쓰는 것을 권장한다.</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">var Group = function(member, gender, age) &#123;</div><div class="line">  this.member = member;</div><div class="line">  this.gender = gender;</div><div class="line">  this.age = age;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+</li>
+<li><p>출력값</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">var soccer = new Group(&apos;Ronaldo&apos;,&apos;male&apos;,&apos;32&apos;);</div><div class="line"></div><div class="line">console.log(soccer);</div><div class="line">Group &#123;member: &quot;Ronaldo&quot;, gender: &quot;male&quot;, age: &quot;32&quot;&#125;</div></pre></td></tr></table></figure>
+</li>
+</ul>
+<h4 id="배열"><a href="#배열" class="headerlink" title="배열"></a>배열</h4><p>배열의 특징</p>
+<ul>
+<li>배열 자체도 객체이다.</li>
+<li>생성방식 : 리터럴 방식과 생성자 방식이 있다.</li>
+<li>숫자, 문자, 객체, boolean 각기 다른 타입을 담을 수 있다.</li>
+<li>값을 지정하지 않은 경우 undefined가 된다.</li>
+</ul>
+<p><strong>선언 방식</strong></p>
+<ol>
+<li><p>리터럴 방식</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">var arr = [];</div><div class="line">var arr2 = [1,true,a,&quot;o&quot;];</div></pre></td></tr></table></figure>
+</li>
+<li><p>생성자 방식</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">var arr = new Array();</div><div class="line"></div><div class="line">var arr = new Array(3);</div><div class="line">//숫자를 쓰면 데이터가 3개 있는 배열을 만든다.</div><div class="line"></div><div class="line">var arr = array(2);</div><div class="line">// new를 생략해도 선언이 가능하지만 new를 쓰는 게 좋다.</div></pre></td></tr></table></figure>
+</li>
+</ol>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;Part-배열과-객체&quot;&gt;&lt;a href=&quot;#Part-배열과-객체&quot; class=&quot;headerlink&quot; title=&quot;Part : 배열과 객체&quot;&gt;&lt;/a&gt;Part : 배열과 객체&lt;/h4&gt;&lt;h4 id=&quot;객체&quot;&gt;&lt;a href=&quot;#객체&quot; class=&quot;headerlink&quot; title=&quot;객체&quot;&gt;&lt;/a&gt;객체&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;속성의 이름은 문자열이면 모두 가능(공백과 대시도 포함)&lt;/li&gt;
+&lt;li&gt;속성의 값은 undefined를 제외한 모든 값 가능&lt;/li&gt;
+&lt;li&gt;쉼표로 이름-값 쌍을 구분&lt;/li&gt;
+&lt;li&gt;속성의 이름은 &lt;a href=&quot;https://msdn.microsoft.com/ko-kr/library/0779sbks(v=vs.94&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;예약어&lt;/a&gt;.aspx)가 아닐 경우 따옴표 (“”)를 생략 할 수 있다.&lt;/li&gt;
+&lt;li&gt;객체의 속성 값은 대괄호나 마침표로 접근 할 수 있다.&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="javascript" scheme="http://yoursite.com/categories/javascript/"/>
+    
+    
+      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
+    
+  </entry>
+  
+  <entry>
     <title>170917-TIL</title>
     <link href="http://yoursite.com/2017/09/17/170917-TIL/"/>
     <id>http://yoursite.com/2017/09/17/170917-TIL/</id>
-    <published>2017-09-17T14:39:17.423Z</published>
-    <updated>2017-09-17T14:41:35.621Z</updated>
+    <published>2017-09-17T14:41:35.000Z</published>
+    <updated>2017-09-17T14:41:35.000Z</updated>
     
     <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
 <li>Codecademy<ul>
@@ -622,77 +802,57 @@
   </entry>
   
   <entry>
-    <title>Javascript FizzBuzz</title>
-    <link href="http://yoursite.com/2017/09/16/js-fizzbuzz/"/>
-    <id>http://yoursite.com/2017/09/16/js-fizzbuzz/</id>
-    <published>2017-09-16T14:30:24.468Z</published>
-    <updated>2017-09-18T15:55:57.107Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="Codecademy-FizzBuzz"><a href="#Codecademy-FizzBuzz" class="headerlink" title="Codecademy - FizzBuzz"></a><a href="https://www.codecademy.com/courses/fizzbuzz/0/1" target="_blank" rel="external">Codecademy - FizzBuzz</a></h4><blockquote>
-<p><strong>문제</strong></p>
-<p>FizzBuzz<br>You are fizzing and buzzing right along.</p>
-<p>But look at that “15”…it says “Fizz” but it should be “FizzBuzz” because it’s &gt; divisible by both 3 and 5. Oops!<br><a id="more"></a></p>
-</blockquote>
-<p><em>Instructions</em></p>
-<p>Add another if statement to your code to check for this special case.<br>There is a special math trick that will help you here. Remember there is a Hint button below if you don’t remember it.</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div></pre></td><td class="code"><pre><div class="line">for (var i = 1; i &lt;= 20; i++)&#123;</div><div class="line"></div><div class="line">    if  (i % 15 === 0)&#123;</div><div class="line">        console.log(&quot;FizzBuzz&quot;);</div><div class="line">    &#125;</div><div class="line">    else if (i % 3 ===0) &#123;</div><div class="line">        console.log(&quot;Fizz&quot;);</div><div class="line">    &#125;</div><div class="line">    else if (i % 5 ===0) &#123;</div><div class="line">        console.log(&quot;Buzz&quot;);</div><div class="line">    &#125;</div><div class="line">    else &#123;</div><div class="line">        console.log(i);</div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;Codecademy-FizzBuzz&quot;&gt;&lt;a href=&quot;#Codecademy-FizzBuzz&quot; class=&quot;headerlink&quot; title=&quot;Codecademy - FizzBuzz&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.codecademy.com/courses/fizzbuzz/0/1&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Codecademy - FizzBuzz&lt;/a&gt;&lt;/h4&gt;&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;문제&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;FizzBuzz&lt;br&gt;You are fizzing and buzzing right along.&lt;/p&gt;
-&lt;p&gt;But look at that “15”…it says “Fizz” but it should be “FizzBuzz” because it’s &amp;gt; divisible by both 3 and 5. Oops!&lt;br&gt;
-    
-    </summary>
-    
-      <category term="javascript" scheme="http://yoursite.com/categories/javascript/"/>
-    
-    
-      <category term="javascript codecademy" scheme="http://yoursite.com/tags/javascript-codecademy/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>170916-TIL</title>
-    <link href="http://yoursite.com/2017/09/16/170916-TIL/"/>
-    <id>http://yoursite.com/2017/09/16/170916-TIL/</id>
-    <published>2017-09-16T14:12:54.650Z</published>
-    <updated>2017-09-16T14:20:07.623Z</updated>
+    <title>170913-TIL</title>
+    <link href="http://yoursite.com/2017/09/16/170913-TIL/"/>
+    <id>http://yoursite.com/2017/09/16/170913-TIL/</id>
+    <published>2017-09-16T14:26:44.000Z</published>
+    <updated>2017-09-16T14:26:44.000Z</updated>
     
     <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
-<li>Codecademy 문제풀기<ul>
-<li><a href="https://raven54.github.io/2017/09/16/js-fizzbuzz/" target="_blank" rel="external">Fizzbuzz 문제</a></li>
+<li>강의시청 :<ul>
+<li><a href="https://www.youtube.com/watch?v=zbgKZVMzdfk&amp;list=PLnkwNkWVo5pVxyGW_xqGgTJ_PBlTzXcm8&amp;index=7" target="_blank" rel="external">한 놈만 패는 자바스크립트</a> 파트 7 - 프로토타입 (100%)</li>
 </ul>
 </li>
 </ul>
+<p><br></p>
 <ul>
-<li style="list-style: none"><input type="checkbox" checked> 개발공부용 노트 구매</li>
-</ul>
-<h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><ul>
-<li><p>오전에 잠깐 공부하고 푹 쉬었다.</p>
-<a id="more"></a>
+<li>FJ 서브 프로젝트 (coupon)<ul>
+<li>기존 heroku app express 설정 변경<ul>
+<li>html 렌더 -&gt; pug / ejs로 변경</li>
+<li>메인 화면 초기화</li>
+<li>route 렌더<a id="more"></a>
 </li>
 </ul>
-<h4 id="내일-할-일"><a href="#내일-할-일" class="headerlink" title="내일 할 일"></a>내일 할 일</h4><ul>
-<li>codecademy 문제 풀기 - <a href="https://www.codecademy.com/ko/courses/javascript-beginner-ko/0/3?curriculum_id=53b5dbb5fed2a81590000001" target="_blank" rel="external">객체(Object) 입문 I</a></li>
+</li>
+</ul>
+</li>
+</ul>
+<h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><ul>
+<li><p>메인 프로젝트의 서브 프로젝트로 coupon 추천 사이트를 열기로 했다. 서버부터 front까지 일단 만들어보기로 결정. 작게 시작해서 하나씩 배워갈 마음으로 일단 시작.</p>
+</li>
+<li><p>node.js의 router가 어떻게 돌아가는지 조금 이해했다. url 바꾸는 게 생각보다 이렇게 간단하다니..</p>
+</li>
+<li>기존 html 렌더 설정을 pug, ejs로 바꾸는 데 한참 걸린듯.. Node를 모르니까 답답해 죽겠다. stackoverflow에서 찾아서 겨우 해결했다. 빨리 공부를 해야지 휴..</li>
+<li>무료 버전 heroku app은 느린게 단점.. 테스트 용으로는 괜찮은데 너무 느리다. 사용량이 얼마까지 허용되는지 모르겠다. 알아봐야 할 듯.</li>
+<li>AWS도 써보고 싶다. 가입은 해놨는데 엄두가 안난다. heroku app부터 완성하고 다음은 AWS에서 구축해봐야겠다. 추석에 시간 날 때 해봐야지.</li>
 </ul>
 ]]></content>
     
     <summary type="html">
     
       &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;Codecademy 문제풀기&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://raven54.github.io/2017/09/16/js-fizzbuzz/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Fizzbuzz 문제&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;강의시청 :&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=zbgKZVMzdfk&amp;amp;list=PLnkwNkWVo5pVxyGW_xqGgTJ_PBlTzXcm8&amp;amp;index=7&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;한 놈만 패는 자바스크립트&lt;/a&gt; 파트 7 - 프로토타입 (100%)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt; 개발공부용 노트 구매&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&quot;회고&quot;&gt;&lt;a href=&quot;#회고&quot; class=&quot;headerlink&quot; title=&quot;회고&quot;&gt;&lt;/a&gt;회고&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;오전에 잠깐 공부하고 푹 쉬었다.&lt;/p&gt;
+&lt;li&gt;FJ 서브 프로젝트 (coupon)&lt;ul&gt;
+&lt;li&gt;기존 heroku app express 설정 변경&lt;ul&gt;
+&lt;li&gt;html 렌더 -&amp;gt; pug / ejs로 변경&lt;/li&gt;
+&lt;li&gt;메인 화면 초기화&lt;/li&gt;
+&lt;li&gt;route 렌더
     
     </summary>
     
@@ -700,95 +860,15 @@
     
     
       <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>170915-TIL</title>
-    <link href="http://yoursite.com/2017/09/16/170915-TIL/"/>
-    <id>http://yoursite.com/2017/09/16/170915-TIL/</id>
-    <published>2017-09-16T14:08:13.574Z</published>
-    <updated>2017-09-16T14:12:48.970Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
-<li>FJ 메인 프로젝트<ul>
-<li>메인페이지 slick-slider로 변경 + 모바일 작업</li>
-<li>메인페이지 모바일 CSS 변경</li>
-</ul>
-</li>
-</ul>
-<h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><ul>
-<li>메인페이지에 slick-slider를 추가했다. 마지막 칸이 왜 비는지 모르겠네..</li>
-<li>다음 주에 PC버전 끝내고 모바일 작업을 하자.</li>
-<li><p>개발공부용 노트를 사야겠다.</p>
-<a id="more"></a>
-</li>
-</ul>
-<h4 id="내일-할-일"><a href="#내일-할-일" class="headerlink" title="내일 할 일"></a>내일 할 일</h4><ul>
-<li>codecademy 문제 풀기</li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;FJ 메인 프로젝트&lt;ul&gt;
-&lt;li&gt;메인페이지 slick-slider로 변경 + 모바일 작업&lt;/li&gt;
-&lt;li&gt;메인페이지 모바일 CSS 변경&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&quot;회고&quot;&gt;&lt;a href=&quot;#회고&quot; class=&quot;headerlink&quot; title=&quot;회고&quot;&gt;&lt;/a&gt;회고&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;메인페이지에 slick-slider를 추가했다. 마지막 칸이 왜 비는지 모르겠네..&lt;/li&gt;
-&lt;li&gt;다음 주에 PC버전 끝내고 모바일 작업을 하자.&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;개발공부용 노트를 사야겠다.&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
-    
-    
-      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>제이쿼리 이메일 체크</title>
-    <link href="http://yoursite.com/2017/09/14/email-validate-js/"/>
-    <id>http://yoursite.com/2017/09/14/email-validate-js/</id>
-    <published>2017-09-14T14:04:34.205Z</published>
-    <updated>2017-09-16T14:19:50.488Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="제이쿼리-이메일-체크"><a href="#제이쿼리-이메일-체크" class="headerlink" title="제이쿼리 이메일 체크"></a>제이쿼리 이메일 체크</h4><blockquote>
-<p>자바스크립트를 이용한 이메일 유효성 검사</p>
-</blockquote>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">//html</div><div class="line">&lt;div&gt;</div><div class="line">  &lt;input id=&quot;txtEmail&quot; class=&quot;email-box&quot; type=&quot;text&quot; placeholder=&quot;이메일 주소&quot; name=&quot;email&quot; value=&quot;&quot;&gt;</div><div class="line">  &lt;span class=&quot;address&quot;&gt;이메일을 입력해주세요.&lt;span class=&quot;test&quot;&gt;&lt;/span&gt;&lt;/span&gt;</div><div class="line">&lt;/div&gt;</div></pre></td></tr></table></figure>
-<a id="more"></a>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div></pre></td><td class="code"><pre><div class="line">// 이메일 유효성 검사 함수</div><div class="line">function validateEmail(sEmail) &#123;</div><div class="line">  var filter = /^([\w-\.]+)@((\[[0-9]&#123;1,3&#125;\.[0-9]&#123;1,3&#125;\.[0-9]&#123;1,3&#125;\.)|(([\w-]+\.)+))([a-zA-Z]&#123;2,4&#125;|[0-9]&#123;1,3&#125;)(\]?)$/;</div><div class="line">  if (filter.test(sEmail)) &#123;</div><div class="line">    return true;</div><div class="line">  &#125;</div><div class="line">  else &#123;</div><div class="line">    return false;</div><div class="line">  &#125;</div><div class="line">&#125;</div><div class="line"></div><div class="line">// jquery로 실행</div><div class="line">$(document).ready(function() &#123;</div><div class="line">  // keyup -&gt; #txtEmail에 타이핑 할 때 실행</div><div class="line">  $(&apos;#txtEmail&apos;).keyup(function() &#123;</div><div class="line">    var sEmail = $(&apos;#txtEmail&apos;).val();</div><div class="line">    //trim -&gt; 공백 제거</div><div class="line">    if ($.trim(sEmail).length == 0) &#123;</div><div class="line">      $(&apos;.address&apos;).html(&apos;이메일을 입력해주세요.&apos;);                    // length == 0, 즉 입력하지 않았을 때 출력</div><div class="line">      $(&apos;.email-box&apos;).css(&apos;border-color&apos;,&apos;rgba(255, 70, 70, 0.71)&apos;)  // 틀리거나 없는 경우 border 빨간색으로 변경</div><div class="line">    &#125;</div><div class="line">    else if (validateEmail(sEmail)) &#123;</div><div class="line">      $(&apos;.address&apos;).html(&apos;이메일 주소가 확인되었습니다.&apos;);</div><div class="line">      $(&apos;.email-box&apos;).css(&apos;border-color&apos;,&apos;#d2d2d2&apos;);</div><div class="line">    &#125;</div><div class="line">    else &#123;</div><div class="line">      $(&apos;.address&apos;).html(&apos;이메일을 정확하게 입력해주세요.&apos;);            // 유효성 검사를 통과하지 못했을 때 출력</div><div class="line">      $(&apos;.email-box&apos;).css(&apos;border-color&apos;,&apos;rgba(255, 70, 70, 0.71)&apos;);</div><div class="line">    &#125;</div><div class="line">  &#125;)</div><div class="line">&#125;);</div></pre></td></tr></table></figure>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;제이쿼리-이메일-체크&quot;&gt;&lt;a href=&quot;#제이쿼리-이메일-체크&quot; class=&quot;headerlink&quot; title=&quot;제이쿼리 이메일 체크&quot;&gt;&lt;/a&gt;제이쿼리 이메일 체크&lt;/h4&gt;&lt;blockquote&gt;
-&lt;p&gt;자바스크립트를 이용한 이메일 유효성 검사&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;3&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;4&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;5&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;//html&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&amp;lt;div&amp;gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;  &amp;lt;input id=&amp;quot;txtEmail&amp;quot; class=&amp;quot;email-box&amp;quot; type=&amp;quot;text&amp;quot; placeholder=&amp;quot;이메일 주소&amp;quot; name=&amp;quot;email&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;  &amp;lt;span class=&amp;quot;address&amp;quot;&amp;gt;이메일을 입력해주세요.&amp;lt;span class=&amp;quot;test&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&amp;lt;/div&amp;gt;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-    
-    </summary>
-    
-      <category term="javascript" scheme="http://yoursite.com/categories/javascript/"/>
-    
-    
-      <category term="javascript, jquery" scheme="http://yoursite.com/tags/javascript-jquery/"/>
     
   </entry>
   
   <entry>
     <title>170914-TIL</title>
-    <link href="http://yoursite.com/2017/09/14/170914-TIL/"/>
-    <id>http://yoursite.com/2017/09/14/170914-TIL/</id>
-    <published>2017-09-14T13:41:26.203Z</published>
-    <updated>2017-09-16T14:26:23.358Z</updated>
+    <link href="http://yoursite.com/2017/09/16/170914-TIL/"/>
+    <id>http://yoursite.com/2017/09/16/170914-TIL/</id>
+    <published>2017-09-16T14:26:23.000Z</published>
+    <updated>2017-09-16T14:26:23.000Z</updated>
     
     <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
 <li>강의시청 :<ul>
@@ -852,57 +932,44 @@
   </entry>
   
   <entry>
-    <title>170913-TIL</title>
-    <link href="http://yoursite.com/2017/09/14/170913-TIL/"/>
-    <id>http://yoursite.com/2017/09/14/170913-TIL/</id>
-    <published>2017-09-14T13:27:07.205Z</published>
-    <updated>2017-09-16T14:26:44.311Z</updated>
+    <title>170916-TIL</title>
+    <link href="http://yoursite.com/2017/09/16/170916-TIL/"/>
+    <id>http://yoursite.com/2017/09/16/170916-TIL/</id>
+    <published>2017-09-16T14:20:07.000Z</published>
+    <updated>2017-09-16T14:20:07.000Z</updated>
     
     <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
-<li>강의시청 :<ul>
-<li><a href="https://www.youtube.com/watch?v=zbgKZVMzdfk&amp;list=PLnkwNkWVo5pVxyGW_xqGgTJ_PBlTzXcm8&amp;index=7" target="_blank" rel="external">한 놈만 패는 자바스크립트</a> 파트 7 - 프로토타입 (100%)</li>
+<li>Codecademy 문제풀기<ul>
+<li><a href="https://raven54.github.io/2017/09/16/js-fizzbuzz/" target="_blank" rel="external">Fizzbuzz 문제</a></li>
 </ul>
 </li>
 </ul>
-<p><br></p>
 <ul>
-<li>FJ 서브 프로젝트 (coupon)<ul>
-<li>기존 heroku app express 설정 변경<ul>
-<li>html 렌더 -&gt; pug / ejs로 변경</li>
-<li>메인 화면 초기화</li>
-<li>route 렌더<a id="more"></a>
-</li>
-</ul>
-</li>
-</ul>
-</li>
+<li style="list-style: none"><input type="checkbox" checked> 개발공부용 노트 구매</li>
 </ul>
 <h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><ul>
-<li><p>메인 프로젝트의 서브 프로젝트로 coupon 추천 사이트를 열기로 했다. 서버부터 front까지 일단 만들어보기로 결정. 작게 시작해서 하나씩 배워갈 마음으로 일단 시작.</p>
+<li><p>오전에 잠깐 공부하고 푹 쉬었다.</p>
+<a id="more"></a>
 </li>
-<li><p>node.js의 router가 어떻게 돌아가는지 조금 이해했다. url 바꾸는 게 생각보다 이렇게 간단하다니..</p>
-</li>
-<li>기존 html 렌더 설정을 pug, ejs로 바꾸는 데 한참 걸린듯.. Node를 모르니까 답답해 죽겠다. stackoverflow에서 찾아서 겨우 해결했다. 빨리 공부를 해야지 휴..</li>
-<li>무료 버전 heroku app은 느린게 단점.. 테스트 용으로는 괜찮은데 너무 느리다. 사용량이 얼마까지 허용되는지 모르겠다. 알아봐야 할 듯.</li>
-<li>AWS도 써보고 싶다. 가입은 해놨는데 엄두가 안난다. heroku app부터 완성하고 다음은 AWS에서 구축해봐야겠다. 추석에 시간 날 때 해봐야지.</li>
+</ul>
+<h4 id="내일-할-일"><a href="#내일-할-일" class="headerlink" title="내일 할 일"></a>내일 할 일</h4><ul>
+<li>codecademy 문제 풀기 - <a href="https://www.codecademy.com/ko/courses/javascript-beginner-ko/0/3?curriculum_id=53b5dbb5fed2a81590000001" target="_blank" rel="external">객체(Object) 입문 I</a></li>
 </ul>
 ]]></content>
     
     <summary type="html">
     
       &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;강의시청 :&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=zbgKZVMzdfk&amp;amp;list=PLnkwNkWVo5pVxyGW_xqGgTJ_PBlTzXcm8&amp;amp;index=7&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;한 놈만 패는 자바스크립트&lt;/a&gt; 파트 7 - 프로토타입 (100%)&lt;/li&gt;
+&lt;li&gt;Codecademy 문제풀기&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://raven54.github.io/2017/09/16/js-fizzbuzz/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Fizzbuzz 문제&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;FJ 서브 프로젝트 (coupon)&lt;ul&gt;
-&lt;li&gt;기존 heroku app express 설정 변경&lt;ul&gt;
-&lt;li&gt;html 렌더 -&amp;gt; pug / ejs로 변경&lt;/li&gt;
-&lt;li&gt;메인 화면 초기화&lt;/li&gt;
-&lt;li&gt;route 렌더
+&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt; 개발공부용 노트 구매&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;회고&quot;&gt;&lt;a href=&quot;#회고&quot; class=&quot;headerlink&quot; title=&quot;회고&quot;&gt;&lt;/a&gt;회고&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;오전에 잠깐 공부하고 푹 쉬었다.&lt;/p&gt;
     
     </summary>
     
@@ -914,104 +981,33 @@
   </entry>
   
   <entry>
-    <title>170912-TIL</title>
-    <link href="http://yoursite.com/2017/09/12/170912-TIL/"/>
-    <id>http://yoursite.com/2017/09/12/170912-TIL/</id>
-    <published>2017-09-12T14:46:39.895Z</published>
-    <updated>2017-09-12T14:51:40.705Z</updated>
+    <title>제이쿼리 이메일 체크</title>
+    <link href="http://yoursite.com/2017/09/16/email-validate-js/"/>
+    <id>http://yoursite.com/2017/09/16/email-validate-js/</id>
+    <published>2017-09-16T14:19:50.000Z</published>
+    <updated>2017-09-16T14:19:50.000Z</updated>
     
-    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
-<li><p>프로토타입 공부 - <a href="https://raven54.github.io/2017/09/11/prototype1/" target="_blank" rel="external">프로토타입 정리</a></p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=fXIpMyrI3U8" target="_blank" rel="external">프로그래밍 학습의 어려움과 극복하는 방법</a></li>
-</ul>
-</li>
-<li><p>FJ 프로젝트</p>
-<ul>
-<li>메인 사진 추가 및 CSS 변경</li>
-<li>jquery UI calendar 추가 (최신버전은 안되는데 이유는 모르겠다.)</li>
-<li>작업예정 : 전체 작업 후 모듈화 / github 업로드.<a id="more"></a>
-</li>
-</ul>
-</li>
-</ul>
-<h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><ul>
-<li>오전엔 공부, 퇴근 후엔 프로젝트를 만들어야겠다.</li>
-<li>프로토타입, 어제보다 조금 더 이해했다. 이번 주에 제대로 정리 한 번 해야할듯. (호이스팅도..)</li>
-<li>추석 전에 맥북을 사야겠다. 열심히 일하자.</li>
-</ul>
+    <content type="html"><![CDATA[<h4 id="제이쿼리-이메일-체크"><a href="#제이쿼리-이메일-체크" class="headerlink" title="제이쿼리 이메일 체크"></a>제이쿼리 이메일 체크</h4><blockquote>
+<p>자바스크립트를 이용한 이메일 유효성 검사</p>
+</blockquote>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">//html</div><div class="line">&lt;div&gt;</div><div class="line">  &lt;input id=&quot;txtEmail&quot; class=&quot;email-box&quot; type=&quot;text&quot; placeholder=&quot;이메일 주소&quot; name=&quot;email&quot; value=&quot;&quot;&gt;</div><div class="line">  &lt;span class=&quot;address&quot;&gt;이메일을 입력해주세요.&lt;span class=&quot;test&quot;&gt;&lt;/span&gt;&lt;/span&gt;</div><div class="line">&lt;/div&gt;</div></pre></td></tr></table></figure>
+<a id="more"></a>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div></pre></td><td class="code"><pre><div class="line">// 이메일 유효성 검사 함수</div><div class="line">function validateEmail(sEmail) &#123;</div><div class="line">  var filter = /^([\w-\.]+)@((\[[0-9]&#123;1,3&#125;\.[0-9]&#123;1,3&#125;\.[0-9]&#123;1,3&#125;\.)|(([\w-]+\.)+))([a-zA-Z]&#123;2,4&#125;|[0-9]&#123;1,3&#125;)(\]?)$/;</div><div class="line">  if (filter.test(sEmail)) &#123;</div><div class="line">    return true;</div><div class="line">  &#125;</div><div class="line">  else &#123;</div><div class="line">    return false;</div><div class="line">  &#125;</div><div class="line">&#125;</div><div class="line"></div><div class="line">// jquery로 실행</div><div class="line">$(document).ready(function() &#123;</div><div class="line">  // keyup -&gt; #txtEmail에 타이핑 할 때 실행</div><div class="line">  $(&apos;#txtEmail&apos;).keyup(function() &#123;</div><div class="line">    var sEmail = $(&apos;#txtEmail&apos;).val();</div><div class="line">    //trim -&gt; 공백 제거</div><div class="line">    if ($.trim(sEmail).length == 0) &#123;</div><div class="line">      $(&apos;.address&apos;).html(&apos;이메일을 입력해주세요.&apos;);                    // length == 0, 즉 입력하지 않았을 때 출력</div><div class="line">      $(&apos;.email-box&apos;).css(&apos;border-color&apos;,&apos;rgba(255, 70, 70, 0.71)&apos;)  // 틀리거나 없는 경우 border 빨간색으로 변경</div><div class="line">    &#125;</div><div class="line">    else if (validateEmail(sEmail)) &#123;</div><div class="line">      $(&apos;.address&apos;).html(&apos;이메일 주소가 확인되었습니다.&apos;);</div><div class="line">      $(&apos;.email-box&apos;).css(&apos;border-color&apos;,&apos;#d2d2d2&apos;);</div><div class="line">    &#125;</div><div class="line">    else &#123;</div><div class="line">      $(&apos;.address&apos;).html(&apos;이메일을 정확하게 입력해주세요.&apos;);            // 유효성 검사를 통과하지 못했을 때 출력</div><div class="line">      $(&apos;.email-box&apos;).css(&apos;border-color&apos;,&apos;rgba(255, 70, 70, 0.71)&apos;);</div><div class="line">    &#125;</div><div class="line">  &#125;)</div><div class="line">&#125;);</div></pre></td></tr></table></figure>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;프로토타입 공부 - &lt;a href=&quot;https://raven54.github.io/2017/09/11/prototype1/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;프로토타입 정리&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=fXIpMyrI3U8&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;프로그래밍 학습의 어려움과 극복하는 방법&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;FJ 프로젝트&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;메인 사진 추가 및 CSS 변경&lt;/li&gt;
-&lt;li&gt;jquery UI calendar 추가 (최신버전은 안되는데 이유는 모르겠다.)&lt;/li&gt;
-&lt;li&gt;작업예정 : 전체 작업 후 모듈화 / github 업로드.
-    
-    </summary>
-    
-      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
-    
-    
-      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>프로토타입 기본 공부 part.1</title>
-    <link href="http://yoursite.com/2017/09/11/prototype1/"/>
-    <id>http://yoursite.com/2017/09/11/prototype1/</id>
-    <published>2017-09-11T14:15:53.227Z</published>
-    <updated>2017-09-19T13:50:01.429Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><blockquote>
-<p>09.10 ~ 09.11 공부한 프로토타입 정리<br>프로토타입은 object와 link 2가지로 나눠서 이해해야 한다.</p>
-</blockquote>
-<p><strong>1. prototype object</strong></p>
-<ul>
-<li>모든 객체의 조상은 ‘함수’이다.</li>
-<li>함수가 정의될 때는 2가지 일이 동시에 이루어진다. 첫번째는 해당 함수에 constructor(생성자) 자격이 부여되고, 두번째는 해당 함수의 prototype Object가 생성, 연결된다.</li>
-<li>prototype Object는 constructor와 _ _proto__ 를 가지고 있고, 일반적인 객체와 같다.<a id="more"></a></li>
-<li>X는 Y인 경우 프로토타입을 사용하기 좋은 기회가 된다.</li>
-<li>상속. 상속은 우리가 다른 클래스의 속성과 메소드를 확인하고 사용할 수 있게 해준다.</li>
-</ul>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">// 정확하게 같지는 않지만 비슷하다.</div><div class="line">var obj = &#123;&#125;;</div><div class="line">var obj = new Object();</div></pre></td></tr></table></figure>
-<blockquote>
-<p>codecademy prototype Example 추가(17.09.19)</p>
-</blockquote>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div></pre></td><td class="code"><pre><div class="line">function Animal(name, numLegs) &#123;</div><div class="line">  this.name = name;</div><div class="line">  this.numLegs = numLegs;</div><div class="line">&#125;;</div><div class="line"></div><div class="line">Animal.prototype.sayName = function() &#123;</div><div class="line">  console.log(&quot;Hi my name is &quot; + this.name);</div><div class="line">&#125;;</div><div class="line"></div><div class="line">var Penguin = function(name) &#123;</div><div class="line">  this.name = name;</div><div class="line">  this.numLegs = 2;</div><div class="line">&#125;;</div><div class="line"></div><div class="line">Penguin.prototype = new Animal();</div><div class="line"></div><div class="line">var penguin = new Penguin(&quot;penguin&quot;);</div><div class="line">penguin.sayName();</div></pre></td></tr></table></figure>
-<ul>
-<li>출력<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">&quot;Hi my name is penguin&quot;</div></pre></td></tr></table></figure>
-</li>
-</ul>
-<p><strong>2. prototype link</strong></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;blockquote&gt;
-&lt;p&gt;09.10 ~ 09.11 공부한 프로토타입 정리&lt;br&gt;프로토타입은 object와 link 2가지로 나눠서 이해해야 한다.&lt;/p&gt;
+      &lt;h4 id=&quot;제이쿼리-이메일-체크&quot;&gt;&lt;a href=&quot;#제이쿼리-이메일-체크&quot; class=&quot;headerlink&quot; title=&quot;제이쿼리 이메일 체크&quot;&gt;&lt;/a&gt;제이쿼리 이메일 체크&lt;/h4&gt;&lt;blockquote&gt;
+&lt;p&gt;자바스크립트를 이용한 이메일 유효성 검사&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;1. prototype object&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;모든 객체의 조상은 ‘함수’이다.&lt;/li&gt;
-&lt;li&gt;함수가 정의될 때는 2가지 일이 동시에 이루어진다. 첫번째는 해당 함수에 constructor(생성자) 자격이 부여되고, 두번째는 해당 함수의 prototype Object가 생성, 연결된다.&lt;/li&gt;
-&lt;li&gt;prototype Object는 constructor와 _ _proto__ 를 가지고 있고, 일반적인 객체와 같다.
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;3&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;4&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;5&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;//html&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&amp;lt;div&amp;gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;  &amp;lt;input id=&amp;quot;txtEmail&amp;quot; class=&amp;quot;email-box&amp;quot; type=&amp;quot;text&amp;quot; placeholder=&amp;quot;이메일 주소&amp;quot; name=&amp;quot;email&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;  &amp;lt;span class=&amp;quot;address&amp;quot;&amp;gt;이메일을 입력해주세요.&amp;lt;span class=&amp;quot;test&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&amp;lt;/div&amp;gt;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
     
     </summary>
     
-      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
+      <category term="javascript" scheme="http://yoursite.com/categories/javascript/"/>
     
     
-      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
+      <category term="javascript, jquery" scheme="http://yoursite.com/tags/javascript-jquery/"/>
     
   </entry>
   
