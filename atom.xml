@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-26T14:08:24.000Z</updated>
+  <updated>2017-09-28T09:36:04.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,16 +16,46 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test</title>
-    <link href="http://yoursite.com/2017/09/26/test/"/>
-    <id>http://yoursite.com/2017/09/26/test/</id>
-    <published>2017-09-26T14:08:24.000Z</published>
-    <updated>2017-09-26T14:08:24.000Z</updated>
+    <title>170927-TIL</title>
+    <link href="http://yoursite.com/2017/09/28/170927-TIL/"/>
+    <id>http://yoursite.com/2017/09/28/170927-TIL/</id>
+    <published>2017-09-28T09:29:26.000Z</published>
+    <updated>2017-09-28T09:36:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
+<li>하이브아레나 Tech meetup 참가</li>
+</ul>
+<h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><ul>
+<li>meetup이 대부분 영어로 진행되서 이해하기 어려웠지만 초보자인 나에게 도움되는 조언을 많이 해주셨다.</li>
+<li>현업 개발자, 고수분들이 많아서 배울 점이 많다.</li>
+<li>좋은 사람들을 많이 만났다. javascript 스터디에도 참가해야겠다.</li>
+<li>영어회화 연습을 많이 해야겠다.. 영어실력이 부족해서 하지못한 얘기가 너무 많다.</li>
+</ul>
+<a id="more"></a>
+<h4 id="내일-할-일"><a href="#내일-할-일" class="headerlink" title="내일 할 일"></a>내일 할 일</h4><ul>
+<li>코드카데미 javascript / jquery 파트</li>
+<li>hexo 오류수정</li>
+</ul>
+]]></content>
     
     <summary type="html">
     
+      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;하이브아레나 Tech meetup 참가&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;회고&quot;&gt;&lt;a href=&quot;#회고&quot; class=&quot;headerlink&quot; title=&quot;회고&quot;&gt;&lt;/a&gt;회고&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;meetup이 대부분 영어로 진행되서 이해하기 어려웠지만 초보자인 나에게 도움되는 조언을 많이 해주셨다.&lt;/li&gt;
+&lt;li&gt;현업 개발자, 고수분들이 많아서 배울 점이 많다.&lt;/li&gt;
+&lt;li&gt;좋은 사람들을 많이 만났다. javascript 스터디에도 참가해야겠다.&lt;/li&gt;
+&lt;li&gt;영어회화 연습을 많이 해야겠다.. 영어실력이 부족해서 하지못한 얘기가 너무 많다.&lt;/li&gt;
+&lt;/ul&gt;
+    
     </summary>
     
+      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
+    
+    
+      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
     
   </entry>
   
