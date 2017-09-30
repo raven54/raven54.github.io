@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-28T09:36:04.000Z</updated>
+  <updated>2017-09-30T13:11:45.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,53 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>170928 ~ 170930-TIL</title>
+    <link href="http://yoursite.com/2017/09/30/170930-TIL/"/>
+    <id>http://yoursite.com/2017/09/30/170930-TIL/</id>
+    <published>2017-09-30T12:55:24.000Z</published>
+    <updated>2017-09-30T13:11:45.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="공부"><a href="#공부" class="headerlink" title="공부"></a>공부</h4><ul>
+<li>CSS방법론 : SMACSS, BEM, OOGSS</li>
+<li>웹접근성/웹표준 : WAI-ARIA</li>
+</ul>
+<blockquote>
+<p>CSS방법론, 나중에 협업 할 때 분명히 필요한 부분인 것 같다. 어떤 방법론이 가장 효율적인지는 아직 모르겠다.<br>이번 프로젝트에서 웹표준 적용을 제대로 해봐야겠다.</p>
+</blockquote>
+<a id="more"></a>
+<h4 id="작업내용"><a href="#작업내용" class="headerlink" title="작업내용"></a>작업내용</h4><ul>
+<li>메인페이지 FJ 모바일 / 태블릿 반응형 적용<ul>
+<li>header / footer 완성</li>
+<li>CSS 수정</li>
+<li>bxslider 수정필요</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>드디어 메인페이지 반응형 작업이 마무리 단계에 들어섰다. 아직 할 일이 산더미지만 끝이 보인다.<br>프로젝트가 완성되면 지금까지 만든 레이아웃을 나중에 다시 쓸 수 있게 모듈화 하는 작업도 해봐야겠다. 하다보니 많이 느는 것 같다.</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;공부&quot;&gt;&lt;a href=&quot;#공부&quot; class=&quot;headerlink&quot; title=&quot;공부&quot;&gt;&lt;/a&gt;공부&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;CSS방법론 : SMACSS, BEM, OOGSS&lt;/li&gt;
+&lt;li&gt;웹접근성/웹표준 : WAI-ARIA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;CSS방법론, 나중에 협업 할 때 분명히 필요한 부분인 것 같다. 어떤 방법론이 가장 효율적인지는 아직 모르겠다.&lt;br&gt;이번 프로젝트에서 웹표준 적용을 제대로 해봐야겠다.&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
+    
+    
+      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
+    
+  </entry>
   
   <entry>
     <title>170927-TIL</title>
@@ -1007,37 +1054,6 @@
     
     
       <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>제이쿼리 이메일 체크</title>
-    <link href="http://yoursite.com/2017/09/16/email-validate-js/"/>
-    <id>http://yoursite.com/2017/09/16/email-validate-js/</id>
-    <published>2017-09-16T14:19:50.000Z</published>
-    <updated>2017-09-16T14:19:50.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="제이쿼리-이메일-체크"><a href="#제이쿼리-이메일-체크" class="headerlink" title="제이쿼리 이메일 체크"></a>제이쿼리 이메일 체크</h4><blockquote>
-<p>자바스크립트를 이용한 이메일 유효성 검사</p>
-</blockquote>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">//html</div><div class="line">&lt;div&gt;</div><div class="line">  &lt;input id=&quot;txtEmail&quot; class=&quot;email-box&quot; type=&quot;text&quot; placeholder=&quot;이메일 주소&quot; name=&quot;email&quot; value=&quot;&quot;&gt;</div><div class="line">  &lt;span class=&quot;address&quot;&gt;이메일을 입력해주세요.&lt;span class=&quot;test&quot;&gt;&lt;/span&gt;&lt;/span&gt;</div><div class="line">&lt;/div&gt;</div></pre></td></tr></table></figure>
-<a id="more"></a>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div></pre></td><td class="code"><pre><div class="line">// 이메일 유효성 검사 함수</div><div class="line">function validateEmail(sEmail) &#123;</div><div class="line">  var filter = /^([\w-\.]+)@((\[[0-9]&#123;1,3&#125;\.[0-9]&#123;1,3&#125;\.[0-9]&#123;1,3&#125;\.)|(([\w-]+\.)+))([a-zA-Z]&#123;2,4&#125;|[0-9]&#123;1,3&#125;)(\]?)$/;</div><div class="line">  if (filter.test(sEmail)) &#123;</div><div class="line">    return true;</div><div class="line">  &#125;</div><div class="line">  else &#123;</div><div class="line">    return false;</div><div class="line">  &#125;</div><div class="line">&#125;</div><div class="line"></div><div class="line">// jquery로 실행</div><div class="line">$(document).ready(function() &#123;</div><div class="line">  // keyup -&gt; #txtEmail에 타이핑 할 때 실행</div><div class="line">  $(&apos;#txtEmail&apos;).keyup(function() &#123;</div><div class="line">    var sEmail = $(&apos;#txtEmail&apos;).val();</div><div class="line">    //trim -&gt; 공백 제거</div><div class="line">    if ($.trim(sEmail).length == 0) &#123;</div><div class="line">      $(&apos;.address&apos;).html(&apos;이메일을 입력해주세요.&apos;);                    // length == 0, 즉 입력하지 않았을 때 출력</div><div class="line">      $(&apos;.email-box&apos;).css(&apos;border-color&apos;,&apos;rgba(255, 70, 70, 0.71)&apos;)  // 틀리거나 없는 경우 border 빨간색으로 변경</div><div class="line">    &#125;</div><div class="line">    else if (validateEmail(sEmail)) &#123;</div><div class="line">      $(&apos;.address&apos;).html(&apos;이메일 주소가 확인되었습니다.&apos;);</div><div class="line">      $(&apos;.email-box&apos;).css(&apos;border-color&apos;,&apos;#d2d2d2&apos;);</div><div class="line">    &#125;</div><div class="line">    else &#123;</div><div class="line">      $(&apos;.address&apos;).html(&apos;이메일을 정확하게 입력해주세요.&apos;);            // 유효성 검사를 통과하지 못했을 때 출력</div><div class="line">      $(&apos;.email-box&apos;).css(&apos;border-color&apos;,&apos;rgba(255, 70, 70, 0.71)&apos;);</div><div class="line">    &#125;</div><div class="line">  &#125;)</div><div class="line">&#125;);</div></pre></td></tr></table></figure>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;제이쿼리-이메일-체크&quot;&gt;&lt;a href=&quot;#제이쿼리-이메일-체크&quot; class=&quot;headerlink&quot; title=&quot;제이쿼리 이메일 체크&quot;&gt;&lt;/a&gt;제이쿼리 이메일 체크&lt;/h4&gt;&lt;blockquote&gt;
-&lt;p&gt;자바스크립트를 이용한 이메일 유효성 검사&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;3&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;4&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;5&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;//html&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&amp;lt;div&amp;gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;  &amp;lt;input id=&amp;quot;txtEmail&amp;quot; class=&amp;quot;email-box&amp;quot; type=&amp;quot;text&amp;quot; placeholder=&amp;quot;이메일 주소&amp;quot; name=&amp;quot;email&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;  &amp;lt;span class=&amp;quot;address&amp;quot;&amp;gt;이메일을 입력해주세요.&amp;lt;span class=&amp;quot;test&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&amp;lt;/div&amp;gt;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-    
-    </summary>
-    
-      <category term="javascript" scheme="http://yoursite.com/categories/javascript/"/>
-    
-    
-      <category term="javascript, jquery" scheme="http://yoursite.com/tags/javascript-jquery/"/>
     
   </entry>
   
