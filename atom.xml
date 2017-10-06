@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-30T13:11:45.000Z</updated>
+  <updated>2017-10-06T14:01:45.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,41 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>171006-TIL</title>
+    <link href="http://yoursite.com/2017/10/06/171006-TIL/"/>
+    <id>http://yoursite.com/2017/10/06/171006-TIL/</id>
+    <published>2017-10-06T14:00:40.000Z</published>
+    <updated>2017-10-06T14:01:45.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="작업내용"><a href="#작업내용" class="headerlink" title="작업내용"></a>작업내용</h4><ul>
+<li>포트폴리오 사이트<ul>
+<li>레이아웃 30% 완성</li>
+<li>레이아웃 디자인 작업중</li>
+<li>전체작업 15% 완료<a id="more"></a>
+</li>
+</ul>
+</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;작업내용&quot;&gt;&lt;a href=&quot;#작업내용&quot; class=&quot;headerlink&quot; title=&quot;작업내용&quot;&gt;&lt;/a&gt;작업내용&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;포트폴리오 사이트&lt;ul&gt;
+&lt;li&gt;레이아웃 30% 완성&lt;/li&gt;
+&lt;li&gt;레이아웃 디자인 작업중&lt;/li&gt;
+&lt;li&gt;전체작업 15% 완료
+    
+    </summary>
+    
+      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
+    
+    
+      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
+    
+  </entry>
   
   <entry>
     <title>170928 ~ 170930-TIL</title>
@@ -998,55 +1033,6 @@
 &lt;li&gt;&lt;a href=&quot;https://raven54.github.io/2017/09/14/email-validate-js/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;회원가입 Form 유효성 검사&lt;/a&gt; 추가&lt;/li&gt;
 &lt;li&gt;메인페이지 slick-slider 틀 추가&lt;/li&gt;
 &lt;li&gt;activity 페이지 CSS 변경
-    
-    </summary>
-    
-      <category term="TIL" scheme="http://yoursite.com/categories/TIL/"/>
-    
-    
-      <category term="javascript" scheme="http://yoursite.com/tags/javascript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>170916-TIL</title>
-    <link href="http://yoursite.com/2017/09/16/170916-TIL/"/>
-    <id>http://yoursite.com/2017/09/16/170916-TIL/</id>
-    <published>2017-09-16T14:20:07.000Z</published>
-    <updated>2017-09-16T14:20:07.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="오늘-한-일"><a href="#오늘-한-일" class="headerlink" title="오늘 한 일"></a>오늘 한 일</h4><ul>
-<li>Codecademy 문제풀기<ul>
-<li><a href="https://raven54.github.io/2017/09/16/js-fizzbuzz/" target="_blank" rel="external">Fizzbuzz 문제</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li style="list-style: none"><input type="checkbox" checked> 개발공부용 노트 구매</li>
-</ul>
-<h4 id="회고"><a href="#회고" class="headerlink" title="회고"></a>회고</h4><ul>
-<li><p>오전에 잠깐 공부하고 푹 쉬었다.</p>
-<a id="more"></a>
-</li>
-</ul>
-<h4 id="내일-할-일"><a href="#내일-할-일" class="headerlink" title="내일 할 일"></a>내일 할 일</h4><ul>
-<li>codecademy 문제 풀기 - <a href="https://www.codecademy.com/ko/courses/javascript-beginner-ko/0/3?curriculum_id=53b5dbb5fed2a81590000001" target="_blank" rel="external">객체(Object) 입문 I</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#오늘-한-일&quot; class=&quot;headerlink&quot; title=&quot;오늘 한 일&quot;&gt;&lt;/a&gt;오늘 한 일&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;Codecademy 문제풀기&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://raven54.github.io/2017/09/16/js-fizzbuzz/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Fizzbuzz 문제&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt; 개발공부용 노트 구매&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&quot;회고&quot;&gt;&lt;a href=&quot;#회고&quot; class=&quot;headerlink&quot; title=&quot;회고&quot;&gt;&lt;/a&gt;회고&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;오전에 잠깐 공부하고 푹 쉬었다.&lt;/p&gt;
     
     </summary>
     
